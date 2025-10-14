@@ -641,22 +641,73 @@ body {
   }
 }
 
-/* Custom scrollbar */
-::-webkit-scrollbar {
-  width: 8px;
+/* Custom animations */
+@keyframes float {
+
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+
+  50% {
+    transform: translateY(-10px);
+  }
 }
 
-::-webkit-scrollbar-track {
-  background-color: #f3f4f6;
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
-::-webkit-scrollbar-thumb {
-  background-color: #d1d5db;
-  border-radius: 9999px;
+@keyframes slide-in {
+  from {
+    width: 0;
+  }
+
+  to {
+    width: 6rem;
+  }
 }
 
-::-webkit-scrollbar-thumb:hover {
-  background-color: #9ca3af;
+@keyframes bounce-gentle {
+
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-5px);
+  }
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+.animate-float-delayed {
+  animation: float 4s ease-in-out infinite;
+  animation-delay: 1s;
+}
+
+.animate-fade-in-up {
+  animation: fade-in-up 0.8s ease-out forwards;
+  opacity: 0;
+}
+
+.animate-slide-in {
+  animation: slide-in 0.8s ease-out forwards;
+}
+
+.animate-bounce-gentle {
+  animation: bounce-gentle 2s ease-in-out infinite;
 }
 
 /* Custom slider styles */
@@ -814,22 +865,129 @@ body {
   }
 }
 
-button:focus,
-button:focus-visible {
-  outline: 4px auto -webkit-focus-ring-color;
+/* Mobile-first responsive design */
+@media (max-width: 640px) {
+  .container {
+    padding: 0 1rem;
+  }
+
+  /* Header adjustments for mobile */
+  .text-4xl {
+    font-size: 2rem;
+    line-height: 2.25rem;
+  }
+
+  .text-3xl {
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
+
+  .text-2xl {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+  }
+
+  /* Better spacing on mobile */
+  .mb-12 {
+    margin-bottom: 2rem;
+  }
+
+  .mb-8 {
+    margin-bottom: 1.5rem;
+  }
+
+  .mb-6 {
+    margin-bottom: 1.25rem;
+  }
+
+  .p-8 {
+    padding: 1.5rem;
+  }
+
+  .p-6 {
+    padding: 1.25rem;
+  }
+
+  /* Touch-friendly buttons */
+  button,
+  .touch-target {
+    min-height: 44px;
+    min-width: 44px;
+  }
+
+  /* Slider improvements for mobile */
+  .slider {
+    height: 1rem;
+  }
+
+  .slider::-webkit-slider-thumb {
+    width: 2rem;
+    height: 2rem;
+  }
+
+  .slider::-moz-range-thumb {
+    width: 2rem;
+    height: 2rem;
+  }
+
+  /* Grid adjustments for mobile */
+  .grid {
+    gap: 0.75rem;
+  }
+
+  .gap-8 {
+    gap: 1rem;
+  }
+
+  .gap-12 {
+    gap: 1.5rem;
+  }
+
+  /* Product cards spacing */
+  .space-y-8>*+* {
+    margin-top: 1.5rem;
+  }
+
+  /* Input improvements */
+  input[type="url"],
+  input[type="file"] {
+    font-size: 16px;
+    /* Prevents zoom on iOS */
+  }
+
+  /* Logo and header layout */
+  .inline-flex.items-center.justify-center.mb-6 {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .inline-flex.items-center.justify-center.mb-6 img {
+    margin-right: 0;
+    margin-bottom: 0.5rem;
+  }
 }
 
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
+@media (max-width: 480px) {
+
+  /* Extra small screens */
+  .container {
+    padding: 0 0.75rem;
   }
 
-  a:hover {
-    color: #747bff;
+  .text-4xl {
+    font-size: 1.75rem;
+    line-height: 2rem;
   }
 
-  button {
-    background-color: #f9f9f9;
+  .p-8 {
+    padding: 1rem;
+  }
+
+  .gap-8 {
+    gap: 0.75rem;
+  }
+
+  .gap-12 {
+    gap: 1rem;
   }
 }

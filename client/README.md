@@ -1,8 +1,8 @@
-# Visual Product Matcher
+# Pixel Match
 
 A modern, client-side web application that finds visually similar products using perceptual hashing technology. Upload an image or paste a URL to discover matching items from a curated product catalog.
 
-![Visual Product Matcher](https://img.shields.io/badge/React-19.1.1-blue) ![Vite](https://img.shields.io/badge/Vite-7.1.10-646CFF) ![ESLint](https://img.shields.io/badge/ESLint-9.36.0-4B32C3)
+![Pixel Match](https://img.shields.io/badge/React-19.1.1-blue) ![Vite](https://img.shields.io/badge/Vite-7.1.10-646CFF) ![ESLint](https://img.shields.io/badge/ESLint-9.36.0-4B32C3)
 
 ## ✨ Features
 
@@ -12,7 +12,7 @@ A modern, client-side web application that finds visually similar products using
 - **🎛️ Adjustable Similarity**: Fine-tune matching sensitivity with a threshold slider
 - **📱 Responsive Design**: Works seamlessly on desktop and mobile devices
 - **🚀 Offline Capable**: No server dependencies - runs entirely in the browser
-- **🎨 Modern UI**: Clean, intuitive interface with smooth animations
+- **🎨 Modern UI**: Clean, intuitive interface with smooth animations and pixel-perfect design
 
 ## 🚀 Quick Start
 
@@ -66,10 +66,10 @@ A modern, client-side web application that finds visually similar products using
 ```
 client/
 ├── public/
-│   └── vite.svg
+│   └── pixel-match-logo.svg
 ├── src/
 │   ├── components/
-│   │   └── ImageUploader.jsx     # Main application component
+│   │   └── ImageMatcher.jsx     # Main application component
 │   ├── data/
 │   │   ├── precomputedhashes.json # Precomputed product hashes
 │   │   └── products.json          # Original product data

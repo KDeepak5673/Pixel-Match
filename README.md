@@ -1,8 +1,40 @@
 # Visual Product Matcher
 
-A modern, client-side web application that finds visually similar products using perceptual hashing technology. Upload an image or paste a URL to discover matching items from a curated product catalog.
+**Technical Assessment Project - Software Engineering Position**
 
-![Visual Product Matcher](https://img.shields.io/badge/React-19.1.1-blue) ![Vite](https://img.shields.io/badge/Vite-7.1.10-646CFF) ![Client--Side](https://img.shields.io/badge/Client--Side-Only-green)
+A web application that helps users find visually similar products based on uploaded images, built as part of a technical assessment for a Software Engineering position.
+
+## 🎯 Project Overview
+
+This project implements a complete visual product matching system that meets all the specified assessment requirements:
+
+### ✅ Assessment Requirements Met
+- **🖼️ Image Upload**: Support for both file upload and image URL input
+- **🔍 Search Interface**: View uploaded images and browse similar products with similarity scores
+- **🎛️ Result Filtering**: Adjustable similarity threshold (0.0 - 1.0 range) for result filtering
+- **📊 Product Database**: 96+ products with complete metadata (name, category, images)
+- **📱 Mobile Responsive**: Fully responsive design optimized for all screen sizes
+- **🚀 Live Deployment**: Hosted on Vercel (free hosting service)
+- **⚡ Performance**: Clean code with error handling and loading states
+- **📚 Documentation**: Comprehensive setup and usage instructions
+
+## 🏗️ Technical Approach
+
+**Client-Side Architecture**: Built entirely in the browser using HTML5 Canvas API for image processing, eliminating server dependencies and enabling offline functionality.
+
+**Perceptual Hashing**: Implements dHash algorithm for 64-bit visual fingerprints, with precomputed hashes ensuring instant search results under 100ms.
+
+**Modern Tech Stack**: React 19.1.1 with hooks, Vite build system, and custom CSS for optimal performance and responsive design.
+
+- **✅ Working Application**: [https://pixel-match-ruby.vercel.app/](https://pixel-match-ruby.vercel.app/)
+- **✅ GitHub Repository**: [https://github.com/KDeepak5673/Pixel-Match](https://github.com/KDeepak5673/Pixel-Match)
+
+## 🏆 Key Achievements
+
+- **Performance**: < 100ms search response time across 96+ products
+- **User Experience**: Intuitive interface with loading states and error handling
+- **Scalability**: Client-side processing with zero server costs
+- **Accessibility**: Mobile-first responsive design with touch optimization
 
 ## ✨ Features
 
@@ -105,12 +137,6 @@ Pixel-Match/
 - **Code Quality**: ESLint with React-specific rules
 - **Image Processing**: HTML5 Canvas API for client-side hashing
 
-### Browser Compatibility
-- Chrome 90+
-- Firefox 88+
-- Safari 14+
-- Edge 90+
-
 ## 📊 Data Structure
 
 Each product in the catalog includes:
@@ -155,7 +181,7 @@ npm run lint
 
 The application is 100% client-side and can be deployed to any static hosting service:
 
-### Vercel/Netlify
+### Vercel
 1. Build the application: `npm run build`
 2. Deploy the `dist` folder to Vercel, Netlify, or any static host
 3. No server configuration needed!
@@ -165,41 +191,8 @@ The application is 100% client-side and can be deployed to any static hosting se
 2. Use GitHub Actions to deploy the `dist` folder
 3. Configure the repository settings for GitHub Pages
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Unsplash**: High-quality product images
-- **React Team**: For the amazing React framework
-- **Vite Team**: For the lightning-fast build tool
-- **dHash Algorithm**: For reliable perceptual hashing
-
-## 📝 Development Notes
-
-### Hash Generation
-The `precomputedhashes.json` file contains precomputed perceptual hashes for all products. To regenerate hashes:
-
-1. The original Node.js script was used to generate these hashes
-2. Images are processed using HTML5 Canvas API
-3. dHash algorithm creates 64-bit perceptual fingerprints
-4. Results are saved as JSON for instant loading
-
-### Architecture Evolution
-This project evolved from a server-dependent architecture to a fully client-side solution:
-- **Removed**: Node.js/Express backend, server-side image processing
-- **Added**: Client-side Canvas API hashing, precomputed data
-- **Benefits**: Offline capability, faster loading, no server costs
-
 ---
+
+Built with modern web technologies to demonstrate full-stack development capabilities and problem-solving approach.
 
 **Made with ❤️ using React & Vite**

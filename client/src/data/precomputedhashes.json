@@ -1,0 +1,1154 @@
+[
+  {
+    "id": "prod_001",
+    "name": "Ceramic Coffee Mug White",
+    "category": "mugs",
+    "imageUrl": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=800&h=800&fit=crop&auto=format",
+    "hash": "bf1fe17a7864797b",
+    "avgColor": [
+      0.7725490196078432,
+      0.7607843137254902,
+      0.7294117647058823
+    ]
+  },
+  {
+    "id": "prod_002",
+    "name": "Modern Desk Lamp LED",
+    "category": "lamps",
+    "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=800&fit=crop&auto=format",
+    "hash": "49495462493b133f",
+    "avgColor": [
+      0.7568627450980392,
+      0.5686274509803921,
+      0.5333333333333333
+    ]
+  },
+  {
+    "id": "prod_004",
+    "name": "Ergonomic Office Chair Black",
+    "category": "chairs",
+    "imageUrl": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=800&fit=crop&auto=format",
+    "hash": "010101054d622201",
+    "avgColor": [
+      0.788235294117647,
+      0.6862745098039216,
+      0.4549019607843137
+    ]
+  },
+  {
+    "id": "prod_005",
+    "name": "Vintage Leather Watch Brown",
+    "category": "watches",
+    "imageUrl": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=800&h=800&fit=crop&auto=format",
+    "hash": "3f27b05cdaf0cc14",
+    "avgColor": [
+      0.49019607843137253,
+      0.4627450980392157,
+      0.45098039215686275
+    ]
+  },
+  {
+    "id": "prod_006",
+    "name": "Wireless Headphones Black",
+    "category": "headphones",
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&h=800&fit=crop&auto=format",
+    "hash": "0f0c17173333360e",
+    "avgColor": [
+      0.33725490196078434,
+      0.32941176470588235,
+      0.36470588235294116
+    ]
+  },
+  {
+    "id": "prod_007",
+    "name": "MacBook Pro 16-inch Silver",
+    "category": "laptops",
+    "imageUrl": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800&h=800&fit=crop&auto=format",
+    "hash": "033c3371e04b450a",
+    "avgColor": [
+      0.25098039215686274,
+      0.30196078431372547,
+      0.3607843137254902
+    ]
+  },
+  {
+    "id": "prod_008",
+    "name": "iPhone 15 Pro Max Titanium",
+    "category": "phones",
+    "imageUrl": "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=800&h=800&fit=crop&auto=format",
+    "hash": "3f2f6b736b4b6b4f",
+    "avgColor": [
+      0.17647058823529413,
+      0.023529411764705882,
+      0.03137254901960784
+    ]
+  },
+  {
+    "id": "prod_009",
+    "name": "Designer Handbag Leather",
+    "category": "bags",
+    "imageUrl": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&h=800&fit=crop&auto=format",
+    "hash": "036383838180c2c7",
+    "avgColor": [
+      0.21568627450980393,
+      0.2549019607843137,
+      0.35294117647058826
+    ]
+  },
+  {
+    "id": "prod_010",
+    "name": "LED Floor Lamp Modern",
+    "category": "lamps",
+    "imageUrl": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=800&h=800&fit=crop&auto=format",
+    "hash": "3dffff7fff7fffff",
+    "avgColor": [
+      0.13333333333333333,
+      0.3607843137254902,
+      0.3843137254901961
+    ]
+  },
+  {
+    "id": "prod_011",
+    "name": "Air Max Sneakers White",
+    "category": "shoes",
+    "imageUrl": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=800&h=800&fit=crop&auto=format",
+    "hash": "ce8548a562d0b61d",
+    "avgColor": [
+      0.5137254901960784,
+      0.2980392156862745,
+      0.15294117647058825
+    ]
+  },
+  {
+    "id": "prod_012",
+    "name": "Smart Watch Fitness",
+    "category": "watches",
+    "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&h=800&fit=crop&auto=format",
+    "hash": "00061c10326c8800",
+    "avgColor": [
+      0.12156862745098039,
+      0.12156862745098039,
+      0.12156862745098039
+    ]
+  },
+  {
+    "id": "prod_013",
+    "name": "Studio Headphones Professional",
+    "category": "headphones",
+    "imageUrl": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=800&h=800&fit=crop&auto=format",
+    "hash": "cfc006673b47610c",
+    "avgColor": [
+      0.19215686274509805,
+      0.24313725490196078,
+      0.37254901960784315
+    ]
+  },
+  {
+    "id": "prod_014",
+    "name": "Gaming Laptop RGB Keyboard",
+    "category": "laptops",
+    "imageUrl": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800&h=800&fit=crop&auto=format",
+    "hash": "00004c4c57c47171",
+    "avgColor": [
+      0.1803921568627451,
+      0.4196078431372549,
+      0.7176470588235294
+    ]
+  },
+  {
+    "id": "prod_015",
+    "name": "Samsung Galaxy S24 Ultra",
+    "category": "phones",
+    "imageUrl": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=800&h=800&fit=crop&auto=format",
+    "hash": "0303050545124803",
+    "avgColor": [
+      0.3215686274509804,
+      0.3215686274509804,
+      0.3215686274509804
+    ]
+  },
+  {
+    "id": "prod_016",
+    "name": "Canvas Tote Bag Natural",
+    "category": "bags",
+    "imageUrl": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?w=800&h=800&fit=crop&auto=format",
+    "hash": "07073159eac6c08a",
+    "avgColor": [
+      0.6901960784313725,
+      0.396078431372549,
+      0.3686274509803922
+    ]
+  },
+  {
+    "id": "prod_017",
+    "name": "Dining Chair Wooden",
+    "category": "chairs",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=800&h=800&fit=crop&auto=format",
+    "hash": "3f3f3f65653b2b3b",
+    "avgColor": [
+      0.8509803921568627,
+      0.8431372549019608,
+      0.792156862745098
+    ]
+  },
+  {
+    "id": "prod_018",
+    "name": "Espresso Cup Porcelain",
+    "category": "mugs",
+    "imageUrl": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=800&fit=crop&auto=format",
+    "hash": "679595ace140131b",
+    "avgColor": [
+      0.10980392156862745,
+      0.10980392156862745,
+      0.10980392156862745
+    ]
+  },
+  {
+    "id": "prod_019",
+    "name": "Table Lamp Architectural",
+    "category": "lamps",
+    "imageUrl": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=800&fit=crop&auto=format",
+    "hash": "010101054d622201",
+    "avgColor": [
+      0.788235294117647,
+      0.6862745098039216,
+      0.4549019607843137
+    ]
+  },
+  {
+    "id": "prod_020",
+    "name": "Converse High Top Shoes",
+    "category": "shoes",
+    "imageUrl": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=800&h=800&fit=crop&auto=format",
+    "hash": "1e3a39671f374063",
+    "avgColor": [
+      0.8784313725490196,
+      0.8352941176470589,
+      0.8705882352941177
+    ]
+  },
+  {
+    "id": "prod_021",
+    "name": "Luxury Watch Gold",
+    "category": "watches",
+    "imageUrl": "https://images.unsplash.com/photo-1547996160-81dfa63595aa?w=800&h=800&fit=crop&auto=format",
+    "hash": "0305171f132515c7",
+    "avgColor": [
+      0.6313725490196078,
+      0.5607843137254902,
+      0.5411764705882353
+    ]
+  },
+  {
+    "id": "prod_022",
+    "name": "Noise Cancelling Earbuds",
+    "category": "headphones",
+    "imageUrl": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&h=800&fit=crop&auto=format",
+    "hash": "0d61b0c85ca05000",
+    "avgColor": [
+      0.5843137254901961,
+      0.5843137254901961,
+      0.6980392156862745
+    ]
+  },
+  {
+    "id": "prod_023",
+    "name": "Dell XPS 13 Ultrabook",
+    "category": "laptops",
+    "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&h=800&fit=crop&auto=format",
+    "hash": "0f27686065e10397",
+    "avgColor": [
+      0.13333333333333333,
+      0.12941176470588237,
+      0.14901960784313725
+    ]
+  },
+  {
+    "id": "prod_024",
+    "name": "Google Pixel 8 Pro",
+    "category": "phones",
+    "imageUrl": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&h=800&fit=crop&auto=format",
+    "hash": "207a6dd3d3c7eb3b",
+    "avgColor": [
+      0.07450980392156863,
+      0.6862745098039216,
+      0.7686274509803922
+    ]
+  },
+  {
+    "id": "prod_025",
+    "name": "Leather Crossbody Bag",
+    "category": "bags",
+    "imageUrl": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=800&h=800&fit=crop&auto=format",
+    "hash": "6666646476748e86",
+    "avgColor": [
+      0.2235294117647059,
+      0.2549019607843137,
+      0.2901960784313726
+    ]
+  },
+  {
+    "id": "prod_026",
+    "name": "Bar Stool Modern",
+    "category": "chairs",
+    "imageUrl": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&h=800&fit=crop&auto=format",
+    "hash": "000000b213610044",
+    "avgColor": [
+      0.03137254901960784,
+      0.050980392156862744,
+      0.047058823529411764
+    ]
+  },
+  {
+    "id": "prod_027",
+    "name": "Stoneware Beer Mug",
+    "category": "mugs",
+    "imageUrl": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=800&fit=crop&auto=format",
+    "hash": "679595ace140131b",
+    "avgColor": [
+      0.10980392156862745,
+      0.10980392156862745,
+      0.10980392156862745
+    ]
+  },
+  {
+    "id": "prod_028",
+    "name": "Crystal Chandelier Lamp",
+    "category": "lamps",
+    "imageUrl": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=800&h=800&fit=crop&auto=format",
+    "hash": "3dffff7fff7fffff",
+    "avgColor": [
+      0.13333333333333333,
+      0.3607843137254902,
+      0.3843137254901961
+    ]
+  },
+  {
+    "id": "prod_029",
+    "name": "Adidas Ultraboost Shoes",
+    "category": "shoes",
+    "imageUrl": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=800&h=800&fit=crop&auto=format",
+    "hash": "000000061c910000",
+    "avgColor": [
+      0.8392156862745098,
+      0.9529411764705882,
+      0.45098039215686275
+    ]
+  },
+  {
+    "id": "prod_030",
+    "name": "Rolex Submariner Watch",
+    "category": "watches",
+    "imageUrl": "https://images.unsplash.com/photo-1547996160-81dfa63595aa?w=800&h=800&fit=crop&auto=format",
+    "hash": "0305171f132515c7",
+    "avgColor": [
+      0.6313725490196078,
+      0.5607843137254902,
+      0.5411764705882353
+    ]
+  },
+  {
+    "id": "prod_031",
+    "name": "Sony WH-1000XM5 Headphones",
+    "category": "headphones",
+    "imageUrl": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=800&h=800&fit=crop&auto=format",
+    "hash": "1f1f335d5f6d6d68",
+    "avgColor": [
+      0.7764705882352941,
+      0.6627450980392157,
+      0.6
+    ]
+  },
+  {
+    "id": "prod_032",
+    "name": "ASUS ROG Gaming Laptop",
+    "category": "laptops",
+    "imageUrl": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800&h=800&fit=crop&auto=format",
+    "hash": "00004c4c57c47171",
+    "avgColor": [
+      0.1803921568627451,
+      0.4196078431372549,
+      0.7176470588235294
+    ]
+  },
+  {
+    "id": "prod_033",
+    "name": "OnePlus 12 Smartphone",
+    "category": "phones",
+    "imageUrl": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?w=800&h=800&fit=crop&auto=format",
+    "hash": "1f173b0f4b2e1657",
+    "avgColor": [
+      0.6470588235294118,
+      0.5686274509803921,
+      0.5058823529411764
+    ]
+  },
+  {
+    "id": "prod_034",
+    "name": "Gucci Designer Bag",
+    "category": "bags",
+    "imageUrl": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&h=800&fit=crop&auto=format",
+    "hash": "036383838180c2c7",
+    "avgColor": [
+      0.21568627450980393,
+      0.2549019607843137,
+      0.35294117647058826
+    ]
+  },
+  {
+    "id": "prod_035",
+    "name": "Recliner Armchair Leather",
+    "category": "chairs",
+    "imageUrl": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=800&fit=crop&auto=format",
+    "hash": "010101054d622201",
+    "avgColor": [
+      0.788235294117647,
+      0.6862745098039216,
+      0.4549019607843137
+    ]
+  },
+  {
+    "id": "prod_036",
+    "name": "Enamel Camping Mug",
+    "category": "mugs",
+    "imageUrl": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=800&h=800&fit=crop&auto=format",
+    "hash": "bf1fe17a7864797b",
+    "avgColor": [
+      0.7725490196078432,
+      0.7607843137254902,
+      0.7294117647058823
+    ]
+  },
+  {
+    "id": "prod_037",
+    "name": "Industrial Pendant Light",
+    "category": "lamps",
+    "imageUrl": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=800&h=800&fit=crop&auto=format",
+    "hash": "3dffff7fff7fffff",
+    "avgColor": [
+      0.13333333333333333,
+      0.3607843137254902,
+      0.3843137254901961
+    ]
+  },
+  {
+    "id": "prod_038",
+    "name": "Puma Running Shoes",
+    "category": "shoes",
+    "imageUrl": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=800&h=800&fit=crop&auto=format",
+    "hash": "00021b0a3c287040",
+    "avgColor": [
+      0.7529411764705882,
+      0.7529411764705882,
+      0.7529411764705882
+    ]
+  },
+  {
+    "id": "prod_039",
+    "name": "Casio G-Shock Watch",
+    "category": "watches",
+    "imageUrl": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=800&h=800&fit=crop&auto=format",
+    "hash": "3f27b05cdaf0cc14",
+    "avgColor": [
+      0.49019607843137253,
+      0.4627450980392157,
+      0.45098039215686275
+    ]
+  },
+  {
+    "id": "prod_040",
+    "name": "Bose QuietComfort Earbuds",
+    "category": "headphones",
+    "imageUrl": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&h=800&fit=crop&auto=format",
+    "hash": "0d61b0c85ca05000",
+    "avgColor": [
+      0.5843137254901961,
+      0.5843137254901961,
+      0.6980392156862745
+    ]
+  },
+  {
+    "id": "prod_041",
+    "name": "HP Spectre Laptop",
+    "category": "laptops",
+    "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&h=800&fit=crop&auto=format",
+    "hash": "0f27686065e10397",
+    "avgColor": [
+      0.13333333333333333,
+      0.12941176470588237,
+      0.14901960784313725
+    ]
+  },
+  {
+    "id": "prod_042",
+    "name": "Xiaomi 14 Pro Phone",
+    "category": "phones",
+    "imageUrl": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?w=800&h=800&fit=crop&auto=format",
+    "hash": "1f173b0f4b2e1657",
+    "avgColor": [
+      0.6470588235294118,
+      0.5686274509803921,
+      0.5058823529411764
+    ]
+  },
+  {
+    "id": "prod_043",
+    "name": "Prada Shoulder Bag",
+    "category": "bags",
+    "imageUrl": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=800&h=800&fit=crop&auto=format",
+    "hash": "6666646476748e86",
+    "avgColor": [
+      0.2235294117647059,
+      0.2549019607843137,
+      0.2901960784313726
+    ]
+  },
+  {
+    "id": "prod_044",
+    "name": "Eames Plastic Chair",
+    "category": "chairs",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=800&h=800&fit=crop&auto=format",
+    "hash": "3f3f3f65653b2b3b",
+    "avgColor": [
+      0.8509803921568627,
+      0.8431372549019608,
+      0.792156862745098
+    ]
+  },
+  {
+    "id": "prod_045",
+    "name": "Vintage Thermos Mug",
+    "category": "mugs",
+    "imageUrl": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=800&fit=crop&auto=format",
+    "hash": "679595ace140131b",
+    "avgColor": [
+      0.10980392156862745,
+      0.10980392156862745,
+      0.10980392156862745
+    ]
+  },
+  {
+    "id": "prod_046",
+    "name": "Art Deco Floor Lamp",
+    "category": "lamps",
+    "imageUrl": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=800&h=800&fit=crop&auto=format",
+    "hash": "3dffff7fff7fffff",
+    "avgColor": [
+      0.13333333333333333,
+      0.3607843137254902,
+      0.3843137254901961
+    ]
+  },
+  {
+    "id": "prod_047",
+    "name": "Jordan Retro Sneakers",
+    "category": "shoes",
+    "imageUrl": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=800&h=800&fit=crop&auto=format",
+    "hash": "ce8548a562d0b61d",
+    "avgColor": [
+      0.5137254901960784,
+      0.2980392156862745,
+      0.15294117647058825
+    ]
+  },
+  {
+    "id": "prod_048",
+    "name": "Seiko Automatic Watch",
+    "category": "watches",
+    "imageUrl": "https://images.unsplash.com/photo-1547996160-81dfa63595aa?w=800&h=800&fit=crop&auto=format",
+    "hash": "0305171f132515c7",
+    "avgColor": [
+      0.6313725490196078,
+      0.5607843137254902,
+      0.5411764705882353
+    ]
+  },
+  {
+    "id": "prod_049",
+    "name": "JBL Live 400BT Headphones",
+    "category": "headphones",
+    "imageUrl": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=800&h=800&fit=crop&auto=format",
+    "hash": "cfc006673b47610c",
+    "avgColor": [
+      0.19215686274509805,
+      0.24313725490196078,
+      0.37254901960784315
+    ]
+  },
+  {
+    "id": "prod_050",
+    "name": "Lenovo ThinkPad X1",
+    "category": "laptops",
+    "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&h=800&fit=crop&auto=format",
+    "hash": "0f27686065e10397",
+    "avgColor": [
+      0.13333333333333333,
+      0.12941176470588237,
+      0.14901960784313725
+    ]
+  },
+  {
+    "id": "prod_051",
+    "name": "Sony Xperia 1 V",
+    "category": "phones",
+    "imageUrl": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&h=800&fit=crop&auto=format",
+    "hash": "207a6dd3d3c7eb3b",
+    "avgColor": [
+      0.07450980392156863,
+      0.6862745098039216,
+      0.7686274509803922
+    ]
+  },
+  {
+    "id": "prod_052",
+    "name": "Louis Vuitton Speedy Bag",
+    "category": "bags",
+    "imageUrl": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&h=800&fit=crop&auto=format",
+    "hash": "036383838180c2c7",
+    "avgColor": [
+      0.21568627450980393,
+      0.2549019607843137,
+      0.35294117647058826
+    ]
+  },
+  {
+    "id": "prod_053",
+    "name": "Ikea Poang Chair",
+    "category": "chairs",
+    "imageUrl": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=800&fit=crop&auto=format",
+    "hash": "010101054d622201",
+    "avgColor": [
+      0.788235294117647,
+      0.6862745098039216,
+      0.4549019607843137
+    ]
+  },
+  {
+    "id": "prod_054",
+    "name": "Starbucks Reusable Cup",
+    "category": "mugs",
+    "imageUrl": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=800&h=800&fit=crop&auto=format",
+    "hash": "bf1fe17a7864797b",
+    "avgColor": [
+      0.7725490196078432,
+      0.7607843137254902,
+      0.7294117647058823
+    ]
+  },
+  {
+    "id": "prod_055",
+    "name": "Phillips Hue Smart Bulb",
+    "category": "lamps",
+    "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=800&fit=crop&auto=format",
+    "hash": "49495462493b133f",
+    "avgColor": [
+      0.7568627450980392,
+      0.5686274509803921,
+      0.5333333333333333
+    ]
+  },
+  {
+    "id": "prod_057",
+    "name": "Omega Seamaster Watch",
+    "category": "watches",
+    "imageUrl": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=800&h=800&fit=crop&auto=format",
+    "hash": "3f27b05cdaf0cc14",
+    "avgColor": [
+      0.49019607843137253,
+      0.4627450980392157,
+      0.45098039215686275
+    ]
+  },
+  {
+    "id": "prod_058",
+    "name": "Sennheiser HD 206 Headphones",
+    "category": "headphones",
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&h=800&fit=crop&auto=format",
+    "hash": "0f0c17173333360e",
+    "avgColor": [
+      0.33725490196078434,
+      0.32941176470588235,
+      0.36470588235294116
+    ]
+  },
+  {
+    "id": "prod_059",
+    "name": "Microsoft Surface Laptop",
+    "category": "laptops",
+    "imageUrl": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800&h=800&fit=crop&auto=format",
+    "hash": "033c3371e04b450a",
+    "avgColor": [
+      0.25098039215686274,
+      0.30196078431372547,
+      0.3607843137254902
+    ]
+  },
+  {
+    "id": "prod_060",
+    "name": "Asus Zenfone 10",
+    "category": "phones",
+    "imageUrl": "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=800&h=800&fit=crop&auto=format",
+    "hash": "3f2f6b736b4b6b4f",
+    "avgColor": [
+      0.17647058823529413,
+      0.023529411764705882,
+      0.03137254901960784
+    ]
+  },
+  {
+    "id": "prod_061",
+    "name": "Coach Leather Tote",
+    "category": "bags",
+    "imageUrl": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?w=800&h=800&fit=crop&auto=format",
+    "hash": "07073159eac6c08a",
+    "avgColor": [
+      0.6901960784313725,
+      0.396078431372549,
+      0.3686274509803922
+    ]
+  },
+  {
+    "id": "prod_062",
+    "name": "Herman Miller Aeron Chair",
+    "category": "chairs",
+    "imageUrl": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=800&fit=crop&auto=format",
+    "hash": "010101054d622201",
+    "avgColor": [
+      0.788235294117647,
+      0.6862745098039216,
+      0.4549019607843137
+    ]
+  },
+  {
+    "id": "prod_063",
+    "name": "Yeti Rambler Mug",
+    "category": "mugs",
+    "imageUrl": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=800&fit=crop&auto=format",
+    "hash": "679595ace140131b",
+    "avgColor": [
+      0.10980392156862745,
+      0.10980392156862745,
+      0.10980392156862745
+    ]
+  },
+  {
+    "id": "prod_064",
+    "name": "Ikea Hemnes Lamp",
+    "category": "lamps",
+    "imageUrl": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=800&h=800&fit=crop&auto=format",
+    "hash": "3dffff7fff7fffff",
+    "avgColor": [
+      0.13333333333333333,
+      0.3607843137254902,
+      0.3843137254901961
+    ]
+  },
+  {
+    "id": "prod_065",
+    "name": "Vans Old Skool Shoes",
+    "category": "shoes",
+    "imageUrl": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=800&h=800&fit=crop&auto=format",
+    "hash": "1e3a39671f374063",
+    "avgColor": [
+      0.8784313725490196,
+      0.8352941176470589,
+      0.8705882352941177
+    ]
+  },
+  {
+    "id": "prod_066",
+    "name": "Tissot Le Locle Watch",
+    "category": "watches",
+    "imageUrl": "https://images.unsplash.com/photo-1547996160-81dfa63595aa?w=800&h=800&fit=crop&auto=format",
+    "hash": "0305171f132515c7",
+    "avgColor": [
+      0.6313725490196078,
+      0.5607843137254902,
+      0.5411764705882353
+    ]
+  },
+  {
+    "id": "prod_067",
+    "name": "Audio-Technica ATH-S200BT",
+    "category": "headphones",
+    "imageUrl": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=800&h=800&fit=crop&auto=format",
+    "hash": "cfc006673b47610c",
+    "avgColor": [
+      0.19215686274509805,
+      0.24313725490196078,
+      0.37254901960784315
+    ]
+  },
+  {
+    "id": "prod_068",
+    "name": "Razer Blade 15 Laptop",
+    "category": "laptops",
+    "imageUrl": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800&h=800&fit=crop&auto=format",
+    "hash": "00004c4c57c47171",
+    "avgColor": [
+      0.1803921568627451,
+      0.4196078431372549,
+      0.7176470588235294
+    ]
+  },
+  {
+    "id": "prod_069",
+    "name": "Motorola Edge 40 Pro",
+    "category": "phones",
+    "imageUrl": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=800&h=800&fit=crop&auto=format",
+    "hash": "0303050545124803",
+    "avgColor": [
+      0.3215686274509804,
+      0.3215686274509804,
+      0.3215686274509804
+    ]
+  },
+  {
+    "id": "prod_070",
+    "name": "Kate Spade Wristlet",
+    "category": "bags",
+    "imageUrl": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=800&h=800&fit=crop&auto=format",
+    "hash": "6666646476748e86",
+    "avgColor": [
+      0.2235294117647059,
+      0.2549019607843137,
+      0.2901960784313726
+    ]
+  },
+  {
+    "id": "prod_071",
+    "name": "West Elm Mid-Century Chair",
+    "category": "chairs",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=800&h=800&fit=crop&auto=format",
+    "hash": "3f3f3f65653b2b3b",
+    "avgColor": [
+      0.8509803921568627,
+      0.8431372549019608,
+      0.792156862745098
+    ]
+  },
+  {
+    "id": "prod_072",
+    "name": "Hydro Flask Coffee Mug",
+    "category": "mugs",
+    "imageUrl": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=800&h=800&fit=crop&auto=format",
+    "hash": "bf1fe17a7864797b",
+    "avgColor": [
+      0.7725490196078432,
+      0.7607843137254902,
+      0.7294117647058823
+    ]
+  },
+  {
+    "id": "prod_073",
+    "name": "Tom Dixon Beat Lamp",
+    "category": "lamps",
+    "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=800&fit=crop&auto=format",
+    "hash": "49495462493b133f",
+    "avgColor": [
+      0.7568627450980392,
+      0.5686274509803921,
+      0.5333333333333333
+    ]
+  },
+  {
+    "id": "prod_075",
+    "name": "Hamilton Khaki Field Watch",
+    "category": "watches",
+    "imageUrl": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=800&h=800&fit=crop&auto=format",
+    "hash": "3f27b05cdaf0cc14",
+    "avgColor": [
+      0.49019607843137253,
+      0.4627450980392157,
+      0.45098039215686275
+    ]
+  },
+  {
+    "id": "prod_076",
+    "name": "Beats Studio Buds",
+    "category": "headphones",
+    "imageUrl": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&h=800&fit=crop&auto=format",
+    "hash": "0d61b0c85ca05000",
+    "avgColor": [
+      0.5843137254901961,
+      0.5843137254901961,
+      0.6980392156862745
+    ]
+  },
+  {
+    "id": "prod_077",
+    "name": "Acer Predator Helios",
+    "category": "laptops",
+    "imageUrl": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800&h=800&fit=crop&auto=format",
+    "hash": "00004c4c57c47171",
+    "avgColor": [
+      0.1803921568627451,
+      0.4196078431372549,
+      0.7176470588235294
+    ]
+  },
+  {
+    "id": "prod_078",
+    "name": "Nokia X30 Smartphone",
+    "category": "phones",
+    "imageUrl": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&h=800&fit=crop&auto=format",
+    "hash": "207a6dd3d3c7eb3b",
+    "avgColor": [
+      0.07450980392156863,
+      0.6862745098039216,
+      0.7686274509803922
+    ]
+  },
+  {
+    "id": "prod_079",
+    "name": "Michael Kors Jet Set Bag",
+    "category": "bags",
+    "imageUrl": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&h=800&fit=crop&auto=format",
+    "hash": "036383838180c2c7",
+    "avgColor": [
+      0.21568627450980393,
+      0.2549019607843137,
+      0.35294117647058826
+    ]
+  },
+  {
+    "id": "prod_080",
+    "name": "Knoll Saarinen Chair",
+    "category": "chairs",
+    "imageUrl": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=800&fit=crop&auto=format",
+    "hash": "010101054d622201",
+    "avgColor": [
+      0.788235294117647,
+      0.6862745098039216,
+      0.4549019607843137
+    ]
+  },
+  {
+    "id": "prod_081",
+    "name": "Takeya Actives Mug",
+    "category": "mugs",
+    "imageUrl": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=800&fit=crop&auto=format",
+    "hash": "679595ace140131b",
+    "avgColor": [
+      0.10980392156862745,
+      0.10980392156862745,
+      0.10980392156862745
+    ]
+  },
+  {
+    "id": "prod_082",
+    "name": "Flos Arco Floor Lamp",
+    "category": "lamps",
+    "imageUrl": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=800&h=800&fit=crop&auto=format",
+    "hash": "3dffff7fff7fffff",
+    "avgColor": [
+      0.13333333333333333,
+      0.3607843137254902,
+      0.3843137254901961
+    ]
+  },
+  {
+    "id": "prod_083",
+    "name": "Under Armour HOVR Shoes",
+    "category": "shoes",
+    "imageUrl": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=800&h=800&fit=crop&auto=format",
+    "hash": "000000061c910000",
+    "avgColor": [
+      0.8392156862745098,
+      0.9529411764705882,
+      0.45098039215686275
+    ]
+  },
+  {
+    "id": "prod_084",
+    "name": "Citizen Eco-Drive Watch",
+    "category": "watches",
+    "imageUrl": "https://images.unsplash.com/photo-1547996160-81dfa63595aa?w=800&h=800&fit=crop&auto=format",
+    "hash": "0305171f132515c7",
+    "avgColor": [
+      0.6313725490196078,
+      0.5607843137254902,
+      0.5411764705882353
+    ]
+  },
+  {
+    "id": "prod_085",
+    "name": "Marshall Major III BT",
+    "category": "headphones",
+    "imageUrl": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=800&h=800&fit=crop&auto=format",
+    "hash": "1f1f335d5f6d6d68",
+    "avgColor": [
+      0.7764705882352941,
+      0.6627450980392157,
+      0.6
+    ]
+  },
+  {
+    "id": "prod_086",
+    "name": "MSI Creator Z16",
+    "category": "laptops",
+    "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&h=800&fit=crop&auto=format",
+    "hash": "0f27686065e10397",
+    "avgColor": [
+      0.13333333333333333,
+      0.12941176470588237,
+      0.14901960784313725
+    ]
+  },
+  {
+    "id": "prod_087",
+    "name": "Fairphone 5 Smartphone",
+    "category": "phones",
+    "imageUrl": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?w=800&h=800&fit=crop&auto=format",
+    "hash": "1f173b0f4b2e1657",
+    "avgColor": [
+      0.6470588235294118,
+      0.5686274509803921,
+      0.5058823529411764
+    ]
+  },
+  {
+    "id": "prod_088",
+    "name": "Tory Burch Miller Bag",
+    "category": "bags",
+    "imageUrl": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?w=800&h=800&fit=crop&auto=format",
+    "hash": "07073159eac6c08a",
+    "avgColor": [
+      0.6901960784313725,
+      0.396078431372549,
+      0.3686274509803922
+    ]
+  },
+  {
+    "id": "prod_089",
+    "name": "Vitra Panton Chair",
+    "category": "chairs",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=800&h=800&fit=crop&auto=format",
+    "hash": "3f3f3f65653b2b3b",
+    "avgColor": [
+      0.8509803921568627,
+      0.8431372549019608,
+      0.792156862745098
+    ]
+  },
+  {
+    "id": "prod_090",
+    "name": "Contigo Autoseal Mug",
+    "category": "mugs",
+    "imageUrl": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=800&h=800&fit=crop&auto=format",
+    "hash": "bf1fe17a7864797b",
+    "avgColor": [
+      0.7725490196078432,
+      0.7607843137254902,
+      0.7294117647058823
+    ]
+  },
+  {
+    "id": "prod_091",
+    "name": "Louis Poulsen PH Lamp",
+    "category": "lamps",
+    "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=800&fit=crop&auto=format",
+    "hash": "49495462493b133f",
+    "avgColor": [
+      0.7568627450980392,
+      0.5686274509803921,
+      0.5333333333333333
+    ]
+  },
+  {
+    "id": "prod_093",
+    "name": "Fossil Townsman Watch",
+    "category": "watches",
+    "imageUrl": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=800&h=800&fit=crop&auto=format",
+    "hash": "3f27b05cdaf0cc14",
+    "avgColor": [
+      0.49019607843137253,
+      0.4627450980392157,
+      0.45098039215686275
+    ]
+  },
+  {
+    "id": "prod_094",
+    "name": "Anker Soundcore Liberty",
+    "category": "headphones",
+    "imageUrl": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=800&h=800&fit=crop&auto=format",
+    "hash": "cfc006673b47610c",
+    "avgColor": [
+      0.19215686274509805,
+      0.24313725490196078,
+      0.37254901960784315
+    ]
+  },
+  {
+    "id": "prod_095",
+    "name": "Framework Laptop 13",
+    "category": "laptops",
+    "imageUrl": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800&h=800&fit=crop&auto=format",
+    "hash": "033c3371e04b450a",
+    "avgColor": [
+      0.25098039215686274,
+      0.30196078431372547,
+      0.3607843137254902
+    ]
+  },
+  {
+    "id": "prod_096",
+    "name": "Nothing Phone 2a",
+    "category": "phones",
+    "imageUrl": "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=800&h=800&fit=crop&auto=format",
+    "hash": "3f2f6b736b4b6b4f",
+    "avgColor": [
+      0.17647058823529413,
+      0.023529411764705882,
+      0.03137254901960784
+    ]
+  },
+  {
+    "id": "prod_097",
+    "name": "Longchamp Le Pliage Bag",
+    "category": "bags",
+    "imageUrl": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&h=800&fit=crop&auto=format",
+    "hash": "036383838180c2c7",
+    "avgColor": [
+      0.21568627450980393,
+      0.2549019607843137,
+      0.35294117647058826
+    ]
+  },
+  {
+    "id": "prod_098",
+    "name": "Kartell Masters Chair",
+    "category": "chairs",
+    "imageUrl": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=800&fit=crop&auto=format",
+    "hash": "010101054d622201",
+    "avgColor": [
+      0.788235294117647,
+      0.6862745098039216,
+      0.4549019607843137
+    ]
+  },
+  {
+    "id": "prod_099",
+    "name": "Ember Temperature Control Mug",
+    "category": "mugs",
+    "imageUrl": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=800&fit=crop&auto=format",
+    "hash": "679595ace140131b",
+    "avgColor": [
+      0.10980392156862745,
+      0.10980392156862745,
+      0.10980392156862745
+    ]
+  },
+  {
+    "id": "prod_100",
+    "name": "Hammerton Studio Task Lamp",
+    "category": "lamps",
+    "imageUrl": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=800&h=800&fit=crop&auto=format",
+    "hash": "3dffff7fff7fffff",
+    "avgColor": [
+      0.13333333333333333,
+      0.3607843137254902,
+      0.3843137254901961
+    ]
+  }
+]

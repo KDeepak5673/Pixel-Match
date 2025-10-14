@@ -1,0 +1,1154 @@
+[
+  {
+    "id": "prod_001",
+    "name": "Ceramic Coffee Mug White",
+    "category": "mugs",
+    "imageUrl": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=800&h=800&fit=crop&auto=format",
+    "hash": "fffffe6000000000ffffff0000000000ffffff8000000000fffffffc00000000fffffffd00000000ffffffff40000000ffffffff00000000ffffffffc0000000ffffffffe8000000fffffffffe000000ffffffffff000000fffffffffdc00000fffffff07eb00000fffffe000fd80000fffff80007640000fffff000039d0000ffffe00007ffffffffffc00007e47fffffffc00003e03fffffffc00001e03ffeffffc00000e71ffcffffe000004f1ff8ffffe000001e1ff0fffff800001c3fe0fffffc0000103f80ffffff8000007f00ffffffe00000c000ffffffe000020000ffffffe000000000ffffffc000000000ffffcfc000000000ffffcfc000000000ffffeffc0000000fffffeffc00000007ffffeffc00000003ffffcffc00000007ffffc7fc0000001fffffc3fc0000003fffffc3fc0000007fffffc0fc0000007fffffc000000000ffffffc000000001ffffffc000000001ffffffc000000001ffffffffe0000001fffffffff0000001fffffffff0000003fffffffff8000003fffffffff000000000fffffff000000000fffffff000000000fffffff000000000fffffff800000000fffffffe00000000ffffffff00000000fffffffff0000000ffffffffffc00000fffffffffc000000fffffffff0000000fffffffec0000000fffffffe10000000fffffff600000000fffffff400000000fffffffe80000000",
+    "avgColor": [
+      0.8705882352941177,
+      0.8431372549019608,
+      0.8156862745098039
+    ]
+  },
+  {
+    "id": "prod_002",
+    "name": "Modern Desk Lamp LED",
+    "category": "lamps",
+    "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=800&fit=crop&auto=format",
+    "hash": "000000000007ff0f000000000007ff33006000000007ffe70070003f8007ffff00f0007fc007ffff00f800ffe007ffff007801fff003ffff001801fff803fcff018803fff803fcff03e003fff807ffff07e003fff003fff707fc03fff803ffff067803fff003ffff0278007f8003ffff037c083fde03ffff037c1fffe003ffff0000003f8003fbff00000077bc03f1ff020c03f6fe0061a703041ff6ff80efaf07341ff77f83ffff07341fe77f83ffff07b81fe73f87ffff07b80fcf3f0fdfffc7180fcfdf0ff7ffc0100f9f9e0ff7ff00000686020ff7ff00000400000fffff00001400001ffcff0000040f821ffcff0000021fc21ffc7f0000021f803ffe7f0000000fc03fffff0000000f803fffff00010000003bffff000700202013ffff001f800fc001ffff007f800180007fff01ff800000400fff07ffc0000061c3ff0fffc00000785fff3fffe000007e03ff7fffe000007f03fffffff000007fc3e1fffff800007ff167fffffd80007ffc63fffffef8007fff23ffffff3c007fff83001fff0000300000001fff8000700000001fffc000700000003fffe000f00000003fffe000e0000009fffff001e000004bfffffc03e000000bfffffe03e000000fffffff0ff800009ffffffffff800009ffffffffff800009ffffffffff800003ffffffffff000003fffffffffe000007fffffffffe000007fffffffffe00000",
+    "avgColor": [
+      0.5843137254901961,
+      0.5450980392156862,
+      0.5254901960784314
+    ]
+  },
+  {
+    "id": "prod_004",
+    "name": "Ergonomic Office Chair Black",
+    "category": "chairs",
+    "imageUrl": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=800&fit=crop&auto=format",
+    "hash": "000000007fffffff00000000ffffffff00000000ffffffff00000001ffffffff00000001ffffffff00000003ffffffff00000003ffffffff00000003ffffffff00000003ffffffff00000003ffffffff000000000fffffff00000000001fffff00000003ffdfffff00000003ffdfffff00000003ffdfffff00000003ffdfffff001bfe73ffdfffff001bfe73ffdfffff0013fe73ffdffff80013fff3ffdffff00010fff3ffdffff00010fff38fdffff000107ff307dfdff000003ff207d7bff000000ff207d3fff0000001f307c1bff0000000330fc1fff000000003ffdf7ff000000003ffd1fff0000000000011fff00000000001f1fff00000000003fbfff8003ff9ffffffffff003ff1ffffffffff000001fffffbffff000000fffffbffff000000fffffbffff000000ffffffff81000000fffe7fff0100000001803ff70100000001003ff4f9000000017ffff7ff000000017ffff7ff000000017ffff7ff000000013ffff7ff00000001fffff7ff00000001fff3f00000000031df33f0000000001c9fb3f600000000001fb3ffff0000000003b3ffff0000600007bfffff000060001fffffff00006000ffffffff000070ddffffffff0000f0f1ffffffff00006063ffffffff000000c3ffffffff000000c7ffffffe000000003fffffff000000183fffffff800000103fffffffc00000003fffffffc00000003ffffffff",
+    "avgColor": [
+      0.5882352941176471,
+      0.5529411764705883,
+      0.5019607843137255
+    ]
+  },
+  {
+    "id": "prod_005",
+    "name": "Vintage Leather Watch Brown",
+    "category": "watches",
+    "imageUrl": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=800&h=800&fit=crop&auto=format",
+    "hash": "000000000000000000000000000000000000000000000000000000000000000000007fff00000000001ffffffc0000000fffffffff800000fffffff3fff00000ffffffc03fff0000ffffff801fffff80ffffff000fffffffffffff000ffffffffffffe000ffffffffffff0001fffffffffffc7001fffffffffff1f001fffffff00001e000000000000007e00000000000001fc00000000000003f80000000000000ff00000000000003ff00000000000007fe08ff700000000ffc19fff80065e01ff817ffcefffff03ff82fffe7fffff07ff00ffff3fffff07fe3dfffe2fffff0ffc7dfff79fffff1ff9fbffef9fffff1ffffbffdf93ffff3ffffbff3f17ffff3fe003fe3f9400003fe0037c7f9e00007fc003f9ff9f00007f8003f3fe1f0000ff8001c7ff1f0000ff00019fff3e0000fe0000fffa7e0000ff0fc07bf8780000ff3fc03fb8c00004ffffc01fa38004ffffffc0038682ffffffbf80000cffffffff9f00000e7fffffff8000001f7c3fffffc000003f807fffffc000003f00ffffff0000007f007800ff000000ff00fc00ff000000fe00f800ff000003fe01f80060000007fc21f80000000007f9f9e000000003fff1fc000a00001fffe13006ff0000ffffc17b7fff0003ffff81ffffff0007ffff01ffffff0007fffe01ffffff000ffff801ffffff007ffff001ffffff01ffff8000ffffff07fffe0000ffffff",
+    "avgColor": [
+      0.6627450980392157,
+      0.6352941176470588,
+      0.6039215686274509
+    ]
+  },
+  {
+    "id": "prod_006",
+    "name": "Wireless Headphones Black",
+    "category": "headphones",
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&h=800&fit=crop&auto=format",
+    "hash": "0001ffffffff80000003fffffffe80000007ffffffff80000007ffffffffc0000007ffffffffc000000fffffffff8000000fffffffffe000000fffffffffc000000fffffffffe000000ffffffff00000003fffffff000000001ffffffc000000001ffffff0000000003fffffc00000000037ffff80000000001fffff00000000007ffffe00000000003ffffc000e0000007ffff801fff000007ffff80ffff800003ffff01ffffc00003ffff03ffffe00003fffe07ffffc00001fffe0fffff000003fffe0fffff400003fffc1fffffe000017ffc3fffff800000fffc38ffff000000fff8407fff0000007ff8003fff000000fff8003ff80000001bf0003ffa0007fffff8003ffffffffffff0083ffffff7fffff0083ffffff3fffff0083fffe7e1fffff0003fffc181fffff0003fff8000ffffe0003fff00007fffe0001ffe00003fffe0001ffc00003fffe0001ff800001fffe0001ff0000007ffe0001fe000000fffe0001fc0000005ffe0001f80000003ffe0000f80000001ffe0000f00000ffffff8003f00000ffffff8003e00000ffffff8003e00000ffffff8003e00000ffffffe003e000007ffffff803e000003ffffffe07e000000fffffff9fc0000007ffffffffc0000007ffffffffe0000001ffffffffe00000003fffffffe00000001ffffffff00000000bfffffff000000003ffffffe0000000000efefe800000",
+    "avgColor": [
+      0.8470588235294118,
+      0.7098039215686275,
+      0.24705882352941178
+    ]
+  },
+  {
+    "id": "prod_007",
+    "name": "MacBook Pro 16-inch Silver",
+    "category": "laptops",
+    "imageUrl": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800&h=800&fit=crop&auto=format",
+    "hash": "0003ffffffffffff0007ffffffffffff0007ffffffffffff000fffffffffffff000fffffffffffff000ffc7fffffffff001ff801ffffffff001ff80007ffffff001ff800000fffff001ff80000003fff000ff800000003ff00007000000003ff00000000000003ff00000000000003ff00000000000003ff00000000000007ff03fff3fe7fff87ff07fff1ef11ffe7ff0fffe7f8007fe7ff07ffe780003fefff07ffe000000fefff01ffeffff887efff007feffcf8000fff0007cff000008fff7003c3e000000fffefffc07000000fffcfffc00000001fff3fffc00000001f3f3fffc01e0000000007ff8003f0000000ffff00001f000001fffc0000000000037ff800000000000e3ff000000000007f1fc00000000003ffff80000000000fff7f00000000003fff7c00000000007fff180000000004ffff70007f800009fffff000ffffe013fffff801ffffff27fffe1fc07fffffcfff840ffc07ffffdfff880fffc0ffffbffff800fffc0fff7ffff0000fffc0feffffe00000fffc0cffffe00000fffffffffffe00000ffffffffff8000000fffffffff80000000fffffffec00000000ffffffc8000010000fffffc80000000000ffff880000001c000fff080000003fc000ff080000033ff0000e080000033ff0000c0c0000001ff07c0c0f0000209ff07f880f0000049ff07fe00e000001fff03ff00e0000041ff07ff808",
+    "avgColor": [
+      0.41568627450980394,
+      0.4235294117647059,
+      0.4235294117647059
+    ]
+  },
+  {
+    "id": "prod_008",
+    "name": "iPhone 15 Pro Max Titanium",
+    "category": "phones",
+    "imageUrl": "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=800&h=800&fit=crop&auto=format",
+    "hash": "0ffffff80000000007fffffc000000000ffffffe000000000fffffff000000003fffffff000000003fffffff800000005fffffffc0000000bffffff3e00000003fffffe7f00000007fffffdff80000007fffffbffc0000007fffff7ffe000000fffffeffff000000fffff9ffff000000fffff7ffff8000007fffee0003c00000fffffe0000f03c00fffff0c00270c800ffffe40003780600ffffc400007f0600ffffc41ff07f0000ffffc400007f8000ffffc40ef07f8000ffffc40ad07fc000ffffc40de07fc000ffffc406b07fe000ffffc40ff07ff000ffffc400007ff800ffffc400007ffc00ffffc400007ffe00ffffc400007ffe00b9ffc420007fff00003f8000003fff80000f8000003fff800073c000003fffc0d063c000003fffe07c21e000003ffff0fc20e000003ffff07e000006003ffff83f42400f003ffff8bf9f801f803fffe01f03803f803fffe01fbf403fc03fffc01ffec07fe03fff807ffb807ff03fff003ff780fffc3ffe001fef80fffe3ffc007fdf80fffe3ff000ffbfc1fffe3fe000ff7fc1fffe3fc000feffc1fffe3f8000fdffc1fffa3f0000f3ffc1bffc3e0000e7ffc1fffa3c0000cfffc1fffe3800000fffc0fffe3000000fffc000006000000fffe0000080000007ffe000030000000ffffffffe0000000ffffffffc0000002ffffffff80000001ffffffff00000000fffffffe0000000",
+    "avgColor": [
+      0.32941176470588235,
+      0.30980392156862746,
+      0.2901960784313726
+    ]
+  },
+  {
+    "id": "prod_009",
+    "name": "Designer Handbag Leather",
+    "category": "bags",
+    "imageUrl": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&h=800&fit=crop&auto=format",
+    "hash": "000003800ffffff000000183bffffff8000001f3bffffffc000000837ffffffc00000007ffffffff00000001ffffffff00000000fffffffc000000003ffffffc00000003fffffff000000003fffffff10000003bffffffff00000019ffffffff00000001ffffffff00000000ffffffff000000007fffffff000000003fffffffff8000001fffffffff8000001ffffffeff8000001ffffff8ff0000001ffffff0ff0000000fffffe0ff0000000fffffc0ff0000000fffff00ff0000000fffff00ff0000000fffff00ff0000000fffffc0ff0000000fffffc0ff0000000fffffe0ff0000000ffffff0ff0000000ffffff8ff0000000ffffffcff00000007fffffefe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe0000000000fffffe0000000000fffffe0000000001ffffff00000000003fffff00000003c00fff7f80000007fe07ff03c0000007ffe1df030000000fffffefff000003fffffff1ffffffffffffffff0e003fffffffffff000000000fffffff0000000003feffff0000000003f800000000000003fc0000ff00000001fc0000fffffc0003fe0000ffffffffffffd800ffffffffffffffff",
+    "avgColor": [
+      0.5529411764705883,
+      0.5764705882352941,
+      0.6235294117647059
+    ]
+  },
+  {
+    "id": "prod_010",
+    "name": "LED Floor Lamp Modern",
+    "category": "lamps",
+    "imageUrl": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=800&h=800&fit=crop&auto=format",
+    "hash": "00080080000000000a8800a000000000affff9e200000000efffffc000000000ffffffc000000000fffbffbc00000000ffffffc000000000ffffffe000000000fffffff0e0000000ffffffffe0000000ffffffffd6000000ffffffffff960000ffffffffffff0000ffffffffffffc000ffffffffffffa000ffffffffffffe500fffa000000000000ffff000000000000ffffc00000000000fffff40000000000ffffff0000000000ffffff0000000000fffffff000000000fffbfffc00000000ffffffff80000000fffffffff0000000fffffffffc000000ffffffffff800000ffffffffffb00000ffffffffffff0000ffffffffffff4000ffffffffffffc000fffff00000000000fffff80000000000fffffc0000000000ffffff0000000000ffffffc000000000ffffffe400000000fffffffc00000000ffffffffa0000000fffffffff4000000fffffffff8000000fffffffffc000000fffffffffc000000fffffffff8000000fffffffffc000000ffffffffff800000ffffffffff800000ffffffe000000000fffffff000000000fffffff000000000fffffff800000000fffffffe00000000fffffffe00000000ffffffff00000000ffffffff00000000ffffffff80000000ffffffffc0000000ffffffffe0000000ffffffffe0000000ffffffffe0000000ffffffffc0000000ffffffffc0000000ffffffffc0000000",
+    "avgColor": [
+      0.16862745098039217,
+      0.403921568627451,
+      0.42745098039215684
+    ]
+  },
+  {
+    "id": "prod_011",
+    "name": "Air Max Sneakers White",
+    "category": "shoes",
+    "imageUrl": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=800&h=800&fit=crop&auto=format",
+    "hash": "09ffe7fe0000000fffffc7fc00000007ffffc7f800000002ffffc3fde0000003ffffc3ffff800001ffffc7ffff800000ffcfc7ffffc00000ff03cfffffc00000fe438fff7f800000fe738fffbf800000fc2383ff9ff00000e00389ffc7f8fc00e00088dfc3ffff00e0100c47e0ffffe0ec100400e03ffffce73014001007fffeffb01f001de7fffe18700f8007e0fffe007807a383807fff00f003ffc0001fff0074001ff0000fff0060001fe00007ff0032003ffc0003ff8039807ffc0001ffc01c6f3ffe00007fc00c001b7f00003fc606000f7fff001fc607000fffffde0fce038003df7fffc3cf00c001fffffff1ff806000fffffffeefe01807ffffffffcfe000000abc00fecff8000001f7c07fc7fc000005eff83fc7ff0000007ffc1fc3ffc00001fffe0fc0fff000009fff87c07ff800006fffc3c01ffe00041bffe1c007ff00080ffff0c001ffc0000efff8c2807fe00001fff8efc01ff00007fffeffe00ffc000ffffcdfe003fe000ffffcdfe000ff8007fff9dff0007fe001fff1ffff003ffa7cfff3fbffe00ffe0fffb3f9fffe07ffeffe67f87fff81ffff70e7f83fffc07fffffcf780fffc01fffff874803ff8007ffff877800000000fffe0718000000001ff8030c003800000000010c001fff0000000006000fff8000000003fc77ff8000000087feffff8400004081f0ffffff000070c181ffffff0000f8",
+    "avgColor": [
+      0.5764705882352941,
+      0.36470588235294116,
+      0.17647058823529413
+    ]
+  },
+  {
+    "id": "prod_012",
+    "name": "Smart Watch Fitness",
+    "category": "watches",
+    "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&h=800&fit=crop&auto=format",
+    "hash": "fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff87ffffffffffffffc1fffffffffffff460ffffffffffffe8207fffffffffffe8187fffffffffff80083fffffffffff60001ffffffffffe90001fffffffffff88001ffffffffff842001ffffffffff320000fffffffffc410000ffffffffc1000001ffffffff00000003fffffffe00000007fffffff800000007fffffff600000007fffffff800000007fffffff000000003ffffffe000000021ffffffc000000020ffffffc000000038ffffffc00000007cfffffec0000000feffffffa0000001ffffffffa0000003feffffff10000007fcfffffe0800000ff8fffffc0600001ff0fffff80200003fe0fffff006000079c1ffffe0040000fd87ffffc0000001cf1fffffc0000007e63fffffe00000083c7fffff9000001038ffffff9800002023fffffef0003f8003fffffe6000ff0007fffff3c000f6000ffffffb8001fc001fffffdf0003f0001fffffce0007e0003ffffffc000040000fffde780000c0001fffbf700001e0001fff7be00003f0001ffffdc00007f0003fffff80000ff8007fffff00003ff800fffffe00007ffe03fffffc0000fffffffffff80001fffffffffff00007ffffffffffc0001fffffffffffe0103ffffffffffffff9ffffffffffffffffffffffffffffffffffffffffffff",
+    "avgColor": [
+      0.8274509803921568,
+      0.8196078431372549,
+      0.8235294117647058
+    ]
+  },
+  {
+    "id": "prod_013",
+    "name": "Studio Headphones Professional",
+    "category": "headphones",
+    "imageUrl": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=800&h=800&fit=crop&auto=format",
+    "hash": "ffe003ffffffc000ffe003ffffffe000ffe003ffffffe000fff007fffffff000fff80ffffffff800fffc1ffffffffc00ffffffffffffff00ffffffffffffffe0fffff8000001ff9effff000000001c0ffff800000000000fffc0000000000007fe00000000000007f800000000000000c0000003fff000000000000fffff8000000000ffffffc00000001fffffffc0000001ffffffffc0000007ffffffffc000001fffffffffc000007fffffffffc00001ff007bffffc00003fe001cffffc00007fc000e7fffc0000ff81f079fffc0001ff03fc38fffc0001ff03f81c7ffe0003ff07f00c7ffe0013fe00f0003ffe0013fe0030033fff0001fe0000031fff0001fe0000039fff00001e0000039fff8000030000ff1fff80000000001f9fffc000000000001fffc000010000000fffe0000100020091fff008f90007009cfff80cff800ff09f3ffe0fff8003ffbfcfff8fffc0027f3fe7ffffffe0003e7ff9ffffffe0003efffcfffffff0001cfffe3ffff1f80009ffff9ffff8f80003ffffc7fff8000003ffffe3f1fc0000007ffff8f03f8000001ffffc701fc0000007fffe3007e0000003ffff9003f0000001ffffc000ff0000003fffe0000ff000001ffff00007fc00000ffff00007ffc0000ffff00003ffff8007fff00001fffffe01fff00000ffffffc0fff000007fffffe3fff000007ffffffffff000007ffffffffff",
+    "avgColor": [
+      0.6235294117647059,
+      0.5490196078431373,
+      0.4980392156862745
+    ]
+  },
+  {
+    "id": "prod_014",
+    "name": "Gaming Laptop RGB Keyboard",
+    "category": "laptops",
+    "imageUrl": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800&h=800&fit=crop&auto=format",
+    "hash": "0008000000000000000800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000018000003000000041800000300000004400000000000000000007ff3080c0401c7fffff3fffffffff7fffffffffffffffffffffffffffffffffffff01f000fff82ffe7f01c0025f8007fefc01e100fffe3ffff803ff007fffffffff00efe00fffffffff11fffc2fffe7ffff1feff8000bc3ffff0ffff80243e3fffe07fff8c001c1fffe07ffffffffc3fffe03fffffffffffffc000000000000000000000000000000000020000000007e7c07e000000000003e0fc000000000003f1fe12b568000ff5f3ff999120000fc8f7ffffff00043ffff1fffffffffffffff1fffffffffffffff0fffffffffffffff0fffffffffffffff07ffffffffffffff07ffffffffffffff00000007ffbff8000000000000000000000000000000000000000000000000000000000000000000000000007f9ff800000000000003c0007fffffffffffffff1fffffffffffffff0fffffffffffffff07ffffffffffffff03ffffffffffffff01fffe1ffffffffe01fffc3ffffffff800fff80fffffffe0007fe000ffffffc0001f0000008fffc0000000000003fc0000000000000040000000000000000000000000000000000000000000000000000000000000000000",
+    "avgColor": [
+      0.2627450980392157,
+      0.17254901960784313,
+      0.41568627450980394
+    ]
+  },
+  {
+    "id": "prod_015",
+    "name": "Samsung Galaxy S24 Ultra",
+    "category": "phones",
+    "imageUrl": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=800&h=800&fit=crop&auto=format",
+    "hash": "000000003fffc000000000017fffe00000000001fffff0000000000ffffff0000000001ffffffc000000007ffffffc00000000bffffffe00000001fffffffe00000007fffffffe00000007ffffffff0000001fffffffffc000003fffffff7fc000007fffffff7fe00000efffffff7ff00001f3fffffe7ff00001fdfffffe7ff80000067ffffc38000000071ffffc3c00000007cffffc3e00000007f7fffc380000000ffdfff87800000057fe7ff87f00000003ffbff87f00000007ffcff87fc000000ffff3f07fc000001ffffdf0ffe000003ffffe70ffe000003fffffa0fff000007fffffe0fff000007ffffff1ffe000007fffff8cffc000007fffff877fc000001fffff859fc000000fffff88e7c000000ffffff0738000011ffffff88d80000387fffdff8c800003e3fffee781c00003f1ffffa789b80007fc7fffcf70000007fe3ffff620000007ff0ffffa60000007ffc7fffec0000007ffe3ffff0000000ffff0ffff8000000ffffc7fff0000000ffffe1ffe00000007ffff8ffe0000001fffffe7fc0fff0003fffff1fc0fff00007ffff0f81fff00000ffff0303fff000001fff0001fff0000001fe0003fff00000003e0003fff0000000020007fff00000000000cffff0000010000ffffff00000ff801ffffff00000fffbfffffff00000ffffffffffd000003fffffffff8000001fffffffff0000000ffffffffe0",
+    "avgColor": [
+      0.22745098039215686,
+      0.2235294117647059,
+      0.23137254901960785
+    ]
+  },
+  {
+    "id": "prod_016",
+    "name": "Canvas Tote Bag Natural",
+    "category": "bags",
+    "imageUrl": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?w=800&h=800&fit=crop&auto=format",
+    "hash": "00041ffffe4000000000ffffff00000000007fffffb800000000fffffffc00000010fffffffc00000001fffffffc00000001fffffffe00000001fffffffe00000003ffffffff8000000bfffffff7c000001fffffffff8000000fffffffff8000000fffffffffc000000fffffffffc000001ffffe07ffc000021ffff001ffc0003fffffe1f0fffff41fffffc7fc7ffffc1fffff88003ffffc3ffffe00001ffffe3ffffc000007fffe3ffff0000003fffe3fffe0000000fffe1fffc00000007ffe3fff800000003ffe3fff000000001ffe3ffe000000001ffe3ffc000000000fff3ffc000000000fff7ff80000000007ff1ff00000000007ff3ff00000000003fffff00000000ff7fffff000000007ffffffe000000007ffffffe000000003fbffffe000000001fbffffe000000000fbffffc0000000007bffffc0000000003bffffc0000000003bffffc07ffffffffbffffc07ffffffff9ffffc0018fffffbdffffc00003fffffdffff800003f00c74ffff000000000074ffff0000000000e4ffff001ffffffffeffff00003fffffffffff0000000007ffffff0000000e07ff7fff00000007efff7ffe00000007fffdfffe00000001f7fdfffe00000000dffe7fff000000000ffe7fff000000000ffe7fff000200007ffe7fff000600c03ffe7fff000600c01ffe7fff800600c00ffeffff800400800ffeffff800000000ffcff",
+    "avgColor": [
+      0.7764705882352941,
+      0.6509803921568628,
+      0.6588235294117647
+    ]
+  },
+  {
+    "id": "prod_017",
+    "name": "Dining Chair Wooden",
+    "category": "chairs",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=800&h=800&fit=crop&auto=format",
+    "hash": "000fffec00000000003ffffe00000000007fffff0000000001ffffffc000000003ffffffc000000007ffffffc000000007ffffffe00000000ffffffff80000001ffffffff80000001ffffffffa0000003ffffffffe0000003fffffffff8000007fffffffff8000007fffffffff0000007fffffffff800000ffffffffff8000000fffffffe00000000fffffffe00000000ffffffff00000000fffffffe40000001fffffffff0000001fffffffffc000001fffffffffc000001fffffffffe000001ffffffffffc00003ffffffffffc00007fffff0007b800007fffc0000c780000ffff80000c780000ffff80000c700000ffffe00004700000ffffc00008f00000ffffc00009f0f000ffffe00001e1f000ffffe00003e1f800ffffe0000361fc00ffffe0000363fe00ffffe0000163ff00ffffe00000c3ff00ffffe00000c3ff00ffffe00000c7ff00fffff00007c7ff007ffffffc79c7ff007ffffe000007ff007ffff4000007ff007ffff0000007ff003ffff8000007ff003ffffc000007ff800ffff000000000000fffe000000b000007fff19ff81f800007fff19ffc1f800007fff1bff81fc0000ffff1bffc1fc0000ffff1bff81fc0000ffff13ffc1fe0000ffff17ffc0fe0001ffff17ffc4fc0003ffff37ffc4f80003ffffb7ffc4e00003ffff27ffc4000003ffffb80000000003ffffbff800000000ffffbffc0000000",
+    "avgColor": [
+      0.8588235294117647,
+      0.8745098039215686,
+      0.8588235294117647
+    ]
+  },
+  {
+    "id": "prod_018",
+    "name": "Espresso Cup Porcelain",
+    "category": "mugs",
+    "imageUrl": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=800&fit=crop&auto=format",
+    "hash": "000000000000000000000000000000000000000010000000000000003e000000000060003f800000000000853fbc8000000003ce77fe000000e007ff7ffd9f8003e013fbffffd70007ee1fffffffff00c67c1ffbfffdbf30fcf9fffd7fffffffd3fffff9ffffffff9fffffffffffffffffffff57ffffffff3ffffbf1ffffffff0001a00000ff30000007e00000fffc003c19f91000fe3c007c00fff007fc1fe03a00d0407fd6bfc00260f007fffeffc00077e007fff41dc00fe60007e7a005c00f80001f838006f0468c101fc7e002e00c00383fde3103f80e0cf8fffc00077cdaeffdffff0007fe7fefffffff03e7fcfbc7fffffe0ffffcf9e3ffff383bfff8f1b3ffdf6839fff8f8f1c3ce0c7ffffdfef90b8f3efffff8fc2a870e1efffff4fb86071a32fffff8fbdb8f1b53ffffe5230d6f1fbfdfffe601800f8fafcfffe000000f9ff7dffff000281e3fc21ffff0002e1811907fffe900240003f1fbfffe0018000281dfffde002000000183883000300000000100000020001800000000ffffffffffffffff7fffffffffffffff9fffffffffffff7f9fffffffffffff0f0ffffffffffffc0303f7fffffffffe0203f7ffffffffe200007fffff9fff800000f37fff874c000000e6fff607c80000006fdff800400000000087d0000000000000030080000000000000000000000000000000000000000000000000000000",
+    "avgColor": [
+      0.08627450980392157,
+      0.08627450980392157,
+      0.08627450980392157
+    ]
+  },
+  {
+    "id": "prod_019",
+    "name": "Table Lamp Architectural",
+    "category": "lamps",
+    "imageUrl": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=800&fit=crop&auto=format",
+    "hash": "000000007fffffff00000000ffffffff00000000ffffffff00000001ffffffff00000001ffffffff00000003ffffffff00000003ffffffff00000003ffffffff00000003ffffffff00000003ffffffff000000000fffffff00000000001fffff00000003ffdfffff00000003ffdfffff00000003ffdfffff00000003ffdfffff001bfe73ffdfffff001bfe73ffdfffff0013fe73ffdffff80013fff3ffdffff00010fff3ffdffff00010fff38fdffff000107ff307dfdff000003ff207d7bff000000ff207d3fff0000001f307c1bff0000000330fc1fff000000003ffdf7ff000000003ffd1fff0000000000011fff00000000001f1fff00000000003fbfff8003ff9ffffffffff003ff1ffffffffff000001fffffbffff000000fffffbffff000000fffffbffff000000ffffffff81000000fffe7fff0100000001803ff70100000001003ff4f9000000017ffff7ff000000017ffff7ff000000017ffff7ff000000013ffff7ff00000001fffff7ff00000001fff3f00000000031df33f0000000001c9fb3f600000000001fb3ffff0000000003b3ffff0000600007bfffff000060001fffffff00006000ffffffff000070ddffffffff0000f0f1ffffffff00006063ffffffff000000c3ffffffff000000c7ffffffe000000003fffffff000000183fffffff800000103fffffffc00000003fffffffc00000003ffffffff",
+    "avgColor": [
+      0.5882352941176471,
+      0.5529411764705883,
+      0.5019607843137255
+    ]
+  },
+  {
+    "id": "prod_020",
+    "name": "Converse High Top Shoes",
+    "category": "shoes",
+    "imageUrl": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=800&h=800&fit=crop&auto=format",
+    "hash": "00ffffffff80000000ffffffff80200001ffffffffc0400001ffffffffc0400001ffffffffe0800001ffffffffc1000003ffffffffc4000003ffffffff98000003fffffc3fe0000003fffff80000000003fffff00000000003fffff00000600003fffff00003e00003fffff8000f800001ffffe007fe009001fffff07ff802703fffffa0ff8009f81fffffc1c00027fc1fffffc38000bff80fffff470002fff00fffff4e0009ffc007fffe9c0037ff800ffffcb800dffe0007ffecf0037ff80007fe7de00dffe00007ffdf8037ff800007ffff00dfff000003fc19037ffc000003fc810dfff0000003f80077ffc0000003e003ffff00000003800ffffe000000ff00ffffff800000fc07ffffff800000f81fffffff000000f1fffffffe000000fffffffffc000000fffffffff8000000fffffffff0000000ffffffffc0000000ffffffff00000000fffffffe00000000fffffff000000000ffffffe000000000ffffff8000000000ffffff0002000000fffffc001f900000ffffe0003ff8e000fffc000000000000fffc000000000000fff8000000000000fff8000000000000fff8000000000000fff8000000000000fff8000000000000fffc0000000007e0fffc00000000ffe0fffe0000001ffff0ffff800003fffff8fffff007fffffffcfffffffffffffffc7ffffffffffffffcfffffffffffffffefffffffffffffffe",
+    "avgColor": [
+      0.8274509803921568,
+      0.5254901960784314,
+      0.13333333333333333
+    ]
+  },
+  {
+    "id": "prod_021",
+    "name": "Luxury Watch Gold",
+    "category": "watches",
+    "imageUrl": "https://images.unsplash.com/photo-1547996160-81dfa63595aa?w=800&h=800&fit=crop&auto=format",
+    "hash": "003fffffffffff80001fffffffffff00000ffffffffffe000007fffffffffc000003fffffffffc000001fffffffffc000000fffffffffc0000003ffffffff80000001ffffffff88000000fffffff6780000003fffff80f00000000ffcfe010000000001fffe000000000003fff80000000000bffff00000000001fe3f7000000003fffffffff0000003ffffffffe0000001ffffffffc00000003bffffff8000000003fffffe000000001ffffffc000000003ffffff8000000003ffffff0000000007fffffc0000000007ffffff000000000fffffff800000000fffffffc00000001ffffffffc0000001fffffffff8000001fffffffffe000003ffffffffff800003ffffff17f7c00003fffffd1ff7e00003ffffff3bffe00003fffffb3bffe00003fffffb2bffe00003ffffe12fffe00003ffffd947ffc00003ffffbb437fc00003ffff3b476ef00003ffff7b074dfc0000fffcf3c34df800003ff9818005f000003fe00f0000f800000001fff800f000000007fffc07f00000000010007ff0000000000007ffc0000000003fffffc000003fffffffff9c0001fffffffffffb0007ffffffffffff001fffffffffffff001ffffffffffffe007ffffffffffffc003ffffffffffff80000fffffffffff0000000fffffffbe0000000007ffff0c0000000000e7fe00000000000003f800000000000001c000000000000001c00000",
+    "avgColor": [
+      0.19607843137254902,
+      0.1411764705882353,
+      0.1411764705882353
+    ]
+  },
+  {
+    "id": "prod_022",
+    "name": "Noise Cancelling Earbuds",
+    "category": "headphones",
+    "imageUrl": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&h=800&fit=crop&auto=format",
+    "hash": "0000001fc0000000000000ffc0000000000005ffe0000000000007fff000000000003ffff000000000043ffff80000000000fffffc000000000ffffffe800000007ffffffffce40000bfffffffffff8000fff83ffffffff800ffe003ffffffff03ff8043ffffffff07ff01f1ffffffff1ffc07f1ffffffff1ff01ff1ffffffff3fe07fd1ffffffff3fe1ffb07fffffff7fe3ffb87fffffff7fe3fff0703fffffffe3ffc0000fffffffe18f000007ffffffc07c000001ffffffc07800000070ffff8040000000e07fff1000000000c87ffe3000000000027ffe200000000000fffc410000000001fffcc38000000003fffc87e060000007fffc07ffe000000fff0007ffc0000007ff001f0fe000000fff017c03fc00000fff01f000fe00001fff00e0007f00803fff01c0007f00007fff0080003f8001ffff0080003fc003ffff0100021fe007ffff0080070ff01fffff00c00707ffffffff00c04027ffffffff0040c077ffffffff0080c1f3ffffffff0080c3fbffffffff00000ffbffffffff00003ff8017fffff00007ff80dffffff00003ff01effffff00003ff01e7fffff00001fc07bffffff00000780fe7fffff00000000feffffff000000003fffffff000000003fffffff000000003effffff000000003dffffff000000003f3fffff000000003fbfffff000000003fffffff000000001fffffff000000003f7fffff",
+    "avgColor": [
+      0.7215686274509804,
+      0.7176470588235294,
+      0.8235294117647058
+    ]
+  },
+  {
+    "id": "prod_023",
+    "name": "Dell XPS 13 Ultrabook",
+    "category": "laptops",
+    "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&h=800&fit=crop&auto=format",
+    "hash": "00007ffffffe00000000ffffffff00000007ffffffff8000000fffffffffe0000007ffffffffe0000007ffffffffe000001ffffffffff000003ffffffffff000003ffffffffff000003ffffffffff000003fffffffffc000003fffffffff8000001ff00047e80000001ff00003e00000000ff00003600000000f200003280100ffffffffffffffffffff00000000fffffffe000000007ffffffe000000007ffffffe000000007ffffffe000000007ffffffe000000007ffffffe000000007ffffffe000000007ffffffe000000007fff7ffe000000007fff9ffe000000007ffffffe000000007ffffffe000000007ffffffe000000007fffdffe000000007fff0c7c000000007fff007c000000007fff003c000000007fff001c000000007ff7003c000000007ff7007c000000007fe000fc000000007ff0fffc000000007ffffffc000000007fffffffc0000003ffffffff80000003ffffffff80000003ffffffff80000001ffffffffffffffffffffffffffe07fffffffffffffffffffffffff1fffffffffffffff80000000000fff1ff007fff8001fff07ffffffffffffff3ffffffffffffffc3ffffffffffff800000000000000000003fffffeffffc000007ffffeffffe000000ffffeffffc000000698007ffa0000000001fe7fff0000000fe2007f8000000415f7fe7ffa0000000803fe00000000001c000000000000",
+    "avgColor": [
+      0.6941176470588235,
+      0.6627450980392157,
+      0.6431372549019608
+    ]
+  },
+  {
+    "id": "prod_024",
+    "name": "Google Pixel 8 Pro",
+    "category": "phones",
+    "imageUrl": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&h=800&fit=crop&auto=format",
+    "hash": "0001fe007fffffff00e3fe007fffffff0085fe007fffffff000af401ffffffff000ff001ffffffff003dd009ffffffff101dc0020fffffff201bc00003ffffff383c000001ffffff007a0000007fbfff00fc0000003f0fff17f80000000fc3ff5ff80000000783ff7ff80000000185ff7ffc0000000081fefff00000000041fcffffff0001007ffcfffffe0000007ffcfffffe00c030fffcfffffc004030fffcfffff8000001fff8fffff8000001fff8fffff0000001fff0ffffe0000003ff60ffffc0000003ffc0ffff80000007ffc0ffff8008000fff80ffff0010081fff00fffe0000001fff00fffc0000001ffe00fffc0000003fec00fff80000003ff800fffcf01c01ffffc0fff9f41c01ffffc0fff0261803ffff80fff00a0007ffff00ffe0024007ffff00ffc000a00ffffe00ffc000c01ffffe00ffc040021ffffc00ffc010003ffff800ffc080003fffe000ffc060007fffe000ffe00400fffec000fff80000fffd0000fffc0001fffc8000fffe0003fff80000ffff8003fff00000fffe0003ff000000ffff8007fe000000ffffe00ffe000000fffff01ffc000000fffffc3ff8000000fffffe7ff8000000fffffffff0000000ffffffffe0000000ffffffffe0000000ffffffffc0000000ffffffff80000000ffffffff80000000ffffffff00000000ffffffff00000000fffffffe00000000fffffffc00000000",
+    "avgColor": [
+      0.7803921568627451,
+      0.8392156862745098,
+      0.8588235294117647
+    ]
+  },
+  {
+    "id": "prod_025",
+    "name": "Leather Crossbody Bag",
+    "category": "bags",
+    "imageUrl": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=800&h=800&fit=crop&auto=format",
+    "hash": "000004031fcfffff000004071fcfffff00000c071fcfffff00000c071fcfffff00000c071fcfffff00000c07ffcfffff00000c1c0fcfffff00000c3001cfffff00000c4318cfffff00000c071e0fffff00000c071f0fffff00000e071f8fffff00030c071fcffffe00239c171fc7fffe0021f81f3fc7fffe0023f8073fc3fffe0023f01f3fd3fffe002020073fd3fffe002060071fdbfffe002044071fd8fffe002004071fc8fffe0002000000003ffe00271ffffffffffe00363ffffffffffe00363ffffffffffe00363ffffffffffe00343ffffffff7fe00343ffffffe07fe00347c00380007fe00304000000003fe00300000000003fe00300000000003fe0078fff80ffff7fe0078fff80fffe7fe1079fffc0fffe3fe1071fffc0fffe3fe1071fffc8fffe3fe70f3fffe0fffc3fe7073fffe0fffc3fe7073fffc0fffc3fe7073fffc1fff83fe1071fffc1fcf03fe1061ffc0080003fe00600000000001fe00600000000001fe00600000000001fe00600000000001fe00600000000001fe70640000000001fe70600000000001fe70460000000001fe31d20000000001fe03d40000000001fe07c00000000001fe0f800000000001fe1fb007ffffc001fe3f300ffffff801fe7f601ffffffff1feff603ffffffffdfffe403ffffffffffffe403ffffffffffffe78000000000ffffffe0098bf001fffffffffffffffffff",
+    "avgColor": [
+      0.7215686274509804,
+      0.43137254901960786,
+      0.36470588235294116
+    ]
+  },
+  {
+    "id": "prod_026",
+    "name": "Bar Stool Modern",
+    "category": "chairs",
+    "imageUrl": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&h=800&fit=crop&auto=format",
+    "hash": "000000000001ffff00000000000fffff00000000003fffff000000001fffffff000000003fffffff00000000ffffffff00000002ffffffff00000007ffffffff00000007ffffffff0000000fffffffff0000000fffffffff0000001fffffffff00000017ffffffff0000001fffffffff0000003fffffffff0000007fffffffff0fffffffffffffff0fffffffffffffff07ffffffffffffff07ffffffffffffff03ffffffffffffff03ffffffffffffff026fffffffffffff0007ffffffffffff0003ff8000ffffff0000000000000007000000000000000700000000000000070000000000000007000000000000000700000000000000030000000000000000e03ffff000000000083ffff800000000001efffc0000000000000ff80000000000000000000000007fffffff7dffff00400011ffffffffff67f07effc3ffffff00f02c7fffff7fff0000001fffff1fff00000000f3e38fff000000000000000104103907ffef0d070ffa7fbfffeffff73efb7b3fffffffff9dff117ffdffffff0000000000ffffcc0000000001ffffdc00000000007fffdc000000000007ffce000000000003ffce00000000010bffdf00000000041fffff000000003cffffff00000019fefdffff00000870feffffff000080f1ffffffff00019ff3ffffffff00071ff3fffdffff080fbfe7ffffffff001fffe7ffffffff003ffff7ffffffff",
+    "avgColor": [
+      0.6,
+      0.6,
+      0.5803921568627451
+    ]
+  },
+  {
+    "id": "prod_027",
+    "name": "Stoneware Beer Mug",
+    "category": "mugs",
+    "imageUrl": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=800&fit=crop&auto=format",
+    "hash": "000000000000000000000000000000000000000010000000000000003e000000000060003f800000000000853fbc8000000003ce77fe000000e007ff7ffd9f8003e013fbffffd70007ee1fffffffff00c67c1ffbfffdbf30fcf9fffd7fffffffd3fffff9ffffffff9fffffffffffffffffffff57ffffffff3ffffbf1ffffffff0001a00000ff30000007e00000fffc003c19f91000fe3c007c00fff007fc1fe03a00d0407fd6bfc00260f007fffeffc00077e007fff41dc00fe60007e7a005c00f80001f838006f0468c101fc7e002e00c00383fde3103f80e0cf8fffc00077cdaeffdffff0007fe7fefffffff03e7fcfbc7fffffe0ffffcf9e3ffff383bfff8f1b3ffdf6839fff8f8f1c3ce0c7ffffdfef90b8f3efffff8fc2a870e1efffff4fb86071a32fffff8fbdb8f1b53ffffe5230d6f1fbfdfffe601800f8fafcfffe000000f9ff7dffff000281e3fc21ffff0002e1811907fffe900240003f1fbfffe0018000281dfffde002000000183883000300000000100000020001800000000ffffffffffffffff7fffffffffffffff9fffffffffffff7f9fffffffffffff0f0ffffffffffffc0303f7fffffffffe0203f7ffffffffe200007fffff9fff800000f37fff874c000000e6fff607c80000006fdff800400000000087d0000000000000030080000000000000000000000000000000000000000000000000000000",
+    "avgColor": [
+      0.08627450980392157,
+      0.08627450980392157,
+      0.08627450980392157
+    ]
+  },
+  {
+    "id": "prod_028",
+    "name": "Crystal Chandelier Lamp",
+    "category": "lamps",
+    "imageUrl": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=800&h=800&fit=crop&auto=format",
+    "hash": "00080080000000000a8800a000000000affff9e200000000efffffc000000000ffffffc000000000fffbffbc00000000ffffffc000000000ffffffe000000000fffffff0e0000000ffffffffe0000000ffffffffd6000000ffffffffff960000ffffffffffff0000ffffffffffffc000ffffffffffffa000ffffffffffffe500fffa000000000000ffff000000000000ffffc00000000000fffff40000000000ffffff0000000000ffffff0000000000fffffff000000000fffbfffc00000000ffffffff80000000fffffffff0000000fffffffffc000000ffffffffff800000ffffffffffb00000ffffffffffff0000ffffffffffff4000ffffffffffffc000fffff00000000000fffff80000000000fffffc0000000000ffffff0000000000ffffffc000000000ffffffe400000000fffffffc00000000ffffffffa0000000fffffffff4000000fffffffff8000000fffffffffc000000fffffffffc000000fffffffff8000000fffffffffc000000ffffffffff800000ffffffffff800000ffffffe000000000fffffff000000000fffffff000000000fffffff800000000fffffffe00000000fffffffe00000000ffffffff00000000ffffffff00000000ffffffff80000000ffffffffc0000000ffffffffe0000000ffffffffe0000000ffffffffe0000000ffffffffc0000000ffffffffc0000000ffffffffc0000000",
+    "avgColor": [
+      0.16862745098039217,
+      0.403921568627451,
+      0.42745098039215684
+    ]
+  },
+  {
+    "id": "prod_029",
+    "name": "Adidas Ultraboost Shoes",
+    "category": "shoes",
+    "imageUrl": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=800&h=800&fit=crop&auto=format",
+    "hash": "fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff9bfffffffffffffe7bffbffffffffffffffffffffffffff7f7feffffffffffce7dff3fffffffff1ff87c1ffffffffefff0fc1ffffffffffff0781fffffffe7ff6ffc0ffffffe3fff83f307ffffe1ffff000017ffffefffc00003f7fff3fffff0000feffe3ffffff800ff87fe7fffe7f8003803fe3ffc00e000001bfe1ff800000007fffe3bb8f00ffffffffe1fc3fe0fffffff7f9fcfff0ffffffe7f87ff0ffffffffcff83fc03fffffff0ffc1f801ffffff81fe000000fffff0007e000000000800007fffe0381e1e10fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "avgColor": [
+      0.6980392156862745,
+      0.8549019607843137,
+      0.2901960784313726
+    ]
+  },
+  {
+    "id": "prod_030",
+    "name": "Rolex Submariner Watch",
+    "category": "watches",
+    "imageUrl": "https://images.unsplash.com/photo-1547996160-81dfa63595aa?w=800&h=800&fit=crop&auto=format",
+    "hash": "003fffffffffff80001fffffffffff00000ffffffffffe000007fffffffffc000003fffffffffc000001fffffffffc000000fffffffffc0000003ffffffff80000001ffffffff88000000fffffff6780000003fffff80f00000000ffcfe010000000001fffe000000000003fff80000000000bffff00000000001fe3f7000000003fffffffff0000003ffffffffe0000001ffffffffc00000003bffffff8000000003fffffe000000001ffffffc000000003ffffff8000000003ffffff0000000007fffffc0000000007ffffff000000000fffffff800000000fffffffc00000001ffffffffc0000001fffffffff8000001fffffffffe000003ffffffffff800003ffffff17f7c00003fffffd1ff7e00003ffffff3bffe00003fffffb3bffe00003fffffb2bffe00003ffffe12fffe00003ffffd947ffc00003ffffbb437fc00003ffff3b476ef00003ffff7b074dfc0000fffcf3c34df800003ff9818005f000003fe00f0000f800000001fff800f000000007fffc07f00000000010007ff0000000000007ffc0000000003fffffc000003fffffffff9c0001fffffffffffb0007ffffffffffff001fffffffffffff001ffffffffffffe007ffffffffffffc003ffffffffffff80000fffffffffff0000000fffffffbe0000000007ffff0c0000000000e7fe00000000000003f800000000000001c000000000000001c00000",
+    "avgColor": [
+      0.19607843137254902,
+      0.1411764705882353,
+      0.1411764705882353
+    ]
+  },
+  {
+    "id": "prod_031",
+    "name": "Sony WH-1000XM5 Headphones",
+    "category": "headphones",
+    "imageUrl": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=800&h=800&fit=crop&auto=format",
+    "hash": "007ffffc00000000007fffff0000000000ffffffc000000001ffffffc000000001ffffffe000000003fffffff000000001fffffff000000007fffffff800000007fffffffc00000007fffffffe0000000fffffffff0000000fffffffff8000001fffffffff8000001fffffffffc000001fffffffffc000001fffffffffe000001ffffff80fe000001fffffc000e000003fffff00003000003ffffc00001800003ffff800000000003ffff000000000003fffe00ff80000007fffc07ffe0000007fffc3ffff8000007fff83ffffe00000ffff07fffff000007fff0ffffff000007fff0ffffff800007ffe1ffffff800007ffe1ffffffc0000fffe1ffffffc0000fffc3ffffffe1c00fffc3ffffffe1c00fffc3ffffffe1c00fffc3ffffffe1c00fffc3ffffffe0c00fffc1ffffffc0000fffc1ffffff80000fff807fffff00000fff800ffffc00000fff8007ffe000000fff8001ffc000000fff0000ff8000000fff00007f0000000ffe00003e0000000ffe00003c0000000ffe0000180000000ffe00001800007fffff00001800007fffff00000000007fffff00000000007fffff0000000000ffffff8000000000ffffff8000000000ffffffc000000001ffffffe000000003fffffff000180003fffffff800180007fffffffc003c00007ffffffc001e00007ffffffe003f0000fffffffffffff003fffffffffffffffffff",
+    "avgColor": [
+      0.592156862745098,
+      0.5019607843137255,
+      0.4627450980392157
+    ]
+  },
+  {
+    "id": "prod_032",
+    "name": "ASUS ROG Gaming Laptop",
+    "category": "laptops",
+    "imageUrl": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800&h=800&fit=crop&auto=format",
+    "hash": "0008000000000000000800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000018000003000000041800000300000004400000000000000000007ff3080c0401c7fffff3fffffffff7fffffffffffffffffffffffffffffffffffff01f000fff82ffe7f01c0025f8007fefc01e100fffe3ffff803ff007fffffffff00efe00fffffffff11fffc2fffe7ffff1feff8000bc3ffff0ffff80243e3fffe07fff8c001c1fffe07ffffffffc3fffe03fffffffffffffc000000000000000000000000000000000020000000007e7c07e000000000003e0fc000000000003f1fe12b568000ff5f3ff999120000fc8f7ffffff00043ffff1fffffffffffffff1fffffffffffffff0fffffffffffffff0fffffffffffffff07ffffffffffffff07ffffffffffffff00000007ffbff8000000000000000000000000000000000000000000000000000000000000000000000000007f9ff800000000000003c0007fffffffffffffff1fffffffffffffff0fffffffffffffff07ffffffffffffff03ffffffffffffff01fffe1ffffffffe01fffc3ffffffff800fff80fffffffe0007fe000ffffffc0001f0000008fffc0000000000003fc0000000000000040000000000000000000000000000000000000000000000000000000000000000000",
+    "avgColor": [
+      0.2627450980392157,
+      0.17254901960784313,
+      0.41568627450980394
+    ]
+  },
+  {
+    "id": "prod_033",
+    "name": "OnePlus 12 Smartphone",
+    "category": "phones",
+    "imageUrl": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?w=800&h=800&fit=crop&auto=format",
+    "hash": "01fffff9ffffe0000000fff0fffff8000000000000000000000000000000000001fffff9fffffe000000000001800000000000000000000003fffffdfffffc0000000000780000000ffffffdffffc0000007fffdfffffff803fffffdffffc00001fffffdfffffff87fffffffffffff801fffff00003ffff05ffffe7fffdffff01ffffeffffdffff00ffffeffffefffe007fffeffffefff8001fffe80002fff0000fffe00000ffc00003ffeff7f0ff800000ffeffffcfe0000007feffffcfc0000001feffffcf80000000feffffee000000007effffce000000003effffcc000000001effff8c000000001cbfff0c00000000f0bffe0c00000001e09ffe000000007fe2ffffa1f800003f86fffbe1f000003f0ecffbe9f000001f1e9ffa6be000001f9e9ffeac600000ff9ebfffec78000fff8effffee7f00fe1f1effffeeffe0c03fbeffffe170fc003fbeffffe0000f003ffeffffe00000001ffefffffc0000001ffe9ffc3e4000001ffc800026c000000ffc80c000c000000ffc80e0b0c000000ffc80e0bdf000000ffe804021f000002ffeffffe3f000000ffeffffe3f0000007ffffffeb80000017ffffffd98000003fff7ffff00000007c7f8007f0e00000fe01f81ff8f00000ff03fe3ff8f00001ff83fe7ff8f00001ff80fefffcf00003ffc1fdfffff00003ffe3fbfff8000007ffe7c7fff800000fffd40ffff80000",
+    "avgColor": [
+      0.3803921568627451,
+      0.3764705882352941,
+      0.4117647058823529
+    ]
+  },
+  {
+    "id": "prod_034",
+    "name": "Gucci Designer Bag",
+    "category": "bags",
+    "imageUrl": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&h=800&fit=crop&auto=format",
+    "hash": "000003800ffffff000000183bffffff8000001f3bffffffc000000837ffffffc00000007ffffffff00000001ffffffff00000000fffffffc000000003ffffffc00000003fffffff000000003fffffff10000003bffffffff00000019ffffffff00000001ffffffff00000000ffffffff000000007fffffff000000003fffffffff8000001fffffffff8000001ffffffeff8000001ffffff8ff0000001ffffff0ff0000000fffffe0ff0000000fffffc0ff0000000fffff00ff0000000fffff00ff0000000fffff00ff0000000fffffc0ff0000000fffffc0ff0000000fffffe0ff0000000ffffff0ff0000000ffffff8ff0000000ffffffcff00000007fffffefe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe0000000000fffffe0000000000fffffe0000000001ffffff00000000003fffff00000003c00fff7f80000007fe07ff03c0000007ffe1df030000000fffffefff000003fffffff1ffffffffffffffff0e003fffffffffff000000000fffffff0000000003feffff0000000003f800000000000003fc0000ff00000001fc0000fffffc0003fe0000ffffffffffffd800ffffffffffffffff",
+    "avgColor": [
+      0.5529411764705883,
+      0.5764705882352941,
+      0.6235294117647059
+    ]
+  },
+  {
+    "id": "prod_035",
+    "name": "Recliner Armchair Leather",
+    "category": "chairs",
+    "imageUrl": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=800&fit=crop&auto=format",
+    "hash": "000000007fffffff00000000ffffffff00000000ffffffff00000001ffffffff00000001ffffffff00000003ffffffff00000003ffffffff00000003ffffffff00000003ffffffff00000003ffffffff000000000fffffff00000000001fffff00000003ffdfffff00000003ffdfffff00000003ffdfffff00000003ffdfffff001bfe73ffdfffff001bfe73ffdfffff0013fe73ffdffff80013fff3ffdffff00010fff3ffdffff00010fff38fdffff000107ff307dfdff000003ff207d7bff000000ff207d3fff0000001f307c1bff0000000330fc1fff000000003ffdf7ff000000003ffd1fff0000000000011fff00000000001f1fff00000000003fbfff8003ff9ffffffffff003ff1ffffffffff000001fffffbffff000000fffffbffff000000fffffbffff000000ffffffff81000000fffe7fff0100000001803ff70100000001003ff4f9000000017ffff7ff000000017ffff7ff000000017ffff7ff000000013ffff7ff00000001fffff7ff00000001fff3f00000000031df33f0000000001c9fb3f600000000001fb3ffff0000000003b3ffff0000600007bfffff000060001fffffff00006000ffffffff000070ddffffffff0000f0f1ffffffff00006063ffffffff000000c3ffffffff000000c7ffffffe000000003fffffff000000183fffffff800000103fffffffc00000003fffffffc00000003ffffffff",
+    "avgColor": [
+      0.5882352941176471,
+      0.5529411764705883,
+      0.5019607843137255
+    ]
+  },
+  {
+    "id": "prod_036",
+    "name": "Enamel Camping Mug",
+    "category": "mugs",
+    "imageUrl": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=800&h=800&fit=crop&auto=format",
+    "hash": "fffffe6000000000ffffff0000000000ffffff8000000000fffffffc00000000fffffffd00000000ffffffff40000000ffffffff00000000ffffffffc0000000ffffffffe8000000fffffffffe000000ffffffffff000000fffffffffdc00000fffffff07eb00000fffffe000fd80000fffff80007640000fffff000039d0000ffffe00007ffffffffffc00007e47fffffffc00003e03fffffffc00001e03ffeffffc00000e71ffcffffe000004f1ff8ffffe000001e1ff0fffff800001c3fe0fffffc0000103f80ffffff8000007f00ffffffe00000c000ffffffe000020000ffffffe000000000ffffffc000000000ffffcfc000000000ffffcfc000000000ffffeffc0000000fffffeffc00000007ffffeffc00000003ffffcffc00000007ffffc7fc0000001fffffc3fc0000003fffffc3fc0000007fffffc0fc0000007fffffc000000000ffffffc000000001ffffffc000000001ffffffc000000001ffffffffe0000001fffffffff0000001fffffffff0000003fffffffff8000003fffffffff000000000fffffff000000000fffffff000000000fffffff000000000fffffff800000000fffffffe00000000ffffffff00000000fffffffff0000000ffffffffffc00000fffffffffc000000fffffffff0000000fffffffec0000000fffffffe10000000fffffff600000000fffffff400000000fffffffe80000000",
+    "avgColor": [
+      0.8705882352941177,
+      0.8431372549019608,
+      0.8156862745098039
+    ]
+  },
+  {
+    "id": "prod_037",
+    "name": "Industrial Pendant Light",
+    "category": "lamps",
+    "imageUrl": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=800&h=800&fit=crop&auto=format",
+    "hash": "00080080000000000a8800a000000000affff9e200000000efffffc000000000ffffffc000000000fffbffbc00000000ffffffc000000000ffffffe000000000fffffff0e0000000ffffffffe0000000ffffffffd6000000ffffffffff960000ffffffffffff0000ffffffffffffc000ffffffffffffa000ffffffffffffe500fffa000000000000ffff000000000000ffffc00000000000fffff40000000000ffffff0000000000ffffff0000000000fffffff000000000fffbfffc00000000ffffffff80000000fffffffff0000000fffffffffc000000ffffffffff800000ffffffffffb00000ffffffffffff0000ffffffffffff4000ffffffffffffc000fffff00000000000fffff80000000000fffffc0000000000ffffff0000000000ffffffc000000000ffffffe400000000fffffffc00000000ffffffffa0000000fffffffff4000000fffffffff8000000fffffffffc000000fffffffffc000000fffffffff8000000fffffffffc000000ffffffffff800000ffffffffff800000ffffffe000000000fffffff000000000fffffff000000000fffffff800000000fffffffe00000000fffffffe00000000ffffffff00000000ffffffff00000000ffffffff80000000ffffffffc0000000ffffffffe0000000ffffffffe0000000ffffffffe0000000ffffffffc0000000ffffffffc0000000ffffffffc0000000",
+    "avgColor": [
+      0.16862745098039217,
+      0.403921568627451,
+      0.42745098039215684
+    ]
+  },
+  {
+    "id": "prod_038",
+    "name": "Puma Running Shoes",
+    "category": "shoes",
+    "imageUrl": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=800&h=800&fit=crop&auto=format",
+    "hash": "00000000000000000000000000000000000000000000000000000000000000000000000000f800000000000000fc00000000000001fc00000000000001ff00000000000001ff80000000000001ffc0000000000001fff0000000000007fff0000000000007fffc00000000000ffffc00000000001ffffe00000000003ffffe000000000c7ffffe000000001fffffff000000003fffffff00000000ffffffff80000001ffffffff80000003ffffffff80000007ffffffff00000007ffffffff00000007fffffffe00000007fffffffc00000007fffffff80000000ffffffff80000001ffffffff00000001fffffffc00000003fffffff800000003fffffff000000007fffffff00000000fffffffe00000000fffffff800000000fffffff800000000fffffff000000001ffffffe000000001ffffff8000000003ffffff0000000003ffffff0000000003fffffc0000000007fffffc000000000ffffff8000000000fffffe0000000000fffffe0000000003fffffc0000000003fffff80000000007fffff00000000007ffffe0000000001fffffc0000000001fffff80000000001ffffe00000000001ffffc00000000001ffff800000000001fffe800000000001fffe000000000001fff0000000000001ffe0000000000000ff0000000000000002000000000000000000000000000000000000000000000000000000000000",
+    "avgColor": [
+      0.27450980392156865,
+      0.27450980392156865,
+      0.27450980392156865
+    ]
+  },
+  {
+    "id": "prod_039",
+    "name": "Casio G-Shock Watch",
+    "category": "watches",
+    "imageUrl": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=800&h=800&fit=crop&auto=format",
+    "hash": "000000000000000000000000000000000000000000000000000000000000000000007fff00000000001ffffffc0000000fffffffff800000fffffff3fff00000ffffffc03fff0000ffffff801fffff80ffffff000fffffffffffff000ffffffffffffe000ffffffffffff0001fffffffffffc7001fffffffffff1f001fffffff00001e000000000000007e00000000000001fc00000000000003f80000000000000ff00000000000003ff00000000000007fe08ff700000000ffc19fff80065e01ff817ffcefffff03ff82fffe7fffff07ff00ffff3fffff07fe3dfffe2fffff0ffc7dfff79fffff1ff9fbffef9fffff1ffffbffdf93ffff3ffffbff3f17ffff3fe003fe3f9400003fe0037c7f9e00007fc003f9ff9f00007f8003f3fe1f0000ff8001c7ff1f0000ff00019fff3e0000fe0000fffa7e0000ff0fc07bf8780000ff3fc03fb8c00004ffffc01fa38004ffffffc0038682ffffffbf80000cffffffff9f00000e7fffffff8000001f7c3fffffc000003f807fffffc000003f00ffffff0000007f007800ff000000ff00fc00ff000000fe00f800ff000003fe01f80060000007fc21f80000000007f9f9e000000003fff1fc000a00001fffe13006ff0000ffffc17b7fff0003ffff81ffffff0007ffff01ffffff0007fffe01ffffff000ffff801ffffff007ffff001ffffff01ffff8000ffffff07fffe0000ffffff",
+    "avgColor": [
+      0.6627450980392157,
+      0.6352941176470588,
+      0.6039215686274509
+    ]
+  },
+  {
+    "id": "prod_040",
+    "name": "Bose QuietComfort Earbuds",
+    "category": "headphones",
+    "imageUrl": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&h=800&fit=crop&auto=format",
+    "hash": "0000001fc0000000000000ffc0000000000005ffe0000000000007fff000000000003ffff000000000043ffff80000000000fffffc000000000ffffffe800000007ffffffffce40000bfffffffffff8000fff83ffffffff800ffe003ffffffff03ff8043ffffffff07ff01f1ffffffff1ffc07f1ffffffff1ff01ff1ffffffff3fe07fd1ffffffff3fe1ffb07fffffff7fe3ffb87fffffff7fe3fff0703fffffffe3ffc0000fffffffe18f000007ffffffc07c000001ffffffc07800000070ffff8040000000e07fff1000000000c87ffe3000000000027ffe200000000000fffc410000000001fffcc38000000003fffc87e060000007fffc07ffe000000fff0007ffc0000007ff001f0fe000000fff017c03fc00000fff01f000fe00001fff00e0007f00803fff01c0007f00007fff0080003f8001ffff0080003fc003ffff0100021fe007ffff0080070ff01fffff00c00707ffffffff00c04027ffffffff0040c077ffffffff0080c1f3ffffffff0080c3fbffffffff00000ffbffffffff00003ff8017fffff00007ff80dffffff00003ff01effffff00003ff01e7fffff00001fc07bffffff00000780fe7fffff00000000feffffff000000003fffffff000000003fffffff000000003effffff000000003dffffff000000003f3fffff000000003fbfffff000000003fffffff000000001fffffff000000003f7fffff",
+    "avgColor": [
+      0.7215686274509804,
+      0.7176470588235294,
+      0.8235294117647058
+    ]
+  },
+  {
+    "id": "prod_041",
+    "name": "HP Spectre Laptop",
+    "category": "laptops",
+    "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&h=800&fit=crop&auto=format",
+    "hash": "00007ffffffe00000000ffffffff00000007ffffffff8000000fffffffffe0000007ffffffffe0000007ffffffffe000001ffffffffff000003ffffffffff000003ffffffffff000003ffffffffff000003fffffffffc000003fffffffff8000001ff00047e80000001ff00003e00000000ff00003600000000f200003280100ffffffffffffffffffff00000000fffffffe000000007ffffffe000000007ffffffe000000007ffffffe000000007ffffffe000000007ffffffe000000007ffffffe000000007ffffffe000000007fff7ffe000000007fff9ffe000000007ffffffe000000007ffffffe000000007ffffffe000000007fffdffe000000007fff0c7c000000007fff007c000000007fff003c000000007fff001c000000007ff7003c000000007ff7007c000000007fe000fc000000007ff0fffc000000007ffffffc000000007fffffffc0000003ffffffff80000003ffffffff80000003ffffffff80000001ffffffffffffffffffffffffffe07fffffffffffffffffffffffff1fffffffffffffff80000000000fff1ff007fff8001fff07ffffffffffffff3ffffffffffffffc3ffffffffffff800000000000000000003fffffeffffc000007ffffeffffe000000ffffeffffc000000698007ffa0000000001fe7fff0000000fe2007f8000000415f7fe7ffa0000000803fe00000000001c000000000000",
+    "avgColor": [
+      0.6941176470588235,
+      0.6627450980392157,
+      0.6431372549019608
+    ]
+  },
+  {
+    "id": "prod_042",
+    "name": "Xiaomi 14 Pro Phone",
+    "category": "phones",
+    "imageUrl": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?w=800&h=800&fit=crop&auto=format",
+    "hash": "01fffff9ffffe0000000fff0fffff8000000000000000000000000000000000001fffff9fffffe000000000001800000000000000000000003fffffdfffffc0000000000780000000ffffffdffffc0000007fffdfffffff803fffffdffffc00001fffffdfffffff87fffffffffffff801fffff00003ffff05ffffe7fffdffff01ffffeffffdffff00ffffeffffefffe007fffeffffefff8001fffe80002fff0000fffe00000ffc00003ffeff7f0ff800000ffeffffcfe0000007feffffcfc0000001feffffcf80000000feffffee000000007effffce000000003effffcc000000001effff8c000000001cbfff0c00000000f0bffe0c00000001e09ffe000000007fe2ffffa1f800003f86fffbe1f000003f0ecffbe9f000001f1e9ffa6be000001f9e9ffeac600000ff9ebfffec78000fff8effffee7f00fe1f1effffeeffe0c03fbeffffe170fc003fbeffffe0000f003ffeffffe00000001ffefffffc0000001ffe9ffc3e4000001ffc800026c000000ffc80c000c000000ffc80e0b0c000000ffc80e0bdf000000ffe804021f000002ffeffffe3f000000ffeffffe3f0000007ffffffeb80000017ffffffd98000003fff7ffff00000007c7f8007f0e00000fe01f81ff8f00000ff03fe3ff8f00001ff83fe7ff8f00001ff80fefffcf00003ffc1fdfffff00003ffe3fbfff8000007ffe7c7fff800000fffd40ffff80000",
+    "avgColor": [
+      0.3803921568627451,
+      0.3764705882352941,
+      0.4117647058823529
+    ]
+  },
+  {
+    "id": "prod_043",
+    "name": "Prada Shoulder Bag",
+    "category": "bags",
+    "imageUrl": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=800&h=800&fit=crop&auto=format",
+    "hash": "000004031fcfffff000004071fcfffff00000c071fcfffff00000c071fcfffff00000c071fcfffff00000c07ffcfffff00000c1c0fcfffff00000c3001cfffff00000c4318cfffff00000c071e0fffff00000c071f0fffff00000e071f8fffff00030c071fcffffe00239c171fc7fffe0021f81f3fc7fffe0023f8073fc3fffe0023f01f3fd3fffe002020073fd3fffe002060071fdbfffe002044071fd8fffe002004071fc8fffe0002000000003ffe00271ffffffffffe00363ffffffffffe00363ffffffffffe00363ffffffffffe00343ffffffff7fe00343ffffffe07fe00347c00380007fe00304000000003fe00300000000003fe00300000000003fe0078fff80ffff7fe0078fff80fffe7fe1079fffc0fffe3fe1071fffc0fffe3fe1071fffc8fffe3fe70f3fffe0fffc3fe7073fffe0fffc3fe7073fffc0fffc3fe7073fffc1fff83fe1071fffc1fcf03fe1061ffc0080003fe00600000000001fe00600000000001fe00600000000001fe00600000000001fe00600000000001fe70640000000001fe70600000000001fe70460000000001fe31d20000000001fe03d40000000001fe07c00000000001fe0f800000000001fe1fb007ffffc001fe3f300ffffff801fe7f601ffffffff1feff603ffffffffdfffe403ffffffffffffe403ffffffffffffe78000000000ffffffe0098bf001fffffffffffffffffff",
+    "avgColor": [
+      0.7215686274509804,
+      0.43137254901960786,
+      0.36470588235294116
+    ]
+  },
+  {
+    "id": "prod_044",
+    "name": "Eames Plastic Chair",
+    "category": "chairs",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=800&h=800&fit=crop&auto=format",
+    "hash": "000fffec00000000003ffffe00000000007fffff0000000001ffffffc000000003ffffffc000000007ffffffc000000007ffffffe00000000ffffffff80000001ffffffff80000001ffffffffa0000003ffffffffe0000003fffffffff8000007fffffffff8000007fffffffff0000007fffffffff800000ffffffffff8000000fffffffe00000000fffffffe00000000ffffffff00000000fffffffe40000001fffffffff0000001fffffffffc000001fffffffffc000001fffffffffe000001ffffffffffc00003ffffffffffc00007fffff0007b800007fffc0000c780000ffff80000c780000ffff80000c700000ffffe00004700000ffffc00008f00000ffffc00009f0f000ffffe00001e1f000ffffe00003e1f800ffffe0000361fc00ffffe0000363fe00ffffe0000163ff00ffffe00000c3ff00ffffe00000c3ff00ffffe00000c7ff00fffff00007c7ff007ffffffc79c7ff007ffffe000007ff007ffff4000007ff007ffff0000007ff003ffff8000007ff003ffffc000007ff800ffff000000000000fffe000000b000007fff19ff81f800007fff19ffc1f800007fff1bff81fc0000ffff1bffc1fc0000ffff1bff81fc0000ffff13ffc1fe0000ffff17ffc0fe0001ffff17ffc4fc0003ffff37ffc4f80003ffffb7ffc4e00003ffff27ffc4000003ffffb80000000003ffffbff800000000ffffbffc0000000",
+    "avgColor": [
+      0.8588235294117647,
+      0.8745098039215686,
+      0.8588235294117647
+    ]
+  },
+  {
+    "id": "prod_045",
+    "name": "Vintage Thermos Mug",
+    "category": "mugs",
+    "imageUrl": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=800&fit=crop&auto=format",
+    "hash": "000000000000000000000000000000000000000010000000000000003e000000000060003f800000000000853fbc8000000003ce77fe000000e007ff7ffd9f8003e013fbffffd70007ee1fffffffff00c67c1ffbfffdbf30fcf9fffd7fffffffd3fffff9ffffffff9fffffffffffffffffffff57ffffffff3ffffbf1ffffffff0001a00000ff30000007e00000fffc003c19f91000fe3c007c00fff007fc1fe03a00d0407fd6bfc00260f007fffeffc00077e007fff41dc00fe60007e7a005c00f80001f838006f0468c101fc7e002e00c00383fde3103f80e0cf8fffc00077cdaeffdffff0007fe7fefffffff03e7fcfbc7fffffe0ffffcf9e3ffff383bfff8f1b3ffdf6839fff8f8f1c3ce0c7ffffdfef90b8f3efffff8fc2a870e1efffff4fb86071a32fffff8fbdb8f1b53ffffe5230d6f1fbfdfffe601800f8fafcfffe000000f9ff7dffff000281e3fc21ffff0002e1811907fffe900240003f1fbfffe0018000281dfffde002000000183883000300000000100000020001800000000ffffffffffffffff7fffffffffffffff9fffffffffffff7f9fffffffffffff0f0ffffffffffffc0303f7fffffffffe0203f7ffffffffe200007fffff9fff800000f37fff874c000000e6fff607c80000006fdff800400000000087d0000000000000030080000000000000000000000000000000000000000000000000000000",
+    "avgColor": [
+      0.08627450980392157,
+      0.08627450980392157,
+      0.08627450980392157
+    ]
+  },
+  {
+    "id": "prod_046",
+    "name": "Art Deco Floor Lamp",
+    "category": "lamps",
+    "imageUrl": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=800&h=800&fit=crop&auto=format",
+    "hash": "00080080000000000a8800a000000000affff9e200000000efffffc000000000ffffffc000000000fffbffbc00000000ffffffc000000000ffffffe000000000fffffff0e0000000ffffffffe0000000ffffffffd6000000ffffffffff960000ffffffffffff0000ffffffffffffc000ffffffffffffa000ffffffffffffe500fffa000000000000ffff000000000000ffffc00000000000fffff40000000000ffffff0000000000ffffff0000000000fffffff000000000fffbfffc00000000ffffffff80000000fffffffff0000000fffffffffc000000ffffffffff800000ffffffffffb00000ffffffffffff0000ffffffffffff4000ffffffffffffc000fffff00000000000fffff80000000000fffffc0000000000ffffff0000000000ffffffc000000000ffffffe400000000fffffffc00000000ffffffffa0000000fffffffff4000000fffffffff8000000fffffffffc000000fffffffffc000000fffffffff8000000fffffffffc000000ffffffffff800000ffffffffff800000ffffffe000000000fffffff000000000fffffff000000000fffffff800000000fffffffe00000000fffffffe00000000ffffffff00000000ffffffff00000000ffffffff80000000ffffffffc0000000ffffffffe0000000ffffffffe0000000ffffffffe0000000ffffffffc0000000ffffffffc0000000ffffffffc0000000",
+    "avgColor": [
+      0.16862745098039217,
+      0.403921568627451,
+      0.42745098039215684
+    ]
+  },
+  {
+    "id": "prod_047",
+    "name": "Jordan Retro Sneakers",
+    "category": "shoes",
+    "imageUrl": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=800&h=800&fit=crop&auto=format",
+    "hash": "09ffe7fe0000000fffffc7fc00000007ffffc7f800000002ffffc3fde0000003ffffc3ffff800001ffffc7ffff800000ffcfc7ffffc00000ff03cfffffc00000fe438fff7f800000fe738fffbf800000fc2383ff9ff00000e00389ffc7f8fc00e00088dfc3ffff00e0100c47e0ffffe0ec100400e03ffffce73014001007fffeffb01f001de7fffe18700f8007e0fffe007807a383807fff00f003ffc0001fff0074001ff0000fff0060001fe00007ff0032003ffc0003ff8039807ffc0001ffc01c6f3ffe00007fc00c001b7f00003fc606000f7fff001fc607000fffffde0fce038003df7fffc3cf00c001fffffff1ff806000fffffffeefe01807ffffffffcfe000000abc00fecff8000001f7c07fc7fc000005eff83fc7ff0000007ffc1fc3ffc00001fffe0fc0fff000009fff87c07ff800006fffc3c01ffe00041bffe1c007ff00080ffff0c001ffc0000efff8c2807fe00001fff8efc01ff00007fffeffe00ffc000ffffcdfe003fe000ffffcdfe000ff8007fff9dff0007fe001fff1ffff003ffa7cfff3fbffe00ffe0fffb3f9fffe07ffeffe67f87fff81ffff70e7f83fffc07fffffcf780fffc01fffff874803ff8007ffff877800000000fffe0718000000001ff8030c003800000000010c001fff0000000006000fff8000000003fc77ff8000000087feffff8400004081f0ffffff000070c181ffffff0000f8",
+    "avgColor": [
+      0.5764705882352941,
+      0.36470588235294116,
+      0.17647058823529413
+    ]
+  },
+  {
+    "id": "prod_048",
+    "name": "Seiko Automatic Watch",
+    "category": "watches",
+    "imageUrl": "https://images.unsplash.com/photo-1547996160-81dfa63595aa?w=800&h=800&fit=crop&auto=format",
+    "hash": "003fffffffffff80001fffffffffff00000ffffffffffe000007fffffffffc000003fffffffffc000001fffffffffc000000fffffffffc0000003ffffffff80000001ffffffff88000000fffffff6780000003fffff80f00000000ffcfe010000000001fffe000000000003fff80000000000bffff00000000001fe3f7000000003fffffffff0000003ffffffffe0000001ffffffffc00000003bffffff8000000003fffffe000000001ffffffc000000003ffffff8000000003ffffff0000000007fffffc0000000007ffffff000000000fffffff800000000fffffffc00000001ffffffffc0000001fffffffff8000001fffffffffe000003ffffffffff800003ffffff17f7c00003fffffd1ff7e00003ffffff3bffe00003fffffb3bffe00003fffffb2bffe00003ffffe12fffe00003ffffd947ffc00003ffffbb437fc00003ffff3b476ef00003ffff7b074dfc0000fffcf3c34df800003ff9818005f000003fe00f0000f800000001fff800f000000007fffc07f00000000010007ff0000000000007ffc0000000003fffffc000003fffffffff9c0001fffffffffffb0007ffffffffffff001fffffffffffff001ffffffffffffe007ffffffffffffc003ffffffffffff80000fffffffffff0000000fffffffbe0000000007ffff0c0000000000e7fe00000000000003f800000000000001c000000000000001c00000",
+    "avgColor": [
+      0.19607843137254902,
+      0.1411764705882353,
+      0.1411764705882353
+    ]
+  },
+  {
+    "id": "prod_049",
+    "name": "JBL Live 400BT Headphones",
+    "category": "headphones",
+    "imageUrl": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=800&h=800&fit=crop&auto=format",
+    "hash": "ffe003ffffffc000ffe003ffffffe000ffe003ffffffe000fff007fffffff000fff80ffffffff800fffc1ffffffffc00ffffffffffffff00ffffffffffffffe0fffff8000001ff9effff000000001c0ffff800000000000fffc0000000000007fe00000000000007f800000000000000c0000003fff000000000000fffff8000000000ffffffc00000001fffffffc0000001ffffffffc0000007ffffffffc000001fffffffffc000007fffffffffc00001ff007bffffc00003fe001cffffc00007fc000e7fffc0000ff81f079fffc0001ff03fc38fffc0001ff03f81c7ffe0003ff07f00c7ffe0013fe00f0003ffe0013fe0030033fff0001fe0000031fff0001fe0000039fff00001e0000039fff8000030000ff1fff80000000001f9fffc000000000001fffc000010000000fffe0000100020091fff008f90007009cfff80cff800ff09f3ffe0fff8003ffbfcfff8fffc0027f3fe7ffffffe0003e7ff9ffffffe0003efffcfffffff0001cfffe3ffff1f80009ffff9ffff8f80003ffffc7fff8000003ffffe3f1fc0000007ffff8f03f8000001ffffc701fc0000007fffe3007e0000003ffff9003f0000001ffffc000ff0000003fffe0000ff000001ffff00007fc00000ffff00007ffc0000ffff00003ffff8007fff00001fffffe01fff00000ffffffc0fff000007fffffe3fff000007ffffffffff000007ffffffffff",
+    "avgColor": [
+      0.6235294117647059,
+      0.5490196078431373,
+      0.4980392156862745
+    ]
+  },
+  {
+    "id": "prod_050",
+    "name": "Lenovo ThinkPad X1",
+    "category": "laptops",
+    "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&h=800&fit=crop&auto=format",
+    "hash": "00007ffffffe00000000ffffffff00000007ffffffff8000000fffffffffe0000007ffffffffe0000007ffffffffe000001ffffffffff000003ffffffffff000003ffffffffff000003ffffffffff000003fffffffffc000003fffffffff8000001ff00047e80000001ff00003e00000000ff00003600000000f200003280100ffffffffffffffffffff00000000fffffffe000000007ffffffe000000007ffffffe000000007ffffffe000000007ffffffe000000007ffffffe000000007ffffffe000000007ffffffe000000007fff7ffe000000007fff9ffe000000007ffffffe000000007ffffffe000000007ffffffe000000007fffdffe000000007fff0c7c000000007fff007c000000007fff003c000000007fff001c000000007ff7003c000000007ff7007c000000007fe000fc000000007ff0fffc000000007ffffffc000000007fffffffc0000003ffffffff80000003ffffffff80000003ffffffff80000001ffffffffffffffffffffffffffe07fffffffffffffffffffffffff1fffffffffffffff80000000000fff1ff007fff8001fff07ffffffffffffff3ffffffffffffffc3ffffffffffff800000000000000000003fffffeffffc000007ffffeffffe000000ffffeffffc000000698007ffa0000000001fe7fff0000000fe2007f8000000415f7fe7ffa0000000803fe00000000001c000000000000",
+    "avgColor": [
+      0.6941176470588235,
+      0.6627450980392157,
+      0.6431372549019608
+    ]
+  },
+  {
+    "id": "prod_051",
+    "name": "Sony Xperia 1 V",
+    "category": "phones",
+    "imageUrl": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&h=800&fit=crop&auto=format",
+    "hash": "0001fe007fffffff00e3fe007fffffff0085fe007fffffff000af401ffffffff000ff001ffffffff003dd009ffffffff101dc0020fffffff201bc00003ffffff383c000001ffffff007a0000007fbfff00fc0000003f0fff17f80000000fc3ff5ff80000000783ff7ff80000000185ff7ffc0000000081fefff00000000041fcffffff0001007ffcfffffe0000007ffcfffffe00c030fffcfffffc004030fffcfffff8000001fff8fffff8000001fff8fffff0000001fff0ffffe0000003ff60ffffc0000003ffc0ffff80000007ffc0ffff8008000fff80ffff0010081fff00fffe0000001fff00fffc0000001ffe00fffc0000003fec00fff80000003ff800fffcf01c01ffffc0fff9f41c01ffffc0fff0261803ffff80fff00a0007ffff00ffe0024007ffff00ffc000a00ffffe00ffc000c01ffffe00ffc040021ffffc00ffc010003ffff800ffc080003fffe000ffc060007fffe000ffe00400fffec000fff80000fffd0000fffc0001fffc8000fffe0003fff80000ffff8003fff00000fffe0003ff000000ffff8007fe000000ffffe00ffe000000fffff01ffc000000fffffc3ff8000000fffffe7ff8000000fffffffff0000000ffffffffe0000000ffffffffe0000000ffffffffc0000000ffffffff80000000ffffffff80000000ffffffff00000000ffffffff00000000fffffffe00000000fffffffc00000000",
+    "avgColor": [
+      0.7803921568627451,
+      0.8392156862745098,
+      0.8588235294117647
+    ]
+  },
+  {
+    "id": "prod_052",
+    "name": "Louis Vuitton Speedy Bag",
+    "category": "bags",
+    "imageUrl": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&h=800&fit=crop&auto=format",
+    "hash": "000003800ffffff000000183bffffff8000001f3bffffffc000000837ffffffc00000007ffffffff00000001ffffffff00000000fffffffc000000003ffffffc00000003fffffff000000003fffffff10000003bffffffff00000019ffffffff00000001ffffffff00000000ffffffff000000007fffffff000000003fffffffff8000001fffffffff8000001ffffffeff8000001ffffff8ff0000001ffffff0ff0000000fffffe0ff0000000fffffc0ff0000000fffff00ff0000000fffff00ff0000000fffff00ff0000000fffffc0ff0000000fffffc0ff0000000fffffe0ff0000000ffffff0ff0000000ffffff8ff0000000ffffffcff00000007fffffefe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe0000000000fffffe0000000000fffffe0000000001ffffff00000000003fffff00000003c00fff7f80000007fe07ff03c0000007ffe1df030000000fffffefff000003fffffff1ffffffffffffffff0e003fffffffffff000000000fffffff0000000003feffff0000000003f800000000000003fc0000ff00000001fc0000fffffc0003fe0000ffffffffffffd800ffffffffffffffff",
+    "avgColor": [
+      0.5529411764705883,
+      0.5764705882352941,
+      0.6235294117647059
+    ]
+  },
+  {
+    "id": "prod_053",
+    "name": "Ikea Poang Chair",
+    "category": "chairs",
+    "imageUrl": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=800&fit=crop&auto=format",
+    "hash": "000000007fffffff00000000ffffffff00000000ffffffff00000001ffffffff00000001ffffffff00000003ffffffff00000003ffffffff00000003ffffffff00000003ffffffff00000003ffffffff000000000fffffff00000000001fffff00000003ffdfffff00000003ffdfffff00000003ffdfffff00000003ffdfffff001bfe73ffdfffff001bfe73ffdfffff0013fe73ffdffff80013fff3ffdffff00010fff3ffdffff00010fff38fdffff000107ff307dfdff000003ff207d7bff000000ff207d3fff0000001f307c1bff0000000330fc1fff000000003ffdf7ff000000003ffd1fff0000000000011fff00000000001f1fff00000000003fbfff8003ff9ffffffffff003ff1ffffffffff000001fffffbffff000000fffffbffff000000fffffbffff000000ffffffff81000000fffe7fff0100000001803ff70100000001003ff4f9000000017ffff7ff000000017ffff7ff000000017ffff7ff000000013ffff7ff00000001fffff7ff00000001fff3f00000000031df33f0000000001c9fb3f600000000001fb3ffff0000000003b3ffff0000600007bfffff000060001fffffff00006000ffffffff000070ddffffffff0000f0f1ffffffff00006063ffffffff000000c3ffffffff000000c7ffffffe000000003fffffff000000183fffffff800000103fffffffc00000003fffffffc00000003ffffffff",
+    "avgColor": [
+      0.5882352941176471,
+      0.5529411764705883,
+      0.5019607843137255
+    ]
+  },
+  {
+    "id": "prod_054",
+    "name": "Starbucks Reusable Cup",
+    "category": "mugs",
+    "imageUrl": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=800&h=800&fit=crop&auto=format",
+    "hash": "fffffe6000000000ffffff0000000000ffffff8000000000fffffffc00000000fffffffd00000000ffffffff40000000ffffffff00000000ffffffffc0000000ffffffffe8000000fffffffffe000000ffffffffff000000fffffffffdc00000fffffff07eb00000fffffe000fd80000fffff80007640000fffff000039d0000ffffe00007ffffffffffc00007e47fffffffc00003e03fffffffc00001e03ffeffffc00000e71ffcffffe000004f1ff8ffffe000001e1ff0fffff800001c3fe0fffffc0000103f80ffffff8000007f00ffffffe00000c000ffffffe000020000ffffffe000000000ffffffc000000000ffffcfc000000000ffffcfc000000000ffffeffc0000000fffffeffc00000007ffffeffc00000003ffffcffc00000007ffffc7fc0000001fffffc3fc0000003fffffc3fc0000007fffffc0fc0000007fffffc000000000ffffffc000000001ffffffc000000001ffffffc000000001ffffffffe0000001fffffffff0000001fffffffff0000003fffffffff8000003fffffffff000000000fffffff000000000fffffff000000000fffffff000000000fffffff800000000fffffffe00000000ffffffff00000000fffffffff0000000ffffffffffc00000fffffffffc000000fffffffff0000000fffffffec0000000fffffffe10000000fffffff600000000fffffff400000000fffffffe80000000",
+    "avgColor": [
+      0.8705882352941177,
+      0.8431372549019608,
+      0.8156862745098039
+    ]
+  },
+  {
+    "id": "prod_055",
+    "name": "Phillips Hue Smart Bulb",
+    "category": "lamps",
+    "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=800&fit=crop&auto=format",
+    "hash": "000000000007ff0f000000000007ff33006000000007ffe70070003f8007ffff00f0007fc007ffff00f800ffe007ffff007801fff003ffff001801fff803fcff018803fff803fcff03e003fff807ffff07e003fff003fff707fc03fff803ffff067803fff003ffff0278007f8003ffff037c083fde03ffff037c1fffe003ffff0000003f8003fbff00000077bc03f1ff020c03f6fe0061a703041ff6ff80efaf07341ff77f83ffff07341fe77f83ffff07b81fe73f87ffff07b80fcf3f0fdfffc7180fcfdf0ff7ffc0100f9f9e0ff7ff00000686020ff7ff00000400000fffff00001400001ffcff0000040f821ffcff0000021fc21ffc7f0000021f803ffe7f0000000fc03fffff0000000f803fffff00010000003bffff000700202013ffff001f800fc001ffff007f800180007fff01ff800000400fff07ffc0000061c3ff0fffc00000785fff3fffe000007e03ff7fffe000007f03fffffff000007fc3e1fffff800007ff167fffffd80007ffc63fffffef8007fff23ffffff3c007fff83001fff0000300000001fff8000700000001fffc000700000003fffe000f00000003fffe000e0000009fffff001e000004bfffffc03e000000bfffffe03e000000fffffff0ff800009ffffffffff800009ffffffffff800009ffffffffff800003ffffffffff000003fffffffffe000007fffffffffe000007fffffffffe00000",
+    "avgColor": [
+      0.5843137254901961,
+      0.5450980392156862,
+      0.5254901960784314
+    ]
+  },
+  {
+    "id": "prod_057",
+    "name": "Omega Seamaster Watch",
+    "category": "watches",
+    "imageUrl": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=800&h=800&fit=crop&auto=format",
+    "hash": "000000000000000000000000000000000000000000000000000000000000000000007fff00000000001ffffffc0000000fffffffff800000fffffff3fff00000ffffffc03fff0000ffffff801fffff80ffffff000fffffffffffff000ffffffffffffe000ffffffffffff0001fffffffffffc7001fffffffffff1f001fffffff00001e000000000000007e00000000000001fc00000000000003f80000000000000ff00000000000003ff00000000000007fe08ff700000000ffc19fff80065e01ff817ffcefffff03ff82fffe7fffff07ff00ffff3fffff07fe3dfffe2fffff0ffc7dfff79fffff1ff9fbffef9fffff1ffffbffdf93ffff3ffffbff3f17ffff3fe003fe3f9400003fe0037c7f9e00007fc003f9ff9f00007f8003f3fe1f0000ff8001c7ff1f0000ff00019fff3e0000fe0000fffa7e0000ff0fc07bf8780000ff3fc03fb8c00004ffffc01fa38004ffffffc0038682ffffffbf80000cffffffff9f00000e7fffffff8000001f7c3fffffc000003f807fffffc000003f00ffffff0000007f007800ff000000ff00fc00ff000000fe00f800ff000003fe01f80060000007fc21f80000000007f9f9e000000003fff1fc000a00001fffe13006ff0000ffffc17b7fff0003ffff81ffffff0007ffff01ffffff0007fffe01ffffff000ffff801ffffff007ffff001ffffff01ffff8000ffffff07fffe0000ffffff",
+    "avgColor": [
+      0.6627450980392157,
+      0.6352941176470588,
+      0.6039215686274509
+    ]
+  },
+  {
+    "id": "prod_058",
+    "name": "Sennheiser HD 206 Headphones",
+    "category": "headphones",
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&h=800&fit=crop&auto=format",
+    "hash": "0001ffffffff80000003fffffffe80000007ffffffff80000007ffffffffc0000007ffffffffc000000fffffffff8000000fffffffffe000000fffffffffc000000fffffffffe000000ffffffff00000003fffffff000000001ffffffc000000001ffffff0000000003fffffc00000000037ffff80000000001fffff00000000007ffffe00000000003ffffc000e0000007ffff801fff000007ffff80ffff800003ffff01ffffc00003ffff03ffffe00003fffe07ffffc00001fffe0fffff000003fffe0fffff400003fffc1fffffe000017ffc3fffff800000fffc38ffff000000fff8407fff0000007ff8003fff000000fff8003ff80000001bf0003ffa0007fffff8003ffffffffffff0083ffffff7fffff0083ffffff3fffff0083fffe7e1fffff0003fffc181fffff0003fff8000ffffe0003fff00007fffe0001ffe00003fffe0001ffc00003fffe0001ff800001fffe0001ff0000007ffe0001fe000000fffe0001fc0000005ffe0001f80000003ffe0000f80000001ffe0000f00000ffffff8003f00000ffffff8003e00000ffffff8003e00000ffffff8003e00000ffffffe003e000007ffffff803e000003ffffffe07e000000fffffff9fc0000007ffffffffc0000007ffffffffe0000001ffffffffe00000003fffffffe00000001ffffffff00000000bfffffff000000003ffffffe0000000000efefe800000",
+    "avgColor": [
+      0.8470588235294118,
+      0.7098039215686275,
+      0.24705882352941178
+    ]
+  },
+  {
+    "id": "prod_059",
+    "name": "Microsoft Surface Laptop",
+    "category": "laptops",
+    "imageUrl": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800&h=800&fit=crop&auto=format",
+    "hash": "0003ffffffffffff0007ffffffffffff0007ffffffffffff000fffffffffffff000fffffffffffff000ffc7fffffffff001ff801ffffffff001ff80007ffffff001ff800000fffff001ff80000003fff000ff800000003ff00007000000003ff00000000000003ff00000000000003ff00000000000003ff00000000000007ff03fff3fe7fff87ff07fff1ef11ffe7ff0fffe7f8007fe7ff07ffe780003fefff07ffe000000fefff01ffeffff887efff007feffcf8000fff0007cff000008fff7003c3e000000fffefffc07000000fffcfffc00000001fff3fffc00000001f3f3fffc01e0000000007ff8003f0000000ffff00001f000001fffc0000000000037ff800000000000e3ff000000000007f1fc00000000003ffff80000000000fff7f00000000003fff7c00000000007fff180000000004ffff70007f800009fffff000ffffe013fffff801ffffff27fffe1fc07fffffcfff840ffc07ffffdfff880fffc0ffffbffff800fffc0fff7ffff0000fffc0feffffe00000fffc0cffffe00000fffffffffffe00000ffffffffff8000000fffffffff80000000fffffffec00000000ffffffc8000010000fffffc80000000000ffff880000001c000fff080000003fc000ff080000033ff0000e080000033ff0000c0c0000001ff07c0c0f0000209ff07f880f0000049ff07fe00e000001fff03ff00e0000041ff07ff808",
+    "avgColor": [
+      0.41568627450980394,
+      0.4235294117647059,
+      0.4235294117647059
+    ]
+  },
+  {
+    "id": "prod_060",
+    "name": "Asus Zenfone 10",
+    "category": "phones",
+    "imageUrl": "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=800&h=800&fit=crop&auto=format",
+    "hash": "0ffffff80000000007fffffc000000000ffffffe000000000fffffff000000003fffffff000000003fffffff800000005fffffffc0000000bffffff3e00000003fffffe7f00000007fffffdff80000007fffffbffc0000007fffff7ffe000000fffffeffff000000fffff9ffff000000fffff7ffff8000007fffee0003c00000fffffe0000f03c00fffff0c00270c800ffffe40003780600ffffc400007f0600ffffc41ff07f0000ffffc400007f8000ffffc40ef07f8000ffffc40ad07fc000ffffc40de07fc000ffffc406b07fe000ffffc40ff07ff000ffffc400007ff800ffffc400007ffc00ffffc400007ffe00ffffc400007ffe00b9ffc420007fff00003f8000003fff80000f8000003fff800073c000003fffc0d063c000003fffe07c21e000003ffff0fc20e000003ffff07e000006003ffff83f42400f003ffff8bf9f801f803fffe01f03803f803fffe01fbf403fc03fffc01ffec07fe03fff807ffb807ff03fff003ff780fffc3ffe001fef80fffe3ffc007fdf80fffe3ff000ffbfc1fffe3fe000ff7fc1fffe3fc000feffc1fffe3f8000fdffc1fffa3f0000f3ffc1bffc3e0000e7ffc1fffa3c0000cfffc1fffe3800000fffc0fffe3000000fffc000006000000fffe0000080000007ffe000030000000ffffffffe0000000ffffffffc0000002ffffffff80000001ffffffff00000000fffffffe0000000",
+    "avgColor": [
+      0.32941176470588235,
+      0.30980392156862746,
+      0.2901960784313726
+    ]
+  },
+  {
+    "id": "prod_061",
+    "name": "Coach Leather Tote",
+    "category": "bags",
+    "imageUrl": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?w=800&h=800&fit=crop&auto=format",
+    "hash": "00041ffffe4000000000ffffff00000000007fffffb800000000fffffffc00000010fffffffc00000001fffffffc00000001fffffffe00000001fffffffe00000003ffffffff8000000bfffffff7c000001fffffffff8000000fffffffff8000000fffffffffc000000fffffffffc000001ffffe07ffc000021ffff001ffc0003fffffe1f0fffff41fffffc7fc7ffffc1fffff88003ffffc3ffffe00001ffffe3ffffc000007fffe3ffff0000003fffe3fffe0000000fffe1fffc00000007ffe3fff800000003ffe3fff000000001ffe3ffe000000001ffe3ffc000000000fff3ffc000000000fff7ff80000000007ff1ff00000000007ff3ff00000000003fffff00000000ff7fffff000000007ffffffe000000007ffffffe000000003fbffffe000000001fbffffe000000000fbffffc0000000007bffffc0000000003bffffc0000000003bffffc07ffffffffbffffc07ffffffff9ffffc0018fffffbdffffc00003fffffdffff800003f00c74ffff000000000074ffff0000000000e4ffff001ffffffffeffff00003fffffffffff0000000007ffffff0000000e07ff7fff00000007efff7ffe00000007fffdfffe00000001f7fdfffe00000000dffe7fff000000000ffe7fff000000000ffe7fff000200007ffe7fff000600c03ffe7fff000600c01ffe7fff800600c00ffeffff800400800ffeffff800000000ffcff",
+    "avgColor": [
+      0.7764705882352941,
+      0.6509803921568628,
+      0.6588235294117647
+    ]
+  },
+  {
+    "id": "prod_062",
+    "name": "Herman Miller Aeron Chair",
+    "category": "chairs",
+    "imageUrl": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=800&fit=crop&auto=format",
+    "hash": "000000007fffffff00000000ffffffff00000000ffffffff00000001ffffffff00000001ffffffff00000003ffffffff00000003ffffffff00000003ffffffff00000003ffffffff00000003ffffffff000000000fffffff00000000001fffff00000003ffdfffff00000003ffdfffff00000003ffdfffff00000003ffdfffff001bfe73ffdfffff001bfe73ffdfffff0013fe73ffdffff80013fff3ffdffff00010fff3ffdffff00010fff38fdffff000107ff307dfdff000003ff207d7bff000000ff207d3fff0000001f307c1bff0000000330fc1fff000000003ffdf7ff000000003ffd1fff0000000000011fff00000000001f1fff00000000003fbfff8003ff9ffffffffff003ff1ffffffffff000001fffffbffff000000fffffbffff000000fffffbffff000000ffffffff81000000fffe7fff0100000001803ff70100000001003ff4f9000000017ffff7ff000000017ffff7ff000000017ffff7ff000000013ffff7ff00000001fffff7ff00000001fff3f00000000031df33f0000000001c9fb3f600000000001fb3ffff0000000003b3ffff0000600007bfffff000060001fffffff00006000ffffffff000070ddffffffff0000f0f1ffffffff00006063ffffffff000000c3ffffffff000000c7ffffffe000000003fffffff000000183fffffff800000103fffffffc00000003fffffffc00000003ffffffff",
+    "avgColor": [
+      0.5882352941176471,
+      0.5529411764705883,
+      0.5019607843137255
+    ]
+  },
+  {
+    "id": "prod_063",
+    "name": "Yeti Rambler Mug",
+    "category": "mugs",
+    "imageUrl": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=800&fit=crop&auto=format",
+    "hash": "000000000000000000000000000000000000000010000000000000003e000000000060003f800000000000853fbc8000000003ce77fe000000e007ff7ffd9f8003e013fbffffd70007ee1fffffffff00c67c1ffbfffdbf30fcf9fffd7fffffffd3fffff9ffffffff9fffffffffffffffffffff57ffffffff3ffffbf1ffffffff0001a00000ff30000007e00000fffc003c19f91000fe3c007c00fff007fc1fe03a00d0407fd6bfc00260f007fffeffc00077e007fff41dc00fe60007e7a005c00f80001f838006f0468c101fc7e002e00c00383fde3103f80e0cf8fffc00077cdaeffdffff0007fe7fefffffff03e7fcfbc7fffffe0ffffcf9e3ffff383bfff8f1b3ffdf6839fff8f8f1c3ce0c7ffffdfef90b8f3efffff8fc2a870e1efffff4fb86071a32fffff8fbdb8f1b53ffffe5230d6f1fbfdfffe601800f8fafcfffe000000f9ff7dffff000281e3fc21ffff0002e1811907fffe900240003f1fbfffe0018000281dfffde002000000183883000300000000100000020001800000000ffffffffffffffff7fffffffffffffff9fffffffffffff7f9fffffffffffff0f0ffffffffffffc0303f7fffffffffe0203f7ffffffffe200007fffff9fff800000f37fff874c000000e6fff607c80000006fdff800400000000087d0000000000000030080000000000000000000000000000000000000000000000000000000",
+    "avgColor": [
+      0.08627450980392157,
+      0.08627450980392157,
+      0.08627450980392157
+    ]
+  },
+  {
+    "id": "prod_064",
+    "name": "Ikea Hemnes Lamp",
+    "category": "lamps",
+    "imageUrl": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=800&h=800&fit=crop&auto=format",
+    "hash": "00080080000000000a8800a000000000affff9e200000000efffffc000000000ffffffc000000000fffbffbc00000000ffffffc000000000ffffffe000000000fffffff0e0000000ffffffffe0000000ffffffffd6000000ffffffffff960000ffffffffffff0000ffffffffffffc000ffffffffffffa000ffffffffffffe500fffa000000000000ffff000000000000ffffc00000000000fffff40000000000ffffff0000000000ffffff0000000000fffffff000000000fffbfffc00000000ffffffff80000000fffffffff0000000fffffffffc000000ffffffffff800000ffffffffffb00000ffffffffffff0000ffffffffffff4000ffffffffffffc000fffff00000000000fffff80000000000fffffc0000000000ffffff0000000000ffffffc000000000ffffffe400000000fffffffc00000000ffffffffa0000000fffffffff4000000fffffffff8000000fffffffffc000000fffffffffc000000fffffffff8000000fffffffffc000000ffffffffff800000ffffffffff800000ffffffe000000000fffffff000000000fffffff000000000fffffff800000000fffffffe00000000fffffffe00000000ffffffff00000000ffffffff00000000ffffffff80000000ffffffffc0000000ffffffffe0000000ffffffffe0000000ffffffffe0000000ffffffffc0000000ffffffffc0000000ffffffffc0000000",
+    "avgColor": [
+      0.16862745098039217,
+      0.403921568627451,
+      0.42745098039215684
+    ]
+  },
+  {
+    "id": "prod_065",
+    "name": "Vans Old Skool Shoes",
+    "category": "shoes",
+    "imageUrl": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=800&h=800&fit=crop&auto=format",
+    "hash": "00ffffffff80000000ffffffff80200001ffffffffc0400001ffffffffc0400001ffffffffe0800001ffffffffc1000003ffffffffc4000003ffffffff98000003fffffc3fe0000003fffff80000000003fffff00000000003fffff00000600003fffff00003e00003fffff8000f800001ffffe007fe009001fffff07ff802703fffffa0ff8009f81fffffc1c00027fc1fffffc38000bff80fffff470002fff00fffff4e0009ffc007fffe9c0037ff800ffffcb800dffe0007ffecf0037ff80007fe7de00dffe00007ffdf8037ff800007ffff00dfff000003fc19037ffc000003fc810dfff0000003f80077ffc0000003e003ffff00000003800ffffe000000ff00ffffff800000fc07ffffff800000f81fffffff000000f1fffffffe000000fffffffffc000000fffffffff8000000fffffffff0000000ffffffffc0000000ffffffff00000000fffffffe00000000fffffff000000000ffffffe000000000ffffff8000000000ffffff0002000000fffffc001f900000ffffe0003ff8e000fffc000000000000fffc000000000000fff8000000000000fff8000000000000fff8000000000000fff8000000000000fff8000000000000fffc0000000007e0fffc00000000ffe0fffe0000001ffff0ffff800003fffff8fffff007fffffffcfffffffffffffffc7ffffffffffffffcfffffffffffffffefffffffffffffffe",
+    "avgColor": [
+      0.8274509803921568,
+      0.5254901960784314,
+      0.13333333333333333
+    ]
+  },
+  {
+    "id": "prod_066",
+    "name": "Tissot Le Locle Watch",
+    "category": "watches",
+    "imageUrl": "https://images.unsplash.com/photo-1547996160-81dfa63595aa?w=800&h=800&fit=crop&auto=format",
+    "hash": "003fffffffffff80001fffffffffff00000ffffffffffe000007fffffffffc000003fffffffffc000001fffffffffc000000fffffffffc0000003ffffffff80000001ffffffff88000000fffffff6780000003fffff80f00000000ffcfe010000000001fffe000000000003fff80000000000bffff00000000001fe3f7000000003fffffffff0000003ffffffffe0000001ffffffffc00000003bffffff8000000003fffffe000000001ffffffc000000003ffffff8000000003ffffff0000000007fffffc0000000007ffffff000000000fffffff800000000fffffffc00000001ffffffffc0000001fffffffff8000001fffffffffe000003ffffffffff800003ffffff17f7c00003fffffd1ff7e00003ffffff3bffe00003fffffb3bffe00003fffffb2bffe00003ffffe12fffe00003ffffd947ffc00003ffffbb437fc00003ffff3b476ef00003ffff7b074dfc0000fffcf3c34df800003ff9818005f000003fe00f0000f800000001fff800f000000007fffc07f00000000010007ff0000000000007ffc0000000003fffffc000003fffffffff9c0001fffffffffffb0007ffffffffffff001fffffffffffff001ffffffffffffe007ffffffffffffc003ffffffffffff80000fffffffffff0000000fffffffbe0000000007ffff0c0000000000e7fe00000000000003f800000000000001c000000000000001c00000",
+    "avgColor": [
+      0.19607843137254902,
+      0.1411764705882353,
+      0.1411764705882353
+    ]
+  },
+  {
+    "id": "prod_067",
+    "name": "Audio-Technica ATH-S200BT",
+    "category": "headphones",
+    "imageUrl": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=800&h=800&fit=crop&auto=format",
+    "hash": "ffe003ffffffc000ffe003ffffffe000ffe003ffffffe000fff007fffffff000fff80ffffffff800fffc1ffffffffc00ffffffffffffff00ffffffffffffffe0fffff8000001ff9effff000000001c0ffff800000000000fffc0000000000007fe00000000000007f800000000000000c0000003fff000000000000fffff8000000000ffffffc00000001fffffffc0000001ffffffffc0000007ffffffffc000001fffffffffc000007fffffffffc00001ff007bffffc00003fe001cffffc00007fc000e7fffc0000ff81f079fffc0001ff03fc38fffc0001ff03f81c7ffe0003ff07f00c7ffe0013fe00f0003ffe0013fe0030033fff0001fe0000031fff0001fe0000039fff00001e0000039fff8000030000ff1fff80000000001f9fffc000000000001fffc000010000000fffe0000100020091fff008f90007009cfff80cff800ff09f3ffe0fff8003ffbfcfff8fffc0027f3fe7ffffffe0003e7ff9ffffffe0003efffcfffffff0001cfffe3ffff1f80009ffff9ffff8f80003ffffc7fff8000003ffffe3f1fc0000007ffff8f03f8000001ffffc701fc0000007fffe3007e0000003ffff9003f0000001ffffc000ff0000003fffe0000ff000001ffff00007fc00000ffff00007ffc0000ffff00003ffff8007fff00001fffffe01fff00000ffffffc0fff000007fffffe3fff000007ffffffffff000007ffffffffff",
+    "avgColor": [
+      0.6235294117647059,
+      0.5490196078431373,
+      0.4980392156862745
+    ]
+  },
+  {
+    "id": "prod_068",
+    "name": "Razer Blade 15 Laptop",
+    "category": "laptops",
+    "imageUrl": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800&h=800&fit=crop&auto=format",
+    "hash": "0008000000000000000800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000018000003000000041800000300000004400000000000000000007ff3080c0401c7fffff3fffffffff7fffffffffffffffffffffffffffffffffffff01f000fff82ffe7f01c0025f8007fefc01e100fffe3ffff803ff007fffffffff00efe00fffffffff11fffc2fffe7ffff1feff8000bc3ffff0ffff80243e3fffe07fff8c001c1fffe07ffffffffc3fffe03fffffffffffffc000000000000000000000000000000000020000000007e7c07e000000000003e0fc000000000003f1fe12b568000ff5f3ff999120000fc8f7ffffff00043ffff1fffffffffffffff1fffffffffffffff0fffffffffffffff0fffffffffffffff07ffffffffffffff07ffffffffffffff00000007ffbff8000000000000000000000000000000000000000000000000000000000000000000000000007f9ff800000000000003c0007fffffffffffffff1fffffffffffffff0fffffffffffffff07ffffffffffffff03ffffffffffffff01fffe1ffffffffe01fffc3ffffffff800fff80fffffffe0007fe000ffffffc0001f0000008fffc0000000000003fc0000000000000040000000000000000000000000000000000000000000000000000000000000000000",
+    "avgColor": [
+      0.2627450980392157,
+      0.17254901960784313,
+      0.41568627450980394
+    ]
+  },
+  {
+    "id": "prod_069",
+    "name": "Motorola Edge 40 Pro",
+    "category": "phones",
+    "imageUrl": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=800&h=800&fit=crop&auto=format",
+    "hash": "000000003fffc000000000017fffe00000000001fffff0000000000ffffff0000000001ffffffc000000007ffffffc00000000bffffffe00000001fffffffe00000007fffffffe00000007ffffffff0000001fffffffffc000003fffffff7fc000007fffffff7fe00000efffffff7ff00001f3fffffe7ff00001fdfffffe7ff80000067ffffc38000000071ffffc3c00000007cffffc3e00000007f7fffc380000000ffdfff87800000057fe7ff87f00000003ffbff87f00000007ffcff87fc000000ffff3f07fc000001ffffdf0ffe000003ffffe70ffe000003fffffa0fff000007fffffe0fff000007ffffff1ffe000007fffff8cffc000007fffff877fc000001fffff859fc000000fffff88e7c000000ffffff0738000011ffffff88d80000387fffdff8c800003e3fffee781c00003f1ffffa789b80007fc7fffcf70000007fe3ffff620000007ff0ffffa60000007ffc7fffec0000007ffe3ffff0000000ffff0ffff8000000ffffc7fff0000000ffffe1ffe00000007ffff8ffe0000001fffffe7fc0fff0003fffff1fc0fff00007ffff0f81fff00000ffff0303fff000001fff0001fff0000001fe0003fff00000003e0003fff0000000020007fff00000000000cffff0000010000ffffff00000ff801ffffff00000fffbfffffff00000ffffffffffd000003fffffffff8000001fffffffff0000000ffffffffe0",
+    "avgColor": [
+      0.22745098039215686,
+      0.2235294117647059,
+      0.23137254901960785
+    ]
+  },
+  {
+    "id": "prod_070",
+    "name": "Kate Spade Wristlet",
+    "category": "bags",
+    "imageUrl": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=800&h=800&fit=crop&auto=format",
+    "hash": "000004031fcfffff000004071fcfffff00000c071fcfffff00000c071fcfffff00000c071fcfffff00000c07ffcfffff00000c1c0fcfffff00000c3001cfffff00000c4318cfffff00000c071e0fffff00000c071f0fffff00000e071f8fffff00030c071fcffffe00239c171fc7fffe0021f81f3fc7fffe0023f8073fc3fffe0023f01f3fd3fffe002020073fd3fffe002060071fdbfffe002044071fd8fffe002004071fc8fffe0002000000003ffe00271ffffffffffe00363ffffffffffe00363ffffffffffe00363ffffffffffe00343ffffffff7fe00343ffffffe07fe00347c00380007fe00304000000003fe00300000000003fe00300000000003fe0078fff80ffff7fe0078fff80fffe7fe1079fffc0fffe3fe1071fffc0fffe3fe1071fffc8fffe3fe70f3fffe0fffc3fe7073fffe0fffc3fe7073fffc0fffc3fe7073fffc1fff83fe1071fffc1fcf03fe1061ffc0080003fe00600000000001fe00600000000001fe00600000000001fe00600000000001fe00600000000001fe70640000000001fe70600000000001fe70460000000001fe31d20000000001fe03d40000000001fe07c00000000001fe0f800000000001fe1fb007ffffc001fe3f300ffffff801fe7f601ffffffff1feff603ffffffffdfffe403ffffffffffffe403ffffffffffffe78000000000ffffffe0098bf001fffffffffffffffffff",
+    "avgColor": [
+      0.7215686274509804,
+      0.43137254901960786,
+      0.36470588235294116
+    ]
+  },
+  {
+    "id": "prod_071",
+    "name": "West Elm Mid-Century Chair",
+    "category": "chairs",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=800&h=800&fit=crop&auto=format",
+    "hash": "000fffec00000000003ffffe00000000007fffff0000000001ffffffc000000003ffffffc000000007ffffffc000000007ffffffe00000000ffffffff80000001ffffffff80000001ffffffffa0000003ffffffffe0000003fffffffff8000007fffffffff8000007fffffffff0000007fffffffff800000ffffffffff8000000fffffffe00000000fffffffe00000000ffffffff00000000fffffffe40000001fffffffff0000001fffffffffc000001fffffffffc000001fffffffffe000001ffffffffffc00003ffffffffffc00007fffff0007b800007fffc0000c780000ffff80000c780000ffff80000c700000ffffe00004700000ffffc00008f00000ffffc00009f0f000ffffe00001e1f000ffffe00003e1f800ffffe0000361fc00ffffe0000363fe00ffffe0000163ff00ffffe00000c3ff00ffffe00000c3ff00ffffe00000c7ff00fffff00007c7ff007ffffffc79c7ff007ffffe000007ff007ffff4000007ff007ffff0000007ff003ffff8000007ff003ffffc000007ff800ffff000000000000fffe000000b000007fff19ff81f800007fff19ffc1f800007fff1bff81fc0000ffff1bffc1fc0000ffff1bff81fc0000ffff13ffc1fe0000ffff17ffc0fe0001ffff17ffc4fc0003ffff37ffc4f80003ffffb7ffc4e00003ffff27ffc4000003ffffb80000000003ffffbff800000000ffffbffc0000000",
+    "avgColor": [
+      0.8588235294117647,
+      0.8745098039215686,
+      0.8588235294117647
+    ]
+  },
+  {
+    "id": "prod_072",
+    "name": "Hydro Flask Coffee Mug",
+    "category": "mugs",
+    "imageUrl": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=800&h=800&fit=crop&auto=format",
+    "hash": "fffffe6000000000ffffff0000000000ffffff8000000000fffffffc00000000fffffffd00000000ffffffff40000000ffffffff00000000ffffffffc0000000ffffffffe8000000fffffffffe000000ffffffffff000000fffffffffdc00000fffffff07eb00000fffffe000fd80000fffff80007640000fffff000039d0000ffffe00007ffffffffffc00007e47fffffffc00003e03fffffffc00001e03ffeffffc00000e71ffcffffe000004f1ff8ffffe000001e1ff0fffff800001c3fe0fffffc0000103f80ffffff8000007f00ffffffe00000c000ffffffe000020000ffffffe000000000ffffffc000000000ffffcfc000000000ffffcfc000000000ffffeffc0000000fffffeffc00000007ffffeffc00000003ffffcffc00000007ffffc7fc0000001fffffc3fc0000003fffffc3fc0000007fffffc0fc0000007fffffc000000000ffffffc000000001ffffffc000000001ffffffc000000001ffffffffe0000001fffffffff0000001fffffffff0000003fffffffff8000003fffffffff000000000fffffff000000000fffffff000000000fffffff000000000fffffff800000000fffffffe00000000ffffffff00000000fffffffff0000000ffffffffffc00000fffffffffc000000fffffffff0000000fffffffec0000000fffffffe10000000fffffff600000000fffffff400000000fffffffe80000000",
+    "avgColor": [
+      0.8705882352941177,
+      0.8431372549019608,
+      0.8156862745098039
+    ]
+  },
+  {
+    "id": "prod_073",
+    "name": "Tom Dixon Beat Lamp",
+    "category": "lamps",
+    "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=800&fit=crop&auto=format",
+    "hash": "000000000007ff0f000000000007ff33006000000007ffe70070003f8007ffff00f0007fc007ffff00f800ffe007ffff007801fff003ffff001801fff803fcff018803fff803fcff03e003fff807ffff07e003fff003fff707fc03fff803ffff067803fff003ffff0278007f8003ffff037c083fde03ffff037c1fffe003ffff0000003f8003fbff00000077bc03f1ff020c03f6fe0061a703041ff6ff80efaf07341ff77f83ffff07341fe77f83ffff07b81fe73f87ffff07b80fcf3f0fdfffc7180fcfdf0ff7ffc0100f9f9e0ff7ff00000686020ff7ff00000400000fffff00001400001ffcff0000040f821ffcff0000021fc21ffc7f0000021f803ffe7f0000000fc03fffff0000000f803fffff00010000003bffff000700202013ffff001f800fc001ffff007f800180007fff01ff800000400fff07ffc0000061c3ff0fffc00000785fff3fffe000007e03ff7fffe000007f03fffffff000007fc3e1fffff800007ff167fffffd80007ffc63fffffef8007fff23ffffff3c007fff83001fff0000300000001fff8000700000001fffc000700000003fffe000f00000003fffe000e0000009fffff001e000004bfffffc03e000000bfffffe03e000000fffffff0ff800009ffffffffff800009ffffffffff800009ffffffffff800003ffffffffff000003fffffffffe000007fffffffffe000007fffffffffe00000",
+    "avgColor": [
+      0.5843137254901961,
+      0.5450980392156862,
+      0.5254901960784314
+    ]
+  },
+  {
+    "id": "prod_075",
+    "name": "Hamilton Khaki Field Watch",
+    "category": "watches",
+    "imageUrl": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=800&h=800&fit=crop&auto=format",
+    "hash": "000000000000000000000000000000000000000000000000000000000000000000007fff00000000001ffffffc0000000fffffffff800000fffffff3fff00000ffffffc03fff0000ffffff801fffff80ffffff000fffffffffffff000ffffffffffffe000ffffffffffff0001fffffffffffc7001fffffffffff1f001fffffff00001e000000000000007e00000000000001fc00000000000003f80000000000000ff00000000000003ff00000000000007fe08ff700000000ffc19fff80065e01ff817ffcefffff03ff82fffe7fffff07ff00ffff3fffff07fe3dfffe2fffff0ffc7dfff79fffff1ff9fbffef9fffff1ffffbffdf93ffff3ffffbff3f17ffff3fe003fe3f9400003fe0037c7f9e00007fc003f9ff9f00007f8003f3fe1f0000ff8001c7ff1f0000ff00019fff3e0000fe0000fffa7e0000ff0fc07bf8780000ff3fc03fb8c00004ffffc01fa38004ffffffc0038682ffffffbf80000cffffffff9f00000e7fffffff8000001f7c3fffffc000003f807fffffc000003f00ffffff0000007f007800ff000000ff00fc00ff000000fe00f800ff000003fe01f80060000007fc21f80000000007f9f9e000000003fff1fc000a00001fffe13006ff0000ffffc17b7fff0003ffff81ffffff0007ffff01ffffff0007fffe01ffffff000ffff801ffffff007ffff001ffffff01ffff8000ffffff07fffe0000ffffff",
+    "avgColor": [
+      0.6627450980392157,
+      0.6352941176470588,
+      0.6039215686274509
+    ]
+  },
+  {
+    "id": "prod_076",
+    "name": "Beats Studio Buds",
+    "category": "headphones",
+    "imageUrl": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&h=800&fit=crop&auto=format",
+    "hash": "0000001fc0000000000000ffc0000000000005ffe0000000000007fff000000000003ffff000000000043ffff80000000000fffffc000000000ffffffe800000007ffffffffce40000bfffffffffff8000fff83ffffffff800ffe003ffffffff03ff8043ffffffff07ff01f1ffffffff1ffc07f1ffffffff1ff01ff1ffffffff3fe07fd1ffffffff3fe1ffb07fffffff7fe3ffb87fffffff7fe3fff0703fffffffe3ffc0000fffffffe18f000007ffffffc07c000001ffffffc07800000070ffff8040000000e07fff1000000000c87ffe3000000000027ffe200000000000fffc410000000001fffcc38000000003fffc87e060000007fffc07ffe000000fff0007ffc0000007ff001f0fe000000fff017c03fc00000fff01f000fe00001fff00e0007f00803fff01c0007f00007fff0080003f8001ffff0080003fc003ffff0100021fe007ffff0080070ff01fffff00c00707ffffffff00c04027ffffffff0040c077ffffffff0080c1f3ffffffff0080c3fbffffffff00000ffbffffffff00003ff8017fffff00007ff80dffffff00003ff01effffff00003ff01e7fffff00001fc07bffffff00000780fe7fffff00000000feffffff000000003fffffff000000003fffffff000000003effffff000000003dffffff000000003f3fffff000000003fbfffff000000003fffffff000000001fffffff000000003f7fffff",
+    "avgColor": [
+      0.7215686274509804,
+      0.7176470588235294,
+      0.8235294117647058
+    ]
+  },
+  {
+    "id": "prod_077",
+    "name": "Acer Predator Helios",
+    "category": "laptops",
+    "imageUrl": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800&h=800&fit=crop&auto=format",
+    "hash": "0008000000000000000800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000018000003000000041800000300000004400000000000000000007ff3080c0401c7fffff3fffffffff7fffffffffffffffffffffffffffffffffffff01f000fff82ffe7f01c0025f8007fefc01e100fffe3ffff803ff007fffffffff00efe00fffffffff11fffc2fffe7ffff1feff8000bc3ffff0ffff80243e3fffe07fff8c001c1fffe07ffffffffc3fffe03fffffffffffffc000000000000000000000000000000000020000000007e7c07e000000000003e0fc000000000003f1fe12b568000ff5f3ff999120000fc8f7ffffff00043ffff1fffffffffffffff1fffffffffffffff0fffffffffffffff0fffffffffffffff07ffffffffffffff07ffffffffffffff00000007ffbff8000000000000000000000000000000000000000000000000000000000000000000000000007f9ff800000000000003c0007fffffffffffffff1fffffffffffffff0fffffffffffffff07ffffffffffffff03ffffffffffffff01fffe1ffffffffe01fffc3ffffffff800fff80fffffffe0007fe000ffffffc0001f0000008fffc0000000000003fc0000000000000040000000000000000000000000000000000000000000000000000000000000000000",
+    "avgColor": [
+      0.2627450980392157,
+      0.17254901960784313,
+      0.41568627450980394
+    ]
+  },
+  {
+    "id": "prod_078",
+    "name": "Nokia X30 Smartphone",
+    "category": "phones",
+    "imageUrl": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&h=800&fit=crop&auto=format",
+    "hash": "0001fe007fffffff00e3fe007fffffff0085fe007fffffff000af401ffffffff000ff001ffffffff003dd009ffffffff101dc0020fffffff201bc00003ffffff383c000001ffffff007a0000007fbfff00fc0000003f0fff17f80000000fc3ff5ff80000000783ff7ff80000000185ff7ffc0000000081fefff00000000041fcffffff0001007ffcfffffe0000007ffcfffffe00c030fffcfffffc004030fffcfffff8000001fff8fffff8000001fff8fffff0000001fff0ffffe0000003ff60ffffc0000003ffc0ffff80000007ffc0ffff8008000fff80ffff0010081fff00fffe0000001fff00fffc0000001ffe00fffc0000003fec00fff80000003ff800fffcf01c01ffffc0fff9f41c01ffffc0fff0261803ffff80fff00a0007ffff00ffe0024007ffff00ffc000a00ffffe00ffc000c01ffffe00ffc040021ffffc00ffc010003ffff800ffc080003fffe000ffc060007fffe000ffe00400fffec000fff80000fffd0000fffc0001fffc8000fffe0003fff80000ffff8003fff00000fffe0003ff000000ffff8007fe000000ffffe00ffe000000fffff01ffc000000fffffc3ff8000000fffffe7ff8000000fffffffff0000000ffffffffe0000000ffffffffe0000000ffffffffc0000000ffffffff80000000ffffffff80000000ffffffff00000000ffffffff00000000fffffffe00000000fffffffc00000000",
+    "avgColor": [
+      0.7803921568627451,
+      0.8392156862745098,
+      0.8588235294117647
+    ]
+  },
+  {
+    "id": "prod_079",
+    "name": "Michael Kors Jet Set Bag",
+    "category": "bags",
+    "imageUrl": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&h=800&fit=crop&auto=format",
+    "hash": "000003800ffffff000000183bffffff8000001f3bffffffc000000837ffffffc00000007ffffffff00000001ffffffff00000000fffffffc000000003ffffffc00000003fffffff000000003fffffff10000003bffffffff00000019ffffffff00000001ffffffff00000000ffffffff000000007fffffff000000003fffffffff8000001fffffffff8000001ffffffeff8000001ffffff8ff0000001ffffff0ff0000000fffffe0ff0000000fffffc0ff0000000fffff00ff0000000fffff00ff0000000fffff00ff0000000fffffc0ff0000000fffffc0ff0000000fffffe0ff0000000ffffff0ff0000000ffffff8ff0000000ffffffcff00000007fffffefe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe0000000000fffffe0000000000fffffe0000000001ffffff00000000003fffff00000003c00fff7f80000007fe07ff03c0000007ffe1df030000000fffffefff000003fffffff1ffffffffffffffff0e003fffffffffff000000000fffffff0000000003feffff0000000003f800000000000003fc0000ff00000001fc0000fffffc0003fe0000ffffffffffffd800ffffffffffffffff",
+    "avgColor": [
+      0.5529411764705883,
+      0.5764705882352941,
+      0.6235294117647059
+    ]
+  },
+  {
+    "id": "prod_080",
+    "name": "Knoll Saarinen Chair",
+    "category": "chairs",
+    "imageUrl": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=800&fit=crop&auto=format",
+    "hash": "000000007fffffff00000000ffffffff00000000ffffffff00000001ffffffff00000001ffffffff00000003ffffffff00000003ffffffff00000003ffffffff00000003ffffffff00000003ffffffff000000000fffffff00000000001fffff00000003ffdfffff00000003ffdfffff00000003ffdfffff00000003ffdfffff001bfe73ffdfffff001bfe73ffdfffff0013fe73ffdffff80013fff3ffdffff00010fff3ffdffff00010fff38fdffff000107ff307dfdff000003ff207d7bff000000ff207d3fff0000001f307c1bff0000000330fc1fff000000003ffdf7ff000000003ffd1fff0000000000011fff00000000001f1fff00000000003fbfff8003ff9ffffffffff003ff1ffffffffff000001fffffbffff000000fffffbffff000000fffffbffff000000ffffffff81000000fffe7fff0100000001803ff70100000001003ff4f9000000017ffff7ff000000017ffff7ff000000017ffff7ff000000013ffff7ff00000001fffff7ff00000001fff3f00000000031df33f0000000001c9fb3f600000000001fb3ffff0000000003b3ffff0000600007bfffff000060001fffffff00006000ffffffff000070ddffffffff0000f0f1ffffffff00006063ffffffff000000c3ffffffff000000c7ffffffe000000003fffffff000000183fffffff800000103fffffffc00000003fffffffc00000003ffffffff",
+    "avgColor": [
+      0.5882352941176471,
+      0.5529411764705883,
+      0.5019607843137255
+    ]
+  },
+  {
+    "id": "prod_081",
+    "name": "Takeya Actives Mug",
+    "category": "mugs",
+    "imageUrl": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=800&fit=crop&auto=format",
+    "hash": "000000000000000000000000000000000000000010000000000000003e000000000060003f800000000000853fbc8000000003ce77fe000000e007ff7ffd9f8003e013fbffffd70007ee1fffffffff00c67c1ffbfffdbf30fcf9fffd7fffffffd3fffff9ffffffff9fffffffffffffffffffff57ffffffff3ffffbf1ffffffff0001a00000ff30000007e00000fffc003c19f91000fe3c007c00fff007fc1fe03a00d0407fd6bfc00260f007fffeffc00077e007fff41dc00fe60007e7a005c00f80001f838006f0468c101fc7e002e00c00383fde3103f80e0cf8fffc00077cdaeffdffff0007fe7fefffffff03e7fcfbc7fffffe0ffffcf9e3ffff383bfff8f1b3ffdf6839fff8f8f1c3ce0c7ffffdfef90b8f3efffff8fc2a870e1efffff4fb86071a32fffff8fbdb8f1b53ffffe5230d6f1fbfdfffe601800f8fafcfffe000000f9ff7dffff000281e3fc21ffff0002e1811907fffe900240003f1fbfffe0018000281dfffde002000000183883000300000000100000020001800000000ffffffffffffffff7fffffffffffffff9fffffffffffff7f9fffffffffffff0f0ffffffffffffc0303f7fffffffffe0203f7ffffffffe200007fffff9fff800000f37fff874c000000e6fff607c80000006fdff800400000000087d0000000000000030080000000000000000000000000000000000000000000000000000000",
+    "avgColor": [
+      0.08627450980392157,
+      0.08627450980392157,
+      0.08627450980392157
+    ]
+  },
+  {
+    "id": "prod_082",
+    "name": "Flos Arco Floor Lamp",
+    "category": "lamps",
+    "imageUrl": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=800&h=800&fit=crop&auto=format",
+    "hash": "00080080000000000a8800a000000000affff9e200000000efffffc000000000ffffffc000000000fffbffbc00000000ffffffc000000000ffffffe000000000fffffff0e0000000ffffffffe0000000ffffffffd6000000ffffffffff960000ffffffffffff0000ffffffffffffc000ffffffffffffa000ffffffffffffe500fffa000000000000ffff000000000000ffffc00000000000fffff40000000000ffffff0000000000ffffff0000000000fffffff000000000fffbfffc00000000ffffffff80000000fffffffff0000000fffffffffc000000ffffffffff800000ffffffffffb00000ffffffffffff0000ffffffffffff4000ffffffffffffc000fffff00000000000fffff80000000000fffffc0000000000ffffff0000000000ffffffc000000000ffffffe400000000fffffffc00000000ffffffffa0000000fffffffff4000000fffffffff8000000fffffffffc000000fffffffffc000000fffffffff8000000fffffffffc000000ffffffffff800000ffffffffff800000ffffffe000000000fffffff000000000fffffff000000000fffffff800000000fffffffe00000000fffffffe00000000ffffffff00000000ffffffff00000000ffffffff80000000ffffffffc0000000ffffffffe0000000ffffffffe0000000ffffffffe0000000ffffffffc0000000ffffffffc0000000ffffffffc0000000",
+    "avgColor": [
+      0.16862745098039217,
+      0.403921568627451,
+      0.42745098039215684
+    ]
+  },
+  {
+    "id": "prod_083",
+    "name": "Under Armour HOVR Shoes",
+    "category": "shoes",
+    "imageUrl": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=800&h=800&fit=crop&auto=format",
+    "hash": "fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff9bfffffffffffffe7bffbffffffffffffffffffffffffff7f7feffffffffffce7dff3fffffffff1ff87c1ffffffffefff0fc1ffffffffffff0781fffffffe7ff6ffc0ffffffe3fff83f307ffffe1ffff000017ffffefffc00003f7fff3fffff0000feffe3ffffff800ff87fe7fffe7f8003803fe3ffc00e000001bfe1ff800000007fffe3bb8f00ffffffffe1fc3fe0fffffff7f9fcfff0ffffffe7f87ff0ffffffffcff83fc03fffffff0ffc1f801ffffff81fe000000fffff0007e000000000800007fffe0381e1e10fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "avgColor": [
+      0.6980392156862745,
+      0.8549019607843137,
+      0.2901960784313726
+    ]
+  },
+  {
+    "id": "prod_084",
+    "name": "Citizen Eco-Drive Watch",
+    "category": "watches",
+    "imageUrl": "https://images.unsplash.com/photo-1547996160-81dfa63595aa?w=800&h=800&fit=crop&auto=format",
+    "hash": "003fffffffffff80001fffffffffff00000ffffffffffe000007fffffffffc000003fffffffffc000001fffffffffc000000fffffffffc0000003ffffffff80000001ffffffff88000000fffffff6780000003fffff80f00000000ffcfe010000000001fffe000000000003fff80000000000bffff00000000001fe3f7000000003fffffffff0000003ffffffffe0000001ffffffffc00000003bffffff8000000003fffffe000000001ffffffc000000003ffffff8000000003ffffff0000000007fffffc0000000007ffffff000000000fffffff800000000fffffffc00000001ffffffffc0000001fffffffff8000001fffffffffe000003ffffffffff800003ffffff17f7c00003fffffd1ff7e00003ffffff3bffe00003fffffb3bffe00003fffffb2bffe00003ffffe12fffe00003ffffd947ffc00003ffffbb437fc00003ffff3b476ef00003ffff7b074dfc0000fffcf3c34df800003ff9818005f000003fe00f0000f800000001fff800f000000007fffc07f00000000010007ff0000000000007ffc0000000003fffffc000003fffffffff9c0001fffffffffffb0007ffffffffffff001fffffffffffff001ffffffffffffe007ffffffffffffc003ffffffffffff80000fffffffffff0000000fffffffbe0000000007ffff0c0000000000e7fe00000000000003f800000000000001c000000000000001c00000",
+    "avgColor": [
+      0.19607843137254902,
+      0.1411764705882353,
+      0.1411764705882353
+    ]
+  },
+  {
+    "id": "prod_085",
+    "name": "Marshall Major III BT",
+    "category": "headphones",
+    "imageUrl": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=800&h=800&fit=crop&auto=format",
+    "hash": "007ffffc00000000007fffff0000000000ffffffc000000001ffffffc000000001ffffffe000000003fffffff000000001fffffff000000007fffffff800000007fffffffc00000007fffffffe0000000fffffffff0000000fffffffff8000001fffffffff8000001fffffffffc000001fffffffffc000001fffffffffe000001ffffff80fe000001fffffc000e000003fffff00003000003ffffc00001800003ffff800000000003ffff000000000003fffe00ff80000007fffc07ffe0000007fffc3ffff8000007fff83ffffe00000ffff07fffff000007fff0ffffff000007fff0ffffff800007ffe1ffffff800007ffe1ffffffc0000fffe1ffffffc0000fffc3ffffffe1c00fffc3ffffffe1c00fffc3ffffffe1c00fffc3ffffffe1c00fffc3ffffffe0c00fffc1ffffffc0000fffc1ffffff80000fff807fffff00000fff800ffffc00000fff8007ffe000000fff8001ffc000000fff0000ff8000000fff00007f0000000ffe00003e0000000ffe00003c0000000ffe0000180000000ffe00001800007fffff00001800007fffff00000000007fffff00000000007fffff0000000000ffffff8000000000ffffff8000000000ffffffc000000001ffffffe000000003fffffff000180003fffffff800180007fffffffc003c00007ffffffc001e00007ffffffe003f0000fffffffffffff003fffffffffffffffffff",
+    "avgColor": [
+      0.592156862745098,
+      0.5019607843137255,
+      0.4627450980392157
+    ]
+  },
+  {
+    "id": "prod_086",
+    "name": "MSI Creator Z16",
+    "category": "laptops",
+    "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&h=800&fit=crop&auto=format",
+    "hash": "00007ffffffe00000000ffffffff00000007ffffffff8000000fffffffffe0000007ffffffffe0000007ffffffffe000001ffffffffff000003ffffffffff000003ffffffffff000003ffffffffff000003fffffffffc000003fffffffff8000001ff00047e80000001ff00003e00000000ff00003600000000f200003280100ffffffffffffffffffff00000000fffffffe000000007ffffffe000000007ffffffe000000007ffffffe000000007ffffffe000000007ffffffe000000007ffffffe000000007ffffffe000000007fff7ffe000000007fff9ffe000000007ffffffe000000007ffffffe000000007ffffffe000000007fffdffe000000007fff0c7c000000007fff007c000000007fff003c000000007fff001c000000007ff7003c000000007ff7007c000000007fe000fc000000007ff0fffc000000007ffffffc000000007fffffffc0000003ffffffff80000003ffffffff80000003ffffffff80000001ffffffffffffffffffffffffffe07fffffffffffffffffffffffff1fffffffffffffff80000000000fff1ff007fff8001fff07ffffffffffffff3ffffffffffffffc3ffffffffffff800000000000000000003fffffeffffc000007ffffeffffe000000ffffeffffc000000698007ffa0000000001fe7fff0000000fe2007f8000000415f7fe7ffa0000000803fe00000000001c000000000000",
+    "avgColor": [
+      0.6941176470588235,
+      0.6627450980392157,
+      0.6431372549019608
+    ]
+  },
+  {
+    "id": "prod_087",
+    "name": "Fairphone 5 Smartphone",
+    "category": "phones",
+    "imageUrl": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?w=800&h=800&fit=crop&auto=format",
+    "hash": "01fffff9ffffe0000000fff0fffff8000000000000000000000000000000000001fffff9fffffe000000000001800000000000000000000003fffffdfffffc0000000000780000000ffffffdffffc0000007fffdfffffff803fffffdffffc00001fffffdfffffff87fffffffffffff801fffff00003ffff05ffffe7fffdffff01ffffeffffdffff00ffffeffffefffe007fffeffffefff8001fffe80002fff0000fffe00000ffc00003ffeff7f0ff800000ffeffffcfe0000007feffffcfc0000001feffffcf80000000feffffee000000007effffce000000003effffcc000000001effff8c000000001cbfff0c00000000f0bffe0c00000001e09ffe000000007fe2ffffa1f800003f86fffbe1f000003f0ecffbe9f000001f1e9ffa6be000001f9e9ffeac600000ff9ebfffec78000fff8effffee7f00fe1f1effffeeffe0c03fbeffffe170fc003fbeffffe0000f003ffeffffe00000001ffefffffc0000001ffe9ffc3e4000001ffc800026c000000ffc80c000c000000ffc80e0b0c000000ffc80e0bdf000000ffe804021f000002ffeffffe3f000000ffeffffe3f0000007ffffffeb80000017ffffffd98000003fff7ffff00000007c7f8007f0e00000fe01f81ff8f00000ff03fe3ff8f00001ff83fe7ff8f00001ff80fefffcf00003ffc1fdfffff00003ffe3fbfff8000007ffe7c7fff800000fffd40ffff80000",
+    "avgColor": [
+      0.3803921568627451,
+      0.3764705882352941,
+      0.4117647058823529
+    ]
+  },
+  {
+    "id": "prod_088",
+    "name": "Tory Burch Miller Bag",
+    "category": "bags",
+    "imageUrl": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?w=800&h=800&fit=crop&auto=format",
+    "hash": "00041ffffe4000000000ffffff00000000007fffffb800000000fffffffc00000010fffffffc00000001fffffffc00000001fffffffe00000001fffffffe00000003ffffffff8000000bfffffff7c000001fffffffff8000000fffffffff8000000fffffffffc000000fffffffffc000001ffffe07ffc000021ffff001ffc0003fffffe1f0fffff41fffffc7fc7ffffc1fffff88003ffffc3ffffe00001ffffe3ffffc000007fffe3ffff0000003fffe3fffe0000000fffe1fffc00000007ffe3fff800000003ffe3fff000000001ffe3ffe000000001ffe3ffc000000000fff3ffc000000000fff7ff80000000007ff1ff00000000007ff3ff00000000003fffff00000000ff7fffff000000007ffffffe000000007ffffffe000000003fbffffe000000001fbffffe000000000fbffffc0000000007bffffc0000000003bffffc0000000003bffffc07ffffffffbffffc07ffffffff9ffffc0018fffffbdffffc00003fffffdffff800003f00c74ffff000000000074ffff0000000000e4ffff001ffffffffeffff00003fffffffffff0000000007ffffff0000000e07ff7fff00000007efff7ffe00000007fffdfffe00000001f7fdfffe00000000dffe7fff000000000ffe7fff000000000ffe7fff000200007ffe7fff000600c03ffe7fff000600c01ffe7fff800600c00ffeffff800400800ffeffff800000000ffcff",
+    "avgColor": [
+      0.7764705882352941,
+      0.6509803921568628,
+      0.6588235294117647
+    ]
+  },
+  {
+    "id": "prod_089",
+    "name": "Vitra Panton Chair",
+    "category": "chairs",
+    "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=800&h=800&fit=crop&auto=format",
+    "hash": "000fffec00000000003ffffe00000000007fffff0000000001ffffffc000000003ffffffc000000007ffffffc000000007ffffffe00000000ffffffff80000001ffffffff80000001ffffffffa0000003ffffffffe0000003fffffffff8000007fffffffff8000007fffffffff0000007fffffffff800000ffffffffff8000000fffffffe00000000fffffffe00000000ffffffff00000000fffffffe40000001fffffffff0000001fffffffffc000001fffffffffc000001fffffffffe000001ffffffffffc00003ffffffffffc00007fffff0007b800007fffc0000c780000ffff80000c780000ffff80000c700000ffffe00004700000ffffc00008f00000ffffc00009f0f000ffffe00001e1f000ffffe00003e1f800ffffe0000361fc00ffffe0000363fe00ffffe0000163ff00ffffe00000c3ff00ffffe00000c3ff00ffffe00000c7ff00fffff00007c7ff007ffffffc79c7ff007ffffe000007ff007ffff4000007ff007ffff0000007ff003ffff8000007ff003ffffc000007ff800ffff000000000000fffe000000b000007fff19ff81f800007fff19ffc1f800007fff1bff81fc0000ffff1bffc1fc0000ffff1bff81fc0000ffff13ffc1fe0000ffff17ffc0fe0001ffff17ffc4fc0003ffff37ffc4f80003ffffb7ffc4e00003ffff27ffc4000003ffffb80000000003ffffbff800000000ffffbffc0000000",
+    "avgColor": [
+      0.8588235294117647,
+      0.8745098039215686,
+      0.8588235294117647
+    ]
+  },
+  {
+    "id": "prod_090",
+    "name": "Contigo Autoseal Mug",
+    "category": "mugs",
+    "imageUrl": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=800&h=800&fit=crop&auto=format",
+    "hash": "fffffe6000000000ffffff0000000000ffffff8000000000fffffffc00000000fffffffd00000000ffffffff40000000ffffffff00000000ffffffffc0000000ffffffffe8000000fffffffffe000000ffffffffff000000fffffffffdc00000fffffff07eb00000fffffe000fd80000fffff80007640000fffff000039d0000ffffe00007ffffffffffc00007e47fffffffc00003e03fffffffc00001e03ffeffffc00000e71ffcffffe000004f1ff8ffffe000001e1ff0fffff800001c3fe0fffffc0000103f80ffffff8000007f00ffffffe00000c000ffffffe000020000ffffffe000000000ffffffc000000000ffffcfc000000000ffffcfc000000000ffffeffc0000000fffffeffc00000007ffffeffc00000003ffffcffc00000007ffffc7fc0000001fffffc3fc0000003fffffc3fc0000007fffffc0fc0000007fffffc000000000ffffffc000000001ffffffc000000001ffffffc000000001ffffffffe0000001fffffffff0000001fffffffff0000003fffffffff8000003fffffffff000000000fffffff000000000fffffff000000000fffffff000000000fffffff800000000fffffffe00000000ffffffff00000000fffffffff0000000ffffffffffc00000fffffffffc000000fffffffff0000000fffffffec0000000fffffffe10000000fffffff600000000fffffff400000000fffffffe80000000",
+    "avgColor": [
+      0.8705882352941177,
+      0.8431372549019608,
+      0.8156862745098039
+    ]
+  },
+  {
+    "id": "prod_091",
+    "name": "Louis Poulsen PH Lamp",
+    "category": "lamps",
+    "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=800&fit=crop&auto=format",
+    "hash": "000000000007ff0f000000000007ff33006000000007ffe70070003f8007ffff00f0007fc007ffff00f800ffe007ffff007801fff003ffff001801fff803fcff018803fff803fcff03e003fff807ffff07e003fff003fff707fc03fff803ffff067803fff003ffff0278007f8003ffff037c083fde03ffff037c1fffe003ffff0000003f8003fbff00000077bc03f1ff020c03f6fe0061a703041ff6ff80efaf07341ff77f83ffff07341fe77f83ffff07b81fe73f87ffff07b80fcf3f0fdfffc7180fcfdf0ff7ffc0100f9f9e0ff7ff00000686020ff7ff00000400000fffff00001400001ffcff0000040f821ffcff0000021fc21ffc7f0000021f803ffe7f0000000fc03fffff0000000f803fffff00010000003bffff000700202013ffff001f800fc001ffff007f800180007fff01ff800000400fff07ffc0000061c3ff0fffc00000785fff3fffe000007e03ff7fffe000007f03fffffff000007fc3e1fffff800007ff167fffffd80007ffc63fffffef8007fff23ffffff3c007fff83001fff0000300000001fff8000700000001fffc000700000003fffe000f00000003fffe000e0000009fffff001e000004bfffffc03e000000bfffffe03e000000fffffff0ff800009ffffffffff800009ffffffffff800009ffffffffff800003ffffffffff000003fffffffffe000007fffffffffe000007fffffffffe00000",
+    "avgColor": [
+      0.5843137254901961,
+      0.5450980392156862,
+      0.5254901960784314
+    ]
+  },
+  {
+    "id": "prod_093",
+    "name": "Fossil Townsman Watch",
+    "category": "watches",
+    "imageUrl": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=800&h=800&fit=crop&auto=format",
+    "hash": "000000000000000000000000000000000000000000000000000000000000000000007fff00000000001ffffffc0000000fffffffff800000fffffff3fff00000ffffffc03fff0000ffffff801fffff80ffffff000fffffffffffff000ffffffffffffe000ffffffffffff0001fffffffffffc7001fffffffffff1f001fffffff00001e000000000000007e00000000000001fc00000000000003f80000000000000ff00000000000003ff00000000000007fe08ff700000000ffc19fff80065e01ff817ffcefffff03ff82fffe7fffff07ff00ffff3fffff07fe3dfffe2fffff0ffc7dfff79fffff1ff9fbffef9fffff1ffffbffdf93ffff3ffffbff3f17ffff3fe003fe3f9400003fe0037c7f9e00007fc003f9ff9f00007f8003f3fe1f0000ff8001c7ff1f0000ff00019fff3e0000fe0000fffa7e0000ff0fc07bf8780000ff3fc03fb8c00004ffffc01fa38004ffffffc0038682ffffffbf80000cffffffff9f00000e7fffffff8000001f7c3fffffc000003f807fffffc000003f00ffffff0000007f007800ff000000ff00fc00ff000000fe00f800ff000003fe01f80060000007fc21f80000000007f9f9e000000003fff1fc000a00001fffe13006ff0000ffffc17b7fff0003ffff81ffffff0007ffff01ffffff0007fffe01ffffff000ffff801ffffff007ffff001ffffff01ffff8000ffffff07fffe0000ffffff",
+    "avgColor": [
+      0.6627450980392157,
+      0.6352941176470588,
+      0.6039215686274509
+    ]
+  },
+  {
+    "id": "prod_094",
+    "name": "Anker Soundcore Liberty",
+    "category": "headphones",
+    "imageUrl": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=800&h=800&fit=crop&auto=format",
+    "hash": "ffe003ffffffc000ffe003ffffffe000ffe003ffffffe000fff007fffffff000fff80ffffffff800fffc1ffffffffc00ffffffffffffff00ffffffffffffffe0fffff8000001ff9effff000000001c0ffff800000000000fffc0000000000007fe00000000000007f800000000000000c0000003fff000000000000fffff8000000000ffffffc00000001fffffffc0000001ffffffffc0000007ffffffffc000001fffffffffc000007fffffffffc00001ff007bffffc00003fe001cffffc00007fc000e7fffc0000ff81f079fffc0001ff03fc38fffc0001ff03f81c7ffe0003ff07f00c7ffe0013fe00f0003ffe0013fe0030033fff0001fe0000031fff0001fe0000039fff00001e0000039fff8000030000ff1fff80000000001f9fffc000000000001fffc000010000000fffe0000100020091fff008f90007009cfff80cff800ff09f3ffe0fff8003ffbfcfff8fffc0027f3fe7ffffffe0003e7ff9ffffffe0003efffcfffffff0001cfffe3ffff1f80009ffff9ffff8f80003ffffc7fff8000003ffffe3f1fc0000007ffff8f03f8000001ffffc701fc0000007fffe3007e0000003ffff9003f0000001ffffc000ff0000003fffe0000ff000001ffff00007fc00000ffff00007ffc0000ffff00003ffff8007fff00001fffffe01fff00000ffffffc0fff000007fffffe3fff000007ffffffffff000007ffffffffff",
+    "avgColor": [
+      0.6235294117647059,
+      0.5490196078431373,
+      0.4980392156862745
+    ]
+  },
+  {
+    "id": "prod_095",
+    "name": "Framework Laptop 13",
+    "category": "laptops",
+    "imageUrl": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800&h=800&fit=crop&auto=format",
+    "hash": "0003ffffffffffff0007ffffffffffff0007ffffffffffff000fffffffffffff000fffffffffffff000ffc7fffffffff001ff801ffffffff001ff80007ffffff001ff800000fffff001ff80000003fff000ff800000003ff00007000000003ff00000000000003ff00000000000003ff00000000000003ff00000000000007ff03fff3fe7fff87ff07fff1ef11ffe7ff0fffe7f8007fe7ff07ffe780003fefff07ffe000000fefff01ffeffff887efff007feffcf8000fff0007cff000008fff7003c3e000000fffefffc07000000fffcfffc00000001fff3fffc00000001f3f3fffc01e0000000007ff8003f0000000ffff00001f000001fffc0000000000037ff800000000000e3ff000000000007f1fc00000000003ffff80000000000fff7f00000000003fff7c00000000007fff180000000004ffff70007f800009fffff000ffffe013fffff801ffffff27fffe1fc07fffffcfff840ffc07ffffdfff880fffc0ffffbffff800fffc0fff7ffff0000fffc0feffffe00000fffc0cffffe00000fffffffffffe00000ffffffffff8000000fffffffff80000000fffffffec00000000ffffffc8000010000fffffc80000000000ffff880000001c000fff080000003fc000ff080000033ff0000e080000033ff0000c0c0000001ff07c0c0f0000209ff07f880f0000049ff07fe00e000001fff03ff00e0000041ff07ff808",
+    "avgColor": [
+      0.41568627450980394,
+      0.4235294117647059,
+      0.4235294117647059
+    ]
+  },
+  {
+    "id": "prod_096",
+    "name": "Nothing Phone 2a",
+    "category": "phones",
+    "imageUrl": "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=800&h=800&fit=crop&auto=format",
+    "hash": "0ffffff80000000007fffffc000000000ffffffe000000000fffffff000000003fffffff000000003fffffff800000005fffffffc0000000bffffff3e00000003fffffe7f00000007fffffdff80000007fffffbffc0000007fffff7ffe000000fffffeffff000000fffff9ffff000000fffff7ffff8000007fffee0003c00000fffffe0000f03c00fffff0c00270c800ffffe40003780600ffffc400007f0600ffffc41ff07f0000ffffc400007f8000ffffc40ef07f8000ffffc40ad07fc000ffffc40de07fc000ffffc406b07fe000ffffc40ff07ff000ffffc400007ff800ffffc400007ffc00ffffc400007ffe00ffffc400007ffe00b9ffc420007fff00003f8000003fff80000f8000003fff800073c000003fffc0d063c000003fffe07c21e000003ffff0fc20e000003ffff07e000006003ffff83f42400f003ffff8bf9f801f803fffe01f03803f803fffe01fbf403fc03fffc01ffec07fe03fff807ffb807ff03fff003ff780fffc3ffe001fef80fffe3ffc007fdf80fffe3ff000ffbfc1fffe3fe000ff7fc1fffe3fc000feffc1fffe3f8000fdffc1fffa3f0000f3ffc1bffc3e0000e7ffc1fffa3c0000cfffc1fffe3800000fffc0fffe3000000fffc000006000000fffe0000080000007ffe000030000000ffffffffe0000000ffffffffc0000002ffffffff80000001ffffffff00000000fffffffe0000000",
+    "avgColor": [
+      0.32941176470588235,
+      0.30980392156862746,
+      0.2901960784313726
+    ]
+  },
+  {
+    "id": "prod_097",
+    "name": "Longchamp Le Pliage Bag",
+    "category": "bags",
+    "imageUrl": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&h=800&fit=crop&auto=format",
+    "hash": "000003800ffffff000000183bffffff8000001f3bffffffc000000837ffffffc00000007ffffffff00000001ffffffff00000000fffffffc000000003ffffffc00000003fffffff000000003fffffff10000003bffffffff00000019ffffffff00000001ffffffff00000000ffffffff000000007fffffff000000003fffffffff8000001fffffffff8000001ffffffeff8000001ffffff8ff0000001ffffff0ff0000000fffffe0ff0000000fffffc0ff0000000fffff00ff0000000fffff00ff0000000fffff00ff0000000fffffc0ff0000000fffffc0ff0000000fffffe0ff0000000ffffff0ff0000000ffffff8ff0000000ffffffcff00000007fffffefe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe00000007fffffffe0000000000fffffe0000000000fffffe0000000001ffffff00000000003fffff00000003c00fff7f80000007fe07ff03c0000007ffe1df030000000fffffefff000003fffffff1ffffffffffffffff0e003fffffffffff000000000fffffff0000000003feffff0000000003f800000000000003fc0000ff00000001fc0000fffffc0003fe0000ffffffffffffd800ffffffffffffffff",
+    "avgColor": [
+      0.5529411764705883,
+      0.5764705882352941,
+      0.6235294117647059
+    ]
+  },
+  {
+    "id": "prod_098",
+    "name": "Kartell Masters Chair",
+    "category": "chairs",
+    "imageUrl": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=800&fit=crop&auto=format",
+    "hash": "000000007fffffff00000000ffffffff00000000ffffffff00000001ffffffff00000001ffffffff00000003ffffffff00000003ffffffff00000003ffffffff00000003ffffffff00000003ffffffff000000000fffffff00000000001fffff00000003ffdfffff00000003ffdfffff00000003ffdfffff00000003ffdfffff001bfe73ffdfffff001bfe73ffdfffff0013fe73ffdffff80013fff3ffdffff00010fff3ffdffff00010fff38fdffff000107ff307dfdff000003ff207d7bff000000ff207d3fff0000001f307c1bff0000000330fc1fff000000003ffdf7ff000000003ffd1fff0000000000011fff00000000001f1fff00000000003fbfff8003ff9ffffffffff003ff1ffffffffff000001fffffbffff000000fffffbffff000000fffffbffff000000ffffffff81000000fffe7fff0100000001803ff70100000001003ff4f9000000017ffff7ff000000017ffff7ff000000017ffff7ff000000013ffff7ff00000001fffff7ff00000001fff3f00000000031df33f0000000001c9fb3f600000000001fb3ffff0000000003b3ffff0000600007bfffff000060001fffffff00006000ffffffff000070ddffffffff0000f0f1ffffffff00006063ffffffff000000c3ffffffff000000c7ffffffe000000003fffffff000000183fffffff800000103fffffffc00000003fffffffc00000003ffffffff",
+    "avgColor": [
+      0.5882352941176471,
+      0.5529411764705883,
+      0.5019607843137255
+    ]
+  },
+  {
+    "id": "prod_099",
+    "name": "Ember Temperature Control Mug",
+    "category": "mugs",
+    "imageUrl": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=800&fit=crop&auto=format",
+    "hash": "000000000000000000000000000000000000000010000000000000003e000000000060003f800000000000853fbc8000000003ce77fe000000e007ff7ffd9f8003e013fbffffd70007ee1fffffffff00c67c1ffbfffdbf30fcf9fffd7fffffffd3fffff9ffffffff9fffffffffffffffffffff57ffffffff3ffffbf1ffffffff0001a00000ff30000007e00000fffc003c19f91000fe3c007c00fff007fc1fe03a00d0407fd6bfc00260f007fffeffc00077e007fff41dc00fe60007e7a005c00f80001f838006f0468c101fc7e002e00c00383fde3103f80e0cf8fffc00077cdaeffdffff0007fe7fefffffff03e7fcfbc7fffffe0ffffcf9e3ffff383bfff8f1b3ffdf6839fff8f8f1c3ce0c7ffffdfef90b8f3efffff8fc2a870e1efffff4fb86071a32fffff8fbdb8f1b53ffffe5230d6f1fbfdfffe601800f8fafcfffe000000f9ff7dffff000281e3fc21ffff0002e1811907fffe900240003f1fbfffe0018000281dfffde002000000183883000300000000100000020001800000000ffffffffffffffff7fffffffffffffff9fffffffffffff7f9fffffffffffff0f0ffffffffffffc0303f7fffffffffe0203f7ffffffffe200007fffff9fff800000f37fff874c000000e6fff607c80000006fdff800400000000087d0000000000000030080000000000000000000000000000000000000000000000000000000",
+    "avgColor": [
+      0.08627450980392157,
+      0.08627450980392157,
+      0.08627450980392157
+    ]
+  },
+  {
+    "id": "prod_100",
+    "name": "Hammerton Studio Task Lamp",
+    "category": "lamps",
+    "imageUrl": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=800&h=800&fit=crop&auto=format",
+    "hash": "00080080000000000a8800a000000000affff9e200000000efffffc000000000ffffffc000000000fffbffbc00000000ffffffc000000000ffffffe000000000fffffff0e0000000ffffffffe0000000ffffffffd6000000ffffffffff960000ffffffffffff0000ffffffffffffc000ffffffffffffa000ffffffffffffe500fffa000000000000ffff000000000000ffffc00000000000fffff40000000000ffffff0000000000ffffff0000000000fffffff000000000fffbfffc00000000ffffffff80000000fffffffff0000000fffffffffc000000ffffffffff800000ffffffffffb00000ffffffffffff0000ffffffffffff4000ffffffffffffc000fffff00000000000fffff80000000000fffffc0000000000ffffff0000000000ffffffc000000000ffffffe400000000fffffffc00000000ffffffffa0000000fffffffff4000000fffffffff8000000fffffffffc000000fffffffffc000000fffffffff8000000fffffffffc000000ffffffffff800000ffffffffff800000ffffffe000000000fffffff000000000fffffff000000000fffffff800000000fffffffe00000000fffffffe00000000ffffffff00000000ffffffff00000000ffffffff80000000ffffffffc0000000ffffffffe0000000ffffffffe0000000ffffffffe0000000ffffffffc0000000ffffffffc0000000ffffffffc0000000",
+    "avgColor": [
+      0.16862745098039217,
+      0.403921568627451,
+      0.42745098039215684
+    ]
+  }
+]

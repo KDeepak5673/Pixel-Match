@@ -2,7 +2,7 @@
 
 A modern, client-side web application that finds visually similar products using perceptual hashing technology. Upload an image or paste a URL to discover matching items from a curated product catalog.
 
-![Visual Product Matcher](https://img.shields.io/badge/React-19.1.1-blue) ![Vite](https://img.shields.io/badge/Vite-7.1.10-646CFF) ![ESLint](https://img.shields.io/badge/ESLint-9.36.0-4B32C3)
+![Visual Product Matcher](https://img.shields.io/badge/React-19.1.1-blue) ![Vite](https://img.shields.io/badge/Vite-7.1.10-646CFF) ![Client--Side](https://img.shields.io/badge/Client--Side-Only-green)
 
 ## ✨ Features
 
@@ -64,27 +64,34 @@ A modern, client-side web application that finds visually similar products using
 ## 🏗️ Project Structure
 
 ```
-client/
-├── public/
-│   └── vite.svg
-├── src/
-│   ├── components/
-│   │   └── ImageUploader.jsx     # Main application component
-│   ├── data/
-│   │   ├── precomputedhashes.json # Precomputed product hashes
-│   │   └── products.json          # Original product data
-│   ├── utils/
-│   │   ├── imageHash.js           # Perceptual hashing utilities
-│   │   └── productHasher.js       # Product loading utilities
-│   ├── App.css                    # Custom CSS styles
-│   ├── App.jsx                    # Root application component
-│   ├── index.css                  # Global styles
-│   └── main.jsx                   # Application entry point
-├── package.json
-└── README.md
+Pixel-Match/
+├── client/                          # React frontend application
+│   ├── public/
+│   │   └── vite.svg
+│   ├── src/
+│   │   ├── components/
+│   │   │   └── ImageUploader.jsx     # Main application component
+│   │   ├── data/
+│   │   │   ├── precomputedhashes.json # Precomputed product hashes
+│   │   │   └── products.json          # Original product data
+│   │   ├── utils/
+│   │   │   ├── imageHash.js           # Perceptual hashing utilities
+│   │   │   └── productHasher.js       # Product loading utilities
+│   │   ├── App.css                    # Custom CSS styles
+│   │   ├── App.jsx                    # Root application component
+│   │   ├── index.css                  # Global styles
+│   │   └── main.jsx                   # Application entry point
+│   ├── package.json
+│   └── README.md                      # Client-specific documentation
+└── README.md                          # Project overview
 ```
 
 ## 🛠️ Technical Details
+
+### Architecture
+- **100% Client-Side**: No server dependencies - everything runs in the browser
+- **Precomputed Hashes**: All product hashes are pre-generated and bundled
+- **Offline Capable**: Works without internet connection once loaded
 
 ### Perceptual Hashing
 - **Algorithm**: dHash (difference hash) - 64-bit perceptual hashing
@@ -96,6 +103,7 @@ client/
 - **Build Tool**: Vite 7.1.10 for fast development
 - **Styling**: Custom CSS with responsive design
 - **Code Quality**: ESLint with React-specific rules
+- **Image Processing**: HTML5 Canvas API for client-side hashing
 
 ### Browser Compatibility
 - Chrome 90+
@@ -143,6 +151,20 @@ npm run lint
 - **Memory Usage**: Optimized for 96+ products
 - **Bundle Size**: Minimal dependencies for fast loading
 
+## 🚀 Deployment
+
+The application is 100% client-side and can be deployed to any static hosting service:
+
+### Vercel/Netlify
+1. Build the application: `npm run build`
+2. Deploy the `dist` folder to Vercel, Netlify, or any static host
+3. No server configuration needed!
+
+### GitHub Pages
+1. Build the application: `npm run build`
+2. Use GitHub Actions to deploy the `dist` folder
+3. Configure the repository settings for GitHub Pages
+
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -161,6 +183,22 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **React Team**: For the amazing React framework
 - **Vite Team**: For the lightning-fast build tool
 - **dHash Algorithm**: For reliable perceptual hashing
+
+## 📝 Development Notes
+
+### Hash Generation
+The `precomputedhashes.json` file contains precomputed perceptual hashes for all products. To regenerate hashes:
+
+1. The original Node.js script was used to generate these hashes
+2. Images are processed using HTML5 Canvas API
+3. dHash algorithm creates 64-bit perceptual fingerprints
+4. Results are saved as JSON for instant loading
+
+### Architecture Evolution
+This project evolved from a server-dependent architecture to a fully client-side solution:
+- **Removed**: Node.js/Express backend, server-side image processing
+- **Added**: Client-side Canvas API hashing, precomputed data
+- **Benefits**: Offline capability, faster loading, no server costs
 
 ---
 

@@ -8,3 +8,6 @@
 
 # Build files
 /client/dist
+
+# Google Cloud Credentials
+/server/google-credentials.json

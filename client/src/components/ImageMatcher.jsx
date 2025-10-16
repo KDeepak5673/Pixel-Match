@@ -2,6 +2,12 @@ import React, { useState, useEffect } from 'react';
 import { hashImage, hammingDistance, calculateSimilarity } from '../utils/imageHash.js';
 import productsData from '../data/products.json';
 
+// Make functions and data available globally for hash update script
+if (typeof window !== 'undefined') {
+    window.imageHashUtils = { hashImage, hammingDistance, calculateSimilarity };
+    window.productsData = productsData;
+}
+
 export default function ImageMatcher() {
     const [file, setFile] = useState(null);
     const [preview, setPreview] = useState(null);
@@ -15,7 +21,23 @@ export default function ImageMatcher() {
 
     // Load products on component mount
     useEffect(() => {
+        console.log('🚀 ImageMatcher component mounted - testing changes');
         setProducts(productsData);
+
+        // Add alert when page is refreshed
+        const handleBeforeUnload = (e) => {
+            console.log('🔄 Page refresh detected');
+            e.preventDefault();
+            e.returnValue = 'Are you sure you want to refresh? Any unsaved changes will be lost.';
+            return 'Are you sure you want to refresh? Any unsaved changes will be lost.';
+        };
+
+        window.addEventListener('beforeunload', handleBeforeUnload);
+
+        // Cleanup
+        return () => {
+            window.removeEventListener('beforeunload', handleBeforeUnload);
+        };
     }, []);
 
     function onFileChange(e) {
@@ -111,6 +133,11 @@ export default function ImageMatcher() {
 
     return (
         <div className="min-h-screen bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-100 relative overflow-hidden">
+            {/* TEST ELEMENT - REMOVE AFTER TESTING */}
+            <div className="fixed top-0 left-0 right-0 bg-green-500 text-white text-center py-2 z-50 font-bold text-lg">
+                ✅ CHANGES APPLIED - REFRESH ALERT & RED BUTTON WORKING
+            </div>
+
             {/* Animated Background Elements */}
             <div className="absolute inset-0 overflow-hidden pointer-events-none">
                 <div className="absolute -top-40 -right-40 w-80 h-80 bg-gradient-to-br from-blue-400/20 to-purple-500/20 rounded-full blur-3xl animate-pulse"></div>
@@ -326,7 +353,7 @@ export default function ImageMatcher() {
                                 {/* Search Button */}
                                 <div className="relative group">
                                     <div className="absolute -inset-1 bg-gradient-to-r from-blue-600 to-purple-600 rounded-3xl blur opacity-25 group-hover:opacity-75 transition duration-300"></div>
-                                    <div className="relative flex gap-4">
+                                    <div className="relative flex flex-col sm:flex-row gap-4">
                                         <button
                                             onClick={handleSearch}
                                             disabled={loading || (!file && (!useUrl || !imageUrl))}
@@ -358,22 +385,22 @@ export default function ImageMatcher() {
                                         <button
                                             onClick={updatePrecomputedHashes}
                                             disabled={updatingHashes}
-                                            className="bg-white/95 backdrop-blur-sm hover:bg-white border-2 border-gray-200 hover:border-blue-400 rounded-3xl px-6 py-5 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105 disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center text-lg font-medium text-gray-700 hover:text-blue-700 disabled:text-gray-400 min-w-[200px]"
+                                            className="bg-red-500 hover:bg-red-600 border-2 border-red-600 hover:border-red-700 text-white font-bold py-5 px-8 rounded-3xl shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105 disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center text-lg w-full sm:w-auto sm:min-w-[200px]"
                                             title="Update Precomputed Hashes"
                                         >
                                             {updatingHashes ? (
                                                 <>
-                                                    <svg className="w-5 h-5 mr-3 text-blue-600 animate-spin" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                    <svg className="w-5 h-5 mr-3 text-white animate-spin" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
                                                     </svg>
-                                                    <span>Updating...</span>
+                                                    <span>UPDATING...</span>
                                                 </>
                                             ) : (
                                                 <>
-                                                    <svg className="w-5 h-5 mr-3 text-gray-600 hover:text-blue-600 transition-colors duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                    <svg className="w-5 h-5 mr-3 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
                                                     </svg>
-                                                    <span>Update Hashes</span>
+                                                    <span>UPDATE HASHES</span>
                                                 </>
                                             )}
                                         </button>

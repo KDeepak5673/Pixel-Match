@@ -12,6 +12,7 @@ export default function ImageMatcher() {
     const [imageUrl, setImageUrl] = useState("");
     const [useUrl, setUseUrl] = useState(false);
     const [products, setProducts] = useState([]);
+    const [updatingHashes, setUpdatingHashes] = useState(false);
 
     // Load products on component mount
     useEffect(() => {
@@ -27,6 +28,37 @@ export default function ImageMatcher() {
         } else {
             console.log('📦 Loaded products from static JSON:', productsData.length);
             setProducts(productsData);
+        }
+    }
+
+    async function updatePrecomputedHashes() {
+        setUpdatingHashes(true);
+        try {
+            const updatedProducts = [];
+            for (const product of productsData) {
+                try {
+                    const hash = await hashImage(product.imageUrl);
+                    updatedProducts.push({
+                        ...product,
+                        hash: hash
+                    });
+                } catch (error) {
+                    console.error(`Error hashing product ${product.id}:`, error);
+                    // Keep original hash if error occurs
+                    updatedProducts.push(product);
+                }
+            }
+
+            // Save to localStorage for future use
+            localStorage.setItem('precomputedProducts', JSON.stringify(updatedProducts));
+            setProducts(updatedProducts);
+
+            alert('Precomputed hashes updated successfully!');
+        } catch (error) {
+            console.error('Error updating hashes:', error);
+            alert('Error updating precomputed hashes: ' + error.message);
+        } finally {
+            setUpdatingHashes(false);
         }
     }
 
@@ -98,7 +130,32 @@ export default function ImageMatcher() {
         <div className="min-h-screen bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-100">
             <div className="container mx-auto px-4 py-8 max-w-7xl">
                 {/* Header */}
-                <div className="text-center mb-12">
+                <div className="text-center mb-12 relative">
+                    {/* Update Hashes Button */}
+                    <div className="absolute top-0 right-0">
+                        <button
+                            onClick={updatePrecomputedHashes}
+                            disabled={updatingHashes}
+                            className="bg-blue-500 hover:bg-blue-600 disabled:bg-gray-400 text-white text-sm font-medium py-2 px-4 rounded-lg shadow-md hover:shadow-lg transition-all duration-200 disabled:cursor-not-allowed flex items-center space-x-2"
+                            title="Update Precomputed Hashes"
+                        >
+                            {updatingHashes ? (
+                                <>
+                                    <svg className="w-4 h-4 animate-spin" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+                                    </svg>
+                                    <span>Updating...</span>
+                                </>
+                            ) : (
+                                <>
+                                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+                                    </svg>
+                                    <span>Update Hashes</span>
+                                </>
+                            )}
+                        </button>
+                    </div>
                     <div className="inline-flex items-center justify-center w-16 h-16 bg-gradient-to-r from-blue-600 to-purple-600 rounded-2xl mb-6 shadow-lg">
                         <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />

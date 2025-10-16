@@ -11,6 +11,7 @@ export default function ImageMatcher() {
     const [imageUrl, setImageUrl] = useState("");
     const [useUrl, setUseUrl] = useState(false);
     const [products, setProducts] = useState([]);
+    const [updatingHashes, setUpdatingHashes] = useState(false);
 
     // Load products on component mount
     useEffect(() => {
@@ -81,6 +82,33 @@ export default function ImageMatcher() {
         }
     }
 
+    async function updatePrecomputedHashes() {
+        setUpdatingHashes(true);
+        try {
+            const updatedProducts = [];
+            for (const product of productsData) {
+                try {
+                    const hash = await hashImage(product.imageUrl);
+                    updatedProducts.push({
+                        ...product,
+                        hash: hash
+                    });
+                } catch (error) {
+                    console.error(`Error hashing product ${product.id}:`, error);
+                    // Keep original hash if error occurs
+                    updatedProducts.push(product);
+                }
+            }
+            setProducts(updatedProducts);
+            alert('Precomputed hashes updated successfully!');
+        } catch (error) {
+            console.error('Error updating hashes:', error);
+            alert('Error updating precomputed hashes: ' + error.message);
+        } finally {
+            setUpdatingHashes(false);
+        }
+    }
+
     return (
         <div className="min-h-screen bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-100 relative overflow-hidden">
             {/* Animated Background Elements */}
@@ -114,6 +142,8 @@ export default function ImageMatcher() {
             <div className="container mx-auto px-4 py-8 max-w-7xl relative z-10">
                 {/* Header */}
                 <div className="text-center mb-16 relative">
+
+                    {/* Glow Effect Behind Logo */}
                     {/* Glow Effect Behind Logo */}
                     <div className="absolute inset-0 flex items-center justify-center">
                         <div className="w-32 h-32 bg-gradient-to-r from-blue-400/20 to-purple-500/20 rounded-full blur-xl animate-pulse"></div>
@@ -178,8 +208,8 @@ export default function ImageMatcher() {
                                             <button
                                                 onClick={() => { setUseUrl(false); setImageUrl(""); setPreview(null); setFile(null); }}
                                                 className={`group relative p-5 rounded-2xl border-2 transition-all duration-300 transform hover:scale-105 ${!useUrl
-                                                        ? 'border-blue-500 bg-gradient-to-br from-blue-50 to-blue-100 text-blue-700 shadow-lg shadow-blue-500/25'
-                                                        : 'border-gray-200 bg-white/80 text-gray-600 hover:border-blue-300 hover:shadow-md backdrop-blur-sm'
+                                                    ? 'border-blue-500 bg-gradient-to-br from-blue-50 to-blue-100 text-blue-700 shadow-lg shadow-blue-500/25'
+                                                    : 'border-gray-200 bg-white/80 text-gray-600 hover:border-blue-300 hover:shadow-md backdrop-blur-sm'
                                                     }`}
                                             >
                                                 <div className="absolute inset-0 bg-gradient-to-br from-blue-500/10 to-purple-500/10 rounded-2xl opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
@@ -200,8 +230,8 @@ export default function ImageMatcher() {
                                             <button
                                                 onClick={() => { setUseUrl(true); setFile(null); setPreview(null); }}
                                                 className={`group relative p-5 rounded-2xl border-2 transition-all duration-300 transform hover:scale-105 ${useUrl
-                                                        ? 'border-purple-500 bg-gradient-to-br from-purple-50 to-purple-100 text-purple-700 shadow-lg shadow-purple-500/25'
-                                                        : 'border-gray-200 bg-white/80 text-gray-600 hover:border-purple-300 hover:shadow-md backdrop-blur-sm'
+                                                    ? 'border-purple-500 bg-gradient-to-br from-purple-50 to-purple-100 text-purple-700 shadow-lg shadow-purple-500/25'
+                                                    : 'border-gray-200 bg-white/80 text-gray-600 hover:border-purple-300 hover:shadow-md backdrop-blur-sm'
                                                     }`}
                                             >
                                                 <div className="absolute inset-0 bg-gradient-to-br from-purple-500/10 to-pink-500/10 rounded-2xl opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
@@ -296,32 +326,58 @@ export default function ImageMatcher() {
                                 {/* Search Button */}
                                 <div className="relative group">
                                     <div className="absolute -inset-1 bg-gradient-to-r from-blue-600 to-purple-600 rounded-3xl blur opacity-25 group-hover:opacity-75 transition duration-300"></div>
-                                    <button
-                                        onClick={handleSearch}
-                                        disabled={loading || (!file && (!useUrl || !imageUrl))}
-                                        className="relative w-full bg-gradient-to-r from-blue-600 via-blue-700 to-purple-700 hover:from-blue-700 hover:via-blue-800 hover:to-purple-800 disabled:from-gray-400 disabled:via-gray-500 disabled:to-gray-600 text-white font-bold py-5 px-8 rounded-3xl transition-all duration-300 transform hover:scale-105 disabled:hover:scale-100 shadow-xl hover:shadow-2xl hover:shadow-blue-500/25 flex items-center justify-center text-lg group overflow-hidden"
-                                    >
-                                        <div className="absolute inset-0 bg-gradient-to-r from-white/0 via-white/10 to-white/0 translate-x-[-100%] group-hover:translate-x-[100%] transition-transform duration-700"></div>
-                                        {loading ? (
-                                            <>
-                                                <svg className="animate-spin -ml-1 mr-4 h-7 w-7 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
-                                                    <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
-                                                    <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
-                                                </svg>
-                                                <span className="relative z-10">Analyzing Image...</span>
-                                            </>
-                                        ) : (
-                                            <>
-                                                <svg className="w-7 h-7 mr-4 relative z-10" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-                                                </svg>
-                                                <span className="relative z-10">Find Similar Products</span>
-                                                <svg className="w-5 h-5 ml-3 relative z-10 group-hover:translate-x-1 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
-                                                </svg>
-                                            </>
-                                        )}
-                                    </button>
+                                    <div className="relative flex gap-4">
+                                        <button
+                                            onClick={handleSearch}
+                                            disabled={loading || (!file && (!useUrl || !imageUrl))}
+                                            className="flex-1 bg-gradient-to-r from-blue-600 via-blue-700 to-purple-700 hover:from-blue-700 hover:via-blue-800 hover:to-purple-800 disabled:from-gray-400 disabled:via-gray-500 disabled:to-gray-600 text-white font-bold py-5 px-8 rounded-3xl transition-all duration-300 transform hover:scale-105 disabled:hover:scale-100 shadow-xl hover:shadow-2xl hover:shadow-blue-500/25 flex items-center justify-center text-lg group overflow-hidden"
+                                        >
+                                            <div className="absolute inset-0 bg-gradient-to-r from-white/0 via-white/10 to-white/0 translate-x-[-100%] group-hover:translate-x-[100%] transition-transform duration-700"></div>
+                                            {loading ? (
+                                                <>
+                                                    <svg className="animate-spin -ml-1 mr-4 h-7 w-7 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                                                        <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                                                        <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                                                    </svg>
+                                                    <span className="relative z-10">Analyzing Image...</span>
+                                                </>
+                                            ) : (
+                                                <>
+                                                    <svg className="w-7 h-7 mr-4 relative z-10" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                                                    </svg>
+                                                    <span className="relative z-10">Find Similar Products</span>
+                                                    <svg className="w-5 h-5 ml-3 relative z-10 group-hover:translate-x-1 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
+                                                    </svg>
+                                                </>
+                                            )}
+                                        </button>
+
+                                        {/* Update Hashes Button - Beside Find Similar Products */}
+                                        <button
+                                            onClick={updatePrecomputedHashes}
+                                            disabled={updatingHashes}
+                                            className="bg-white/95 backdrop-blur-sm hover:bg-white border-2 border-gray-200 hover:border-blue-400 rounded-3xl px-6 py-5 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105 disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center text-lg font-medium text-gray-700 hover:text-blue-700 disabled:text-gray-400 min-w-[200px]"
+                                            title="Update Precomputed Hashes"
+                                        >
+                                            {updatingHashes ? (
+                                                <>
+                                                    <svg className="w-5 h-5 mr-3 text-blue-600 animate-spin" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+                                                    </svg>
+                                                    <span>Updating...</span>
+                                                </>
+                                            ) : (
+                                                <>
+                                                    <svg className="w-5 h-5 mr-3 text-gray-600 hover:text-blue-600 transition-colors duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+                                                    </svg>
+                                                    <span>Update Hashes</span>
+                                                </>
+                                            )}
+                                        </button>
+                                    </div>
                                 </div>
                             </div>
 
